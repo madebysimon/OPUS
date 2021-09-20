@@ -13,16 +13,12 @@ This is not wikipedia. Here you will find memes and scientific method, definitio
 3. while some content is of my own, in other cases I am merely something of a collector/curator/publisher.
 
 **Please cite and give credit** to any given sources or - if none are provided - link back to this page. <br>
-
-- click the 🔗 next to a header before sharing a page to link directly to it
-- if you ever wish to return to this page, click the logo to your upper left
-- hmu [on twitter](https://twitter.com/sjkelch) to collaborate
-
 <br>
 
 ##### now go, explore 🕊
 If you already know what you're looking for, search is the way to go. <br>
-For everyone "just browsing" I recommend the 📚 collections linked in the menu.
+For everyone "just browsing" I recommend the 📚 collections linked in the menu. <br>
+If you ever wish to return to this page, click the logo to your upper left. <br>
 
 Yours <br><br>
 **Simon** <br>
