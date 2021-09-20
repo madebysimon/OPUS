@@ -1,5 +1,6 @@
 ---
 nav_exclude: true
+title: Home
 ---
 
 # 👋🏼 Welcome to OPUS
@@ -17,19 +18,19 @@ While most content on here is of my own, in other cases I am merely something of
 - if you ever wish to return to this page, click the logo to your upper left
 <br>
 
-##### you're ready to go, explore 🕊
+##### now go, explore 🕊
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the 📚 collections linked in the menu.
-
-[feeling lucky](/A){: .btn }
-[do something](/B){: .btn .btn-purple }
 
 Yours <br><br>
 **Simon** <br>
 CX @maiahealth
 
+
+[buy me a ☕️](/doc/coffee){: .btn }
 ---
+
 PS: <br>
-We take your privacy serious (as in: by actually doing it ). <br>
+We take your **privacy** serious (as in: by actually doing it ). <br>
 This page **does not track** your visit (not a single cookie). <br>
 Also.. **no ads**. We hate them as much as you do.
