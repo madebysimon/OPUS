@@ -8,8 +8,7 @@ nav_exclude: true
 I grew tired of my lecture notes sitting dead on their hard drive so I started revisiting and interconnecting them.
 With this page I am sharing access to them with you. Maybe we can get some good use out of them together.
 
-This is not wikipedia. <br>
-Here you will find coexistence of memes and scientific method, definitions and concepts, sometimes even opinion or pure speculation. This comes with a catch:<br>
+This is not wikipedia. Here you will find coexistence of memes and scientific method, definitions and concepts, sometimes even opinion or pure speculation. This comes with a catch:<br>
 While most content on here is of my own, in other cases I am merely something of a collector/curator/publisher. <br>
 **Please cite and give credit** to any given sources or - if none are provided - link back to this page.
 
