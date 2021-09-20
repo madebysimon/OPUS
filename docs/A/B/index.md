@@ -2,12 +2,10 @@
 layout: default
 title: Test
 nav_order: 1
-nav_exclude: false
-has_children: true
 parent: A
+has_children: true
 has_toc: true
 ---
-
 
  this is the parent page - see frontmatter
 

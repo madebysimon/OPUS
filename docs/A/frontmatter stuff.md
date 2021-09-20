@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Test
+title: Frontmatter Stuff
 nav_order: 2
-nav_exclude: false
 parent: A
-has_toc: false
 ---
 
 # Test One
@@ -21,3 +19,12 @@ aux_links:
 # Navigation Structure
 {: .no_toc }
 This heading does not show up in TOC
+
+
+
+layout: default
+title: Frontmatter Stuff
+nav_order: 2
+nav_exclude: true
+parent: A
+has_toc: false

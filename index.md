@@ -1,5 +1,6 @@
 ---
 title: home
+nav_exclude: true
 ---
 
 Stuff typed here
