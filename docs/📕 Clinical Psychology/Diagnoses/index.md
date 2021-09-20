@@ -1,21 +1,13 @@
 ---
 layout: default
-title: 📕 Diagnoses
+title: Diagnoses
 nav_order: 1
+parent: 📕 Clinical Psychology
 has_children: true
 has_toc: true
 ---
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
-
- this is the parent page - see frontmatter
+this is the parent page - see frontmatter
 
 # hello world
 Welcome to my first note

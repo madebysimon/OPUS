@@ -2,7 +2,7 @@
 layout: default
 title: Frontmatter Stuff
 nav_order: 2
-parent: A
+parent: 📕 Clinical Psychology
 ---
 
 # Test One

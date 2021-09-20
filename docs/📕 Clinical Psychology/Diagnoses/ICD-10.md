@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Test 2
+title: ICD-10
 nav_order: 2
-parent: B
-grand_parent: A
+parent: Diagnoses
+grand_parent: 📕 Clinical Psychology
 ---
 
 # Test Two
