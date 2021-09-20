@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: B
 nav_order: 1
 parent: A
 has_children: true
