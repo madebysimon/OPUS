@@ -4,7 +4,7 @@ nav_exclude: true
 
 # 👋🏼 Welcome to OPUS
 
-### what this is all about
+#### what this is all about
 I grew tired of my lecture notes sitting dead on their hard drive so I started revisiting and interconnecting them.
 With this page I am sharing access to them with you. Maybe we can get some good use out of them together.
 
@@ -17,7 +17,7 @@ While most content on here is of my own, in other cases I am merely something of
 - click the 🔗 next to a header before sharing a page to link directly to it
 - if you ever wish to return to this page, click the logo to your upper left
 
-### your're free to go, explore
+#### you're ready to go, explore 🕊
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the 📚 collections linked in the menu.
 
