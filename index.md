@@ -10,13 +10,14 @@ I grew tired of my lecture notes sitting dead on their hard drive, so I started 
 This is not wikipedia. Here you will find memes and scientific method, definitions and concepts, sometimes personal opinion or even pure speculation. This comes with a catch:<br>
 1. they're 90% german (entschuldigung)
 2. what I hold to be true may not in fact be true
-3. while some content is of my own, in other cases I am merely something of a collector/curator/publisher. <br>
-**Please cite and give credit** to any given sources or - if none are provided - link back to this page.
+3. while some content is of my own, in other cases I am merely something of a collector/curator/publisher.
 
-If you can prove anything wrong, [let's collaborate →](https://twitter.com/sjkelch).
+**Please cite and give credit** to any given sources or - if none are provided - link back to this page. <br>
 
 - click the 🔗 next to a header before sharing a page to link directly to it
 - if you ever wish to return to this page, click the logo to your upper left
+- hmu [on twitter](https://twitter.com/sjkelch) to collaborate
+
 <br>
 
 ##### now go, explore 🕊
@@ -27,12 +28,11 @@ Yours <br><br>
 **Simon** <br>
 CX @maiahealth
 
----
-
 PS: <br>
 We take your **privacy** serious (as in: by actually doing it). <br>
 This page **does not track** your visit - not a single cookie. <br>
 Also.. **no ads**. We hate them as much as you do.
+
 
 <span class="fs-3">
 [buy me a ☕️](/doc/coffee){: .btn }
