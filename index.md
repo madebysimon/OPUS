@@ -26,11 +26,13 @@ Yours <br><br>
 **Simon** <br>
 CX @maiahealth
 
-
-[buy me a ☕️](/doc/coffee){: .btn }
 ---
 
 PS: <br>
 We take your **privacy** serious (as in: by actually doing it ). <br>
 This page **does not track** your visit (not a single cookie). <br>
 Also.. **no ads**. We hate them as much as you do.
+
+<span class="fs-3">
+[buy me a ☕️](/doc/coffee){: .btn }
+</span>
