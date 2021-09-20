@@ -3,7 +3,7 @@ layout: default
 title: Test
 nav_order: 2
 nav_exclude: false
-parent: Parent One
+parent: A
 has_toc: false
 ---
 

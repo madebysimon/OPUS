@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Test
+title: Test 2
 nav_order: 2
 nav_exclude: false
-parent: Grandchild
-grand_parent: Parent One
+parent: B
+grand_parent: A
 has_toc: false
 ---
 
-# Test One
+# Test Two
 blablabla
 
 This is a child-page (see frontmatter "parent")

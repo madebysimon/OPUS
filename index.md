@@ -1,5 +1,6 @@
-index.md
-
+---
+title: home
+---
 
 Stuff typed here
 # heading

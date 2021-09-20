@@ -4,7 +4,7 @@ title: Test
 nav_order: 1
 nav_exclude: false
 has_children: true
-parent: Parent One
+parent: A
 has_toc: true
 ---
 
