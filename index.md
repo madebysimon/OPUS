@@ -2,12 +2,10 @@
 nav_exclude: true
 title: Home
 ---
-
 # 👋🏼 Welcome to OPUS
 
 ##### what this is all about
-I grew tired of my lecture notes sitting dead on their hard drive so I started revisiting and interconnecting them.
-With this page I am sharing access to them with you. Maybe we can get some good use out of them together.
+I grew tired of my lecture notes sitting dead on their hard drive, so I started revisiting and interconnecting them to this knowledge base. With this website I am sharing access to this resource with you. Maybe we can get some good use out of it together.
 
 This is not wikipedia. Here you will find memes and scientific method, definitions and concepts, sometimes personal opinion or even pure speculation. This comes with a catch:<br>
 1. they're 90% german (entschuldigung)
@@ -15,6 +13,7 @@ This is not wikipedia. Here you will find memes and scientific method, definitio
 3. while some content is of my own, in other cases I am merely something of a collector/curator/publisher. <br>
 **Please cite and give credit** to any given sources or - if none are provided - link back to this page.
 
+If you can prove anything wrong, [let's collaborate →](https://twitter.com/sjkelch).
 
 - click the 🔗 next to a header before sharing a page to link directly to it
 - if you ever wish to return to this page, click the logo to your upper left
@@ -31,7 +30,7 @@ CX @maiahealth
 ---
 
 PS: <br>
-We take your **privacy** serious (as in: by actually doing it. <br>
+We take your **privacy** serious (as in: by actually doing it). <br>
 This page **does not track** your visit - not a single cookie. <br>
 Also.. **no ads**. We hate them as much as you do.
 

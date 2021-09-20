@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Diagnoses
+title: Diagnostics
 nav_order: 1
 parent: 📕 Clinical Psychology
 has_children: true

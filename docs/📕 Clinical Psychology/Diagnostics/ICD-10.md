@@ -2,7 +2,7 @@
 layout: default
 title: ICD-10
 nav_order: 2
-parent: Diagnoses
+parent: Diagnostics
 grand_parent: 📕 Clinical Psychology
 ---
 
