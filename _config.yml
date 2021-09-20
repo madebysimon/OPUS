@@ -34,7 +34,7 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "LinkedIn":
+  "LinkedIn →":
     - "//linkedin.com/in/simonkelch/"
 
 # Makes Aux links open in a new tab. Default is false
