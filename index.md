@@ -2,19 +2,14 @@
 nav_exclude: true
 title: HomeEN
 ---
-# 🚧 under construction
+# 👋🏼 Welcome to OPUS
 {: .fs-9 }
-
-come back later or visit the site 👷
+🚧 This site is still under construction<br>
+You're free to sneak around (or come back later to see progress) on the site.
 {: .fs-6 .fw-300 }
 
 [Get started now](#-welcome-to-opus){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [English](/enEN/About){: .btn .fs-5 .mb-4 .mb-md-0 }
 ---
-
-
-
-
-# 👋🏼 Welcome to OPUS
 
 ##### what this is all about
 I grew tired of my lecture notes sitting dead on their hard drive, so I started revisiting and interconnecting them to this knowledge base. With this website I am sharing access to this resource with you. Maybe we can get some good use out of it together.
