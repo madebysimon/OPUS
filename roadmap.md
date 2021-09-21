@@ -3,7 +3,7 @@ title: Roadmap
 ---
 
 1. Imprint / Impressum
-2. #bts fix embedded files
+2. fix embedded files
 3. enable file access
 
 <span class="fs-3">

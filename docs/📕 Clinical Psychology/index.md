@@ -76,7 +76,7 @@ this is code
 
 ---
 
-Default label
+#bts
 {: .label }
 
 Blue label
