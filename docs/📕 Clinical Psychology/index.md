@@ -5,6 +5,8 @@ nav_order: 1
 has_children: true
 has_toc: true
 ---
+# Clinical Psychology
+
 <details open markdown="block">
   <summary>
     Table of contents
