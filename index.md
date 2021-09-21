@@ -1,10 +1,18 @@
 ---
 nav_exclude: true
-title: Home
+title: HomeEN
+---
+# 🚧 under construction
+{: .fs-9 }
+
+come back later or visit the site 👷
+{: .fs-6 .fw-300 }
+
+[Get started now](# 👋🏼 Welcome to OPUS){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [German](#deDE/About){: .btn .fs-5 .mb-4 .mb-md-0 }
 ---
 
-## 🚧 under construction
-come back later or visit the site 👷
+
+
 
 # 👋🏼 Welcome to OPUS
 
