@@ -5,12 +5,13 @@ title: HomeEN
 # 👋🏼 Welcome to OPUS
 {: .fs-9 }
 🚧 This site is still under construction<br>
-You're free to sneak around (or come back later).<br>
+Feel free to sneak around (or come back later).<br>
 Beware content and links may change during this period.
 {: .fs-6 .fw-300 }
 
-[Get started](#-welcome-to-opus){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started](#now-go-explore-){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [What is this](/About){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 ##### what this is all about
@@ -21,8 +22,7 @@ This is not wikipedia. Here you will find memes and scientific method, definitio
 2. what I hold to be true may not in fact be true
 3. while some content is of my own, in other cases I am merely something of a collector / curator
 
-**Please cite and give credit** to any given sources or - if none are provided - link back to the article. <br>
-[provide sources here →](/doc/feedback)
+**Please cite and give credit** to any given sources or - if none are provided - link back to the article.  [help provide sources →](/doc/feedback)
 <br>
 
 ##### now go, explore 🕊
