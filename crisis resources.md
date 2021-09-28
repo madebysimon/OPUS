@@ -6,34 +6,71 @@ title: 🆘 Crisis Resources
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br>
 > Additional crisis resources can be found below.
 
-
-## Regional
 > Do not drive. Go by cab, money is refunded by most insurance companies
-> - Taxi.de [website ↗](//www.taxi.de/bestellen/hamburg/)
-> - FreeNow / myTaxi [App ↗](//free-now.com/de/)
-> - Hansa-Taxi [✆ 221 221 ↗](tel: 004940221221) (local to Hamburg)
-> - TaxiHamburg [✆ 66 66 66 ↗](tel: 0049666666) (local to Hamburg)
+> - [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/)
+> -  [FreeNow / myTaxi (App) ↗](//free-now.com/de/)
+> local to Hamburg:
+> - Hansa-Taxi [✆ 221 221](tel: 004940221221)
+> - TaxiHamburg [✆ 66 66 66](tel: 0049666666)
 
-### Points of contact
-Anlaufstellen
+### Regional points of contact
 
-[psychiatric hospitals / emergency rooms](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/
-) in Hamburg 
+list of [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) in Hamburg
+
+Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE), 0–24 Uhr: 040 741035000
 
 find a [support group ↗](https://www.kiss-hh.de)
 
-Ressourcen zur Überbrückung
+https://www.hamburg.de/drogenberatung-suchthilfe/
+
+## Lifelines and phone numbers
+
+| Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
+| Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
+
+Apotheken-Notdienstfinder                            040 22833 oder 0800 00 22833 (freecall) 
+
+Gift-Notruf 
+GIZ-Nord 0551 19240
+
+Notruf Gewalt gegen Frauen 
+Notruf für vergewaltigte Frauen und Mädchen                       040 255566
+
+Hilfetelefon Gewalt gegen Frauen                                           0800 116016 (freecall) 
+
+Autonome Hamburger Frauenhäuser Notruf  (0–24 Uhr)      040  800041000 oder fax 040 8000410019
 
 
-## German Lifelines and Numbers
+Notruf Gewalt und Notlagen gegen Mädchen oder Jungen 
+Kinder- und Jugendnotdienst                              040 428 15 32 00
 
-| Telefonseelsorge (24/7 & free of charge ) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
-| Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [0800 111 0 333](tel: 08001110333) |
+Mädchenhaus                                                      040 428 15 32 71
 
 
-| National Suicide Prevention Lifeline | |
+Opfer-Telefon Weisser Ring                                                        116006 (freecall) 
+
+
+Notruffax für hör- und sprechbehinderte Menschen:
+Feuerwehr: 112
+Polizei: 110
+Schreibtelefon der Rettungsdienste: 040 19296
+
+Anwaltlicher Notfalldienst                                                           0171 6105949
+
+
+Notfalldienste Suchterkrankungen 
+Drogeninformationstelefon der Jugendhilfe                          040 28051107 (8–20 Uhr) und (040) 2803204 (20–8 Uhr) 
+
+Ambulanz für Suchtkranke der Asklepios Klinik Nord  (Haus 32 EG),        040 1818872524
+
+Anonyme Alkoholiker, Saarlandstraße 9, 22303 Hamburg                        040 19295
+Anonyme Spieler                                                                                       040 2099009
+
+
+
+| Suicide Prevention Lifeline | 112 |
 | Crisis Text Line | |
-| Poison Control Center | | 
+| Poison Control Center / Giftnotruf | https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html | 
 | National Domestic Violence Hotline | | 
 | National Sexual Assault Hotline | | 
 | Alcoholism & Drug Dependence Hopeline | |
