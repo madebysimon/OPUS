@@ -22,10 +22,11 @@ title: 🆘 Crisis Resources
 > - TaxiHamburg [✆ 66 66 66 ↗](tel: 0049666666)
 
 ## German Lifelines and Numbers
-| Telefonseelsorge (24/7 & free of charge ) |  [0800 111 0 111](tel: 08001110111) or [0800 111 0 222](tel: 08001110222) or [116 123](tel: 116123) | [online chat ↗](//online.telefonseelsorge.de/) |
+
+| Telefonseelsorge (24/7 & free of charge ) |  [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) | [online chat ↗](//online.telefonseelsorge.de/) |
 | --- | --- | --- |
-| Nummer gegen Kummer – Hotline (adults) | 0800 111 0 550 | | 
-| Nummer gegen Kummer – Hotline (children) | 0800 111 0 333 | |
+| Nummer gegen Kummer – Hotline (adults) | 0800 111 0 550 |  | 
+| Nummer gegen Kummer – Hotline (children) | 0800 111 0 333 |  |
 
 
 National Suicide Prevention Lifeline
