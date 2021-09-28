@@ -6,31 +6,23 @@ title: 🆘 Crisis Resources
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel:) now (link inactive) or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme).** <br>
 > Additional crisis resources can be found below.
 
-## feeling suicidal?
-- place a [distress call to ✆ 112 now ↗](tel:) (link inactive)
-
-> 1. say your location
-> 2. say "I am suicidal"
-> 3. say your name
-> 4. follow instructions
-
-
 > Do not drive. Go by cab, money is refunded by most insurance companies
 > - Taxi.de [website ↗](//www.taxi.de/bestellen/hamburg/)
 > - FreeNow / myTaxi [App ↗](//free-now.com/de/)
 > - Hansa-Taxi [✆ 221 221 ↗](tel: 004940221221)
 > - TaxiHamburg [✆ 66 66 66 ↗](tel: 0049666666)
 
-## German Lifelines and Numbers
+## Lifelines and Numbers
 
-| Telefonseelsorge (24/7 & free of charge ) |  [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) | [online chat ↗](//online.telefonseelsorge.de/) |
+| Telefonseelsorge (24/7 & free of charge ) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) | [online chat ↗](//online.telefonseelsorge.de/) |
 | --- | --- | --- |
 | Nummer gegen Kummer – Hotline (adults) | 0800 111 0 550 |  | 
 | Nummer gegen Kummer – Hotline (children) | 0800 111 0 333 |  |
 
-
-National Suicide Prevention Lifeline
-Crisis Text Line
+| Service | Number |
+| --- | --- |
+| National Suicide Prevention Lifeline | |
+| Crisis Text Line | |
 
 Poison Control Center
 National Domestic Violence Hotline
