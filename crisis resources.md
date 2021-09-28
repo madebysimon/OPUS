@@ -45,104 +45,133 @@ Ressourcen zur Überbrückung
 ---
 
 # International
-[🇺🇸](/crisis%20resources.html#usa)
+A
 [🇦🇺](/crisis%20resources.html#australia)
-[🇦🇹](/crisis%20resources.html#Österreich)
-[🇧🇪](/crisis%20resources.html#Belgien)
-[🇧🇷🇵🇹](/crisis%20resources.html#brasil--portugal)
-[🇨🇦](/crisis%20resources.html#Kanada)
-[🇨🇿](/crisis%20resources.html#Tschechische Republik)
-[🇩🇰](/crisis%20resources.html#Dänemark)
-[🇫🇮](/crisis%20resources.html#Finnland)
-[🇫🇷](/crisis%20resources.html#Frankreich)
-[🇬🇷](/crisis%20resources.html#Griechenland)
+[🇦🇹](/crisis%20resources.html#Österreich--Austria)
+
+
+B
+[🇧🇪](/crisis%20resources.html#belgium)
+[🇧🇷/🇵🇹](/crisis%20resources.html#brasil--portugal)
+
+C
+[🇨🇦](/crisis%20resources.html#Canada--Kanada)
+[🇨🇿](/crisis%20resources.html#Česká--Tschechien--Czech Republic)
+
+D
+[🇩🇰](/crisis%20resources.html#Danmark--Dänemark--Denmark)
+
+E
+
+F
+[🇫🇷](/crisis%20resources.html#France--Frankreich)
+[🇫🇮](/crisis%20resources.html#Suomi--Finnland)
+
+G
+[🇬🇷](/crisis%20resources.html#Ελλάδα--Griechenland--Greece)
+
+H
 [🇭🇰](/crisis%20resources.html#Hongkong)
-[🇭🇺](/crisis%20resources.html#Ungarn)
-[🇮🇳](/crisis%20resources.html#Indien)
-[🇮🇱](/crisis%20resources.html#Israel)
-[🇮🇹](/crisis%20resources.html#Italien)
-[🇱🇻](/crisis%20resources.html#Lettland)
-[🇱🇹](/crisis%20resources.html#Litauen)
-[🇱🇺](/crisis%20resources.html#Luxemburg)
-[🇲🇽](/crisis%20resources.html#Mexiko)
-[🇳🇱](/crisis%20resources.html#Niederlande)
-[🇳🇿](/crisis%20resources.html#Neuseeland)
-[🇳🇴](/crisis%20resources.html#Norwegen)
-[🇵🇱](/crisis%20resources.html#Polen)
-[🇷🇸](/crisis%20resources.html#Serbien)
-[🇸🇬](/crisis%20resources.html#Singapur)
-[🇿🇦](/crisis%20resources.html#Südafrika)
-[🇰🇷](/crisis%20resources.html#Südkorea)
-[🇪🇸](/crisis%20resources.html#Spanien)
-[🇸🇪](/crisis%20resources.html#Schweden)
-[🇨🇭](/crisis%20resources.html#Schweiz)
-[🇹🇼](/crisis%20resources.html#Taiwan)
-[🇬🇧🇮🇪](/crisis%20resources.html#Vereinigtes Königreich/Irland)
-[not listed? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
+[🇭🇺](/crisis%20resources.html#Magyarország--Ungarn--Hungary)
 
+I
+[🇮🇳](/crisis%20resources.html#भारत--Indien--India)
+[🇮🇱](/crisis%20resources.html#ישראל--Israel)
+[🇮🇹](/crisis%20resources.html#Italia--Italien--Italy)
+[🇮🇪](/crisis%20resources.html#Ireland--Irland)
 
-## USA
-National Suicide Prevention Lifeline 
-http://www.suicidepreventionlifeline.org
-Telefon: 1 800 273 TALK (8255)
+J
+K
 
-Lifeline Crisis Chat 
-http://www.suicidepreventionlifeline.org/gethelp/lifelinechat.aspx
+L
+[🇱🇻](/crisis%20resources.html#Latvija--Lettland--Latvia)
+[🇱🇹](/crisis%20resources.html#Lietuva--Litauen--Lithuania)
+[🇱🇺](/crisis%20resources.html#Lëtzebuerg--Luxemburg--Luxembourg)
 
-Veterans/Military Crisis Line (für aktive Angehörige, Veteranen und Familienmitglieder der US-Streitkräfte) 
-http://www.veteranscrisisline.net
-Telefon: 1 800 273 8255, 1 drücken 
-SMS: 838255
+M
+[🇲🇽](/crisis%20resources.html#México--Mexiko)
 
-The Trevor Project (für Jugendliche, Freunde und Familienmitglieder der LGBT-Gemeinschaft) 
-http://www.thetrevorproject.org
-Telefon: 1 866 488 73865
+N
+[🇳🇱](/crisis%20resources.html#Nederland--Niederlande--The Netherlands)
+[🇳🇿](/crisis%20resources.html#New Zealand--Neuseeland)
+[🇳🇴](/crisis%20resources.html#Norge--Norwegen--Norway)
 
+P
+[🇵🇱](/crisis%20resources.html#Polska--Polen--Poland)
+
+Q
+R
+
+S
+[🇷🇸](/crisis%20resources.html#Србија--Serbien--Serbia)
+[🇸🇬](/crisis%20resources.html#新加坡--Singapur--Singapore)
+[🇿🇦](/crisis%20resources.html#Suid Afrika--Südafrika--South Africa)
+[🇰🇷](/crisis%20resources.html#한국--Südkorea--South Korea)
+[🇪🇸](/crisis%20resources.html#España--Spanien--Spain)
+[🇸🇪](/crisis%20resources.html#Sverige--Schweden--Sweden)
+[🇨🇭](/crisis%20resources.html#Suisse--Schweiz--Switzerland)
+
+T
+[🇹🇼](/crisis%20resources.html#臺灣--台湾--Taiwan)
+
+U
+[🇺🇸](/crisis%20resources.html#United States--Vereinigte Staaten)
+[🇬🇧](/crisis%20resources.html#United Kingdom--Vereinigtes Königreich)
+
+V
+W
+X
+Y
+Z
+
+[unlisted? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
+
+افغانستان / Afghanistan
+Türkiye / Türkei / Turkey
+
+## United States
+United States of America / Vereinigte Staaten von Amerika
+
+| National Suicide Prevention Lifeline | http://www.suicidepreventionlifeline.org | Tel: 1 800 273 TALK (8255) |
+| Lifeline Crisis Chat | http://www.suicidepreventionlifeline.org/gethelp/lifelinechat.aspx |
+| Veterans/Military Crisis Line (für aktive Angehörige, Veteranen und Familienmitglieder der US-Streitkräfte) |http://www.veteranscrisisline.net | Tel: 1 800 273 8255, then press 1; or SMS: 838255 |
+| The Trevor Project (für Jugendliche, Freunde und Familienmitglieder der LGBT-Gemeinschaft) | http://www.thetrevorproject.org | Telefon: 1 866 488 73865 |
 
 ## Australia
-Lifeline Australia 
-http://www.lifeline.org.au
-Telefon: 13 11 14
+/ Australien
 
-Kids Helpline 
-http://www.kidshelp.com.au
-Telefon: 1800 55 1800
+| Lifeline Australia | http://www.lifeline.org.au | Tel: 13 11 14 |
+| Kids Helpline | http://www.kidshelp.com.au | Tel: 1800 55 1800 |
+| Headspace | http://www.eheadspace.org.au | Tel: 1800 650 890 |
 
-Headspace 
-http://www.eheadspace.org.au
-Telefon: 1800 650 890
-
-## Österreich
-Rat auf Draht 
-http://rataufdraht.orf.at
-Telefon: 147
-
-Telefonseelsorge – Notruf 142 
-http://www.telefonseelsorge.at
-Telefon: 142 (24 Stunden täglich) 
-E-Mail: https://onlineberatung-telefonseelsorge.at (Chat und E-Mail)
-
-## Belgien
+## Belgium
+/ België / Belgique / Belgien
 
 Centrum Ter Preventie Van Zelfdoding 
 http://www.zelfmoord1813.be
 Telefon: 1813
 
-## Brasil / Portugal
+## Austria
+/ Österreich
+
+| Rat auf Draht | http://rataufdraht.orf.at | Telefon: 147 |
+| Telefonseelsorge – Notruf 142 | http://www.telefonseelsorge.at | Telefon: 142 (24 Stunden täglich) <br> E-Mail: https://onlineberatung-telefonseelsorge.at (Chat und E-Mail) |
+
+## Brasil / Brasilien & Portugal
 
 CVV 
 http://www.cvv.org.br
 Telefon: 188 
 E-Mail: atendimento@cvv.org.br
 
-## Kanada
+## Canada / Kanada
 Kids Help Phone (für Jugendliche unter 20) 
 Telefon: 1 800 6686868
 
 Personen ab 20 sollten sich an ein Krisenzentrum in ihrer Region wenden: 
 http://suicideprevention.ca/thinking-aboutsuicide/find-a-crisis-centre
 
-## Tschechische Republik
+## Česká republika / Tschechische Republik
 
 Linka bezpečí 
 www.linkabezpeci.cz
