@@ -46,7 +46,7 @@ Ressourcen zur Überbrückung
 
 # International
 
-Europe
+Europe: 
 [🇦🇹](/crisis%20resources.html#austria)
 [🇧🇪](/crisis%20resources.html#belgium)
 [🇧🇷](/crisis%20resources.html#brasil)
@@ -72,24 +72,24 @@ Europe
 [🇬🇧](/crisis%20resources.html#united-kingdom)
 
 Africa
-[🇿🇦](/crisis%20resources.html#Suid Afrika--Südafrika--South Africa)
+[🇿🇦](/crisis%20resources.html#south-africa)
 
 Asia
-[🇭🇰](/crisis%20resources.html#Hongkong)
-[🇮🇳](/crisis%20resources.html#भारत--Indien--India)
-[🇮🇱](/crisis%20resources.html#ישראל--Israel)
-[🇸🇬](/crisis%20resources.html#新加坡--Singapur--Singapore)
-[🇰🇷](/crisis%20resources.html#한국--Südkorea--South Korea)
-[🇹🇼](/crisis%20resources.html#臺灣--台湾--Taiwan)
+[🇭🇰](/crisis%20resources.html#hongkong)
+[🇮🇳](/crisis%20resources.html#India)
+[🇮🇱](/crisis%20resources.html#israel)
+[🇸🇬](/crisis%20resources.html#singapore)
+[🇰🇷](/crisis%20resources.html#south-korea)
+[🇹🇼](/crisis%20resources.html#taiwan)
 
 North America & South America
-[🇨🇦](/crisis%20resources.html#Canada--Kanada)
-[🇲🇽](/crisis%20resources.html#México--Mexiko)
-[🇺🇸](/crisis%20resources.html#United States--Vereinigte Staaten)
+[🇨🇦](/crisis%20resources.html#canada)
+[🇲🇽](/crisis%20resources.html#mexiko)
+[🇺🇸](/crisis%20resources.html#united-states)
 
 Oceania
 [🇦🇺](/crisis%20resources.html#australia)
-[🇳🇿](/crisis%20resources.html#New Zealand--Neuseeland)
+[🇳🇿](/crisis%20resources.html#new-zealand)
 
 [unlisted? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
 
@@ -131,7 +131,9 @@ http://www.cvv.org.br
 Telefon: 188 
 E-Mail: atendimento@cvv.org.br
 
-## Canada / Kanada
+## Canada
+/ Kanada
+
 Kids Help Phone (für Jugendliche unter 20) 
 Telefon: 1 800 6686868
 
@@ -227,7 +229,8 @@ E-Mail: sos@sos505.hu
 Kek Vonal 
 Telefon: 116-111
 
-## Indien
+## India
+भारत / Indien
 
 AASRA 
 http://www.aasra.info
@@ -236,6 +239,7 @@ Telefon: 91-22-27546667
 E-Mail: aasrahelpline@yahoo.com
 
 ## Israel
+/ ישראל
 
 ERAN 
 http://www.eran.org.il
@@ -303,8 +307,8 @@ Kanner-Jugendtelefon
 http://www.kjt.lu
 Telefon: 116 111
 
-## Mexiko
-
+## Mexico
+México / Mexiko
 Consejo Ciudadano 
 http://consejociudadanomx.org
 Telefon: 55 5533-5533
@@ -320,7 +324,8 @@ Foundation 113Online
 http://www.113online.nl
 Telefon: 0900-113 0 113
 
-## Neuseeland
+## New Zealand
+Neuseeland
 
 National Depression Initiative 
 http://www.depression.org.nz
@@ -359,21 +364,24 @@ http://www.centarsrce.org
 Telefon: 0800 300 303 
 E-Mail: vanja@centarsrce.org
 
-## Singapur
+## Singapore
+新加坡 / Singapur
 
 Samaritans of Singapore (SOS) 
 http://samaritans.org.sg
 Telefon: 1800 221 4444 
 E-Mail: pat@samaritans.org.sg
 
-## Südafrika
+## South Africa
+Suid Afrika / Südafrika
 
 The South African Depression and Anxiety Group (SADAG) 
 http://www.sadag.org
 Telefon: 0800 567 567 
 SMS: 31393
 
-## Südkorea
+## South Korea
+한국 / Südkorea
 
 중앙자살예방센터 (Korea Suicide Prevention Center) 
 www.spckorea.or.kr
@@ -410,6 +418,7 @@ http://www.143.ch
 Telefon: 143
 
 ## Taiwan
+/ 臺灣 / 台湾
 
 Taiwan Suicide Prevention Center 
 http://www.tspc.tw
