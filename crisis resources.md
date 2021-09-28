@@ -45,84 +45,51 @@ Ressourcen zur Überbrückung
 ---
 
 # International
-A
-[🇦🇺](/crisis%20resources.html#australia)
-[🇦🇹](/crisis%20resources.html#Österreich--Austria)
 
-
-B
+Europe
+[🇦🇹](/crisis%20resources.html#austria)
 [🇧🇪](/crisis%20resources.html#belgium)
-[🇧🇷/🇵🇹](/crisis%20resources.html#brasil--portugal)
+[🇧🇷](/crisis%20resources.html#brasil)
+[🇨🇿](/crisis%20resources.html#czech-republic)
+[🇩🇰](/crisis%20resources.html#denmark)
+[🇫🇷](/crisis%20resources.html#france)
+[🇫🇮](/crisis%20resources.html#finland)
+[🇬🇷](/crisis%20resources.html#greece)
+[🇭🇺](/crisis%20resources.html#hungary)
+[🇮🇹](/crisis%20resources.html#italy)
+[🇮🇪](/crisis%20resources.html#ireland)
+[🇱🇻](/crisis%20resources.html#latvia)
+[🇱🇹](/crisis%20resources.html#lithuania)
+[🇱🇺](/crisis%20resources.html#luxembourg)
+[🇳🇱](/crisis%20resources.html#the-netherlands)
+[🇳🇴](/crisis%20resources.html#norway)
+[🇵🇱](/crisis%20resources.html#poland)
+[🇵🇹](/crisis%20resources.html#portugal)
+[🇷🇸](/crisis%20resources.html#serbia)
+[🇪🇸](/crisis%20resources.html#spain)
+[🇸🇪](/crisis%20resources.html#sweden)
+[🇨🇭](/crisis%20resources.html#switzerland)
+[🇬🇧](/crisis%20resources.html#united-kingdom)
 
-C
-[🇨🇦](/crisis%20resources.html#Canada--Kanada)
-[🇨🇿](/crisis%20resources.html#Česká--Tschechien--Czech Republic)
+Africa
+[🇿🇦](/crisis%20resources.html#Suid Afrika--Südafrika--South Africa)
 
-D
-[🇩🇰](/crisis%20resources.html#Danmark--Dänemark--Denmark)
-
-E
-
-F
-[🇫🇷](/crisis%20resources.html#France--Frankreich)
-[🇫🇮](/crisis%20resources.html#Suomi--Finnland)
-
-G
-[🇬🇷](/crisis%20resources.html#Ελλάδα--Griechenland--Greece)
-
-H
+Asia
 [🇭🇰](/crisis%20resources.html#Hongkong)
-[🇭🇺](/crisis%20resources.html#Magyarország--Ungarn--Hungary)
-
-I
 [🇮🇳](/crisis%20resources.html#भारत--Indien--India)
 [🇮🇱](/crisis%20resources.html#ישראל--Israel)
-[🇮🇹](/crisis%20resources.html#Italia--Italien--Italy)
-[🇮🇪](/crisis%20resources.html#Ireland--Irland)
-
-J
-K
-
-L
-[🇱🇻](/crisis%20resources.html#Latvija--Lettland--Latvia)
-[🇱🇹](/crisis%20resources.html#Lietuva--Litauen--Lithuania)
-[🇱🇺](/crisis%20resources.html#Lëtzebuerg--Luxemburg--Luxembourg)
-
-M
-[🇲🇽](/crisis%20resources.html#México--Mexiko)
-
-N
-[🇳🇱](/crisis%20resources.html#Nederland--Niederlande--The Netherlands)
-[🇳🇿](/crisis%20resources.html#New Zealand--Neuseeland)
-[🇳🇴](/crisis%20resources.html#Norge--Norwegen--Norway)
-
-P
-[🇵🇱](/crisis%20resources.html#Polska--Polen--Poland)
-
-Q
-R
-
-S
-[🇷🇸](/crisis%20resources.html#Србија--Serbien--Serbia)
 [🇸🇬](/crisis%20resources.html#新加坡--Singapur--Singapore)
-[🇿🇦](/crisis%20resources.html#Suid Afrika--Südafrika--South Africa)
 [🇰🇷](/crisis%20resources.html#한국--Südkorea--South Korea)
-[🇪🇸](/crisis%20resources.html#España--Spanien--Spain)
-[🇸🇪](/crisis%20resources.html#Sverige--Schweden--Sweden)
-[🇨🇭](/crisis%20resources.html#Suisse--Schweiz--Switzerland)
-
-T
 [🇹🇼](/crisis%20resources.html#臺灣--台湾--Taiwan)
 
-U
+North America & South America
+[🇨🇦](/crisis%20resources.html#Canada--Kanada)
+[🇲🇽](/crisis%20resources.html#México--Mexiko)
 [🇺🇸](/crisis%20resources.html#United States--Vereinigte Staaten)
-[🇬🇧](/crisis%20resources.html#United Kingdom--Vereinigtes Königreich)
 
-V
-W
-X
-Y
-Z
+Oceania
+[🇦🇺](/crisis%20resources.html#australia)
+[🇳🇿](/crisis%20resources.html#New Zealand--Neuseeland)
 
 [unlisted? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
 
@@ -171,7 +138,8 @@ Telefon: 1 800 6686868
 Personen ab 20 sollten sich an ein Krisenzentrum in ihrer Region wenden: 
 http://suicideprevention.ca/thinking-aboutsuicide/find-a-crisis-centre
 
-## Česká republika / Tschechische Republik
+## Czech Republic
+Česká republika / Tschechische Republik
 
 Linka bezpečí 
 www.linkabezpeci.cz
@@ -200,7 +168,9 @@ Linka bezpečí
 http://www.linkabezpeci.cz
 Telefon: 116111 (Kinder und Jugendliche)
 
-## Dänemark
+## Denmark
+Danmark / Dänemark
+
 Livslinien 
 http://www.livslinien.dk
 Telefon: 70 201 201
@@ -209,19 +179,22 @@ Børne
 https://bornetelefonen.dk/ring
 Telefon: 116 111 (Beratungsstelle für Kinder täglich von 11:00 bis 23:00 Uhr erreichbar.)
 
-## Finnland
+## Finland
+Finnland / Suomi
 
 Suomen Mielenterveysseura 
 http://www.e-mielenterveys.fi/en/
 Telefon: 01019 5202
 
-## Frankreich
+## France
+/ Frankreich
 
 S.O.S Amitié 
 http://www.sos-amitie.org
 Telefon: 01 42 96 26 26
 
 ## Griechenland
+Ελλάδα / Griechenland
 
 Klimaka NGO 
 http://www.klimaka.org.gr
@@ -243,7 +216,8 @@ The Samaritans Hong Kong
 http://www.samaritans.org.hk
 Telefon: 2896 0000
 
-## Ungarn
+## Hungary
+Magyarország / Ungarn
 
 Magyar Lelki Elsősegély Telefonszolgálatok Szövetsége 
 http://www.sos505.hu
@@ -275,6 +249,7 @@ SAHAR (Emotionale Support-Chatline) (Arabisch)
 http://www.sahar.org.il/?categoryId=63068
 
 ## Italien
+Italia / Italien
 
 Telefono Azzurro 
 www.azzurro.it
@@ -284,15 +259,15 @@ Telefono Amico
 http://www.telefonoamico.it
 Telefon: 199 284 284
 
-## Lettland
-
+## Latvia
+Latvija / Lettland
 Skalbes 
 http://www.skalbes.lv
 Telefon: 371 67222922 
 Telefon: 371 27722292
 
-## Litauen
-
+## Lithuania
+Lietuva / Litauen
 Lithuanian Association of Emotional Support Lines 
 http://www.klausau.lt
 
@@ -317,7 +292,8 @@ E-Mail: pagalba@moteriai.lt
 Linija Doverija (Hilfe für russischsprachige Personen) 
 Telefon: 8 800 77277
 
-## Luxemburg
+## Luxembourg
+Lëtzebuerg / Luxemburg
 
 SOS Détresse – Hëllef iwwer Telefon 
 http://www.454545.lu
@@ -337,7 +313,8 @@ Instituto Hispanoamericano de Suicidologia, A.C
 Telefon: +5255 46313300 
 E-Mail: info@suicidiologia.com.mx
 
-## Niederlande
+## The Netherlands
+Nederland / Niederlande
 
 Foundation 113Online 
 http://www.113online.nl
@@ -360,19 +337,22 @@ SMS: 234
 E-Mail: talk@youthline.co.nz 
 E-Mail: parenttalk@youthline.co.nz
 
-## Norwegen
+## Norway
+Norge / Norwegen
 
 Kirkens SOS 
 http://www.kirkens-sos.no
 Telefon: 815 33 300
 
-## Polen
+## Poland
+Polska / Polen
 
 Fundacja Dzieci Niczyje 
 http://www.116111.pl/napisz
 Telefon: 116 111
 
-## Serbien
+## Serbia
+Србија / Serbien
 
 Centar Srce 
 http://www.centarsrce.org
@@ -409,18 +389,21 @@ Telefon: 129 (24시간 위기상담 / 24-Stunden-Hotline)
 정신건강증진센터 정신건강위기상담전화 (Krisenzentrum und Beratung für mentale Gesundheit) 
 Telefon: 1577-0199 (24시간 위기상담 / 24-Stunden-Hotline)
 
-## Spanien
+## Spain
+España / Spanien
 
 Teléfono de la Esperanza 
 http://telefonodelaesperanza.org
 Telefon: 902500002
 
-## Schweden
+## Sweden
+Sverige / Schweden
 
 Mind 
 https://mind.se/
 
-## Schweiz
+## Switzerland
+Suisse / Schweiz
 
 Tel 143 - La Main Tendue – Die Dargebotene Hand – Telefono Amico 
 http://www.143.ch
@@ -433,7 +416,10 @@ http://www.tspc.tw
 Telefon: 0800 788 995 
 E-Mail: tspc-fb@tsos.org.tw
 
-## Vereinigtes Königreich/Irland
+## United Kingdom
+Vereinigtes Königreich
+## Ireland
+Irland
 
 Samaritans 
 http://www.samaritans.org
