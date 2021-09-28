@@ -3,16 +3,29 @@ title: 🆘 Crisis Resources
 ---
 [→ not in Germany](/crisis%20resources.html#international)
 # Crisis Resources (DE)
-> **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel:) now (link inactive) or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme).** <br>
+> **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br>
 > Additional crisis resources can be found below.
 
+
+## Regional
 > Do not drive. Go by cab, money is refunded by most insurance companies
 > - Taxi.de [website ↗](//www.taxi.de/bestellen/hamburg/)
 > - FreeNow / myTaxi [App ↗](//free-now.com/de/)
-> - Hansa-Taxi [✆ 221 221 ↗](tel: 004940221221)
-> - TaxiHamburg [✆ 66 66 66 ↗](tel: 0049666666)
+> - Hansa-Taxi [✆ 221 221 ↗](tel: 004940221221) (local to Hamburg)
+> - TaxiHamburg [✆ 66 66 66 ↗](tel: 0049666666) (local to Hamburg)
 
-## Lifelines and Numbers
+### Points of contact
+Anlaufstellen
+
+[psychiatric hospitals / emergency rooms](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/
+) in Hamburg 
+
+find a [support group ↗](https://www.kiss-hh.de)
+
+Ressourcen zur Überbrückung
+
+
+## German Lifelines and Numbers
 
 | Telefonseelsorge (24/7 & free of charge ) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [0800 111 0 333](tel: 08001110333) |
@@ -30,17 +43,9 @@ title: 🆘 Crisis Resources
 | National Abortion Federation Hotline | |
 | HIV Nightline | |
 
-## Regional Hamburg
-Selbsthilfegruppen: https://www.kiss-hh.de
-
 ---
 
-
 bridge_maiahealth.de
-
-Ressourcen zur Überbrückung
-
-- Karte mit psychiatrischen Notfallaufnahmen/Anlaufstellen und Taxi-Rufnummern
 
 ---
 
@@ -64,7 +69,6 @@ Europe:
 [🇳🇱](/crisis%20resources.html#the-netherlands)
 [🇳🇴](/crisis%20resources.html#norway)
 [🇵🇱](/crisis%20resources.html#poland)
-[🇵🇹](/crisis%20resources.html#portugal)
 [🇷🇸](/crisis%20resources.html#serbia)
 [🇪🇸](/crisis%20resources.html#spain)
 [🇸🇪](/crisis%20resources.html#sweden)
@@ -124,177 +128,100 @@ Telefon: 1813
 | Rat auf Draht | http://rataufdraht.orf.at | Telefon: 147 |
 | Telefonseelsorge – Notruf 142 | http://www.telefonseelsorge.at | Telefon: 142 (24 Stunden täglich) <br> E-Mail: https://onlineberatung-telefonseelsorge.at (Chat und E-Mail) |
 
-## Brasil / Brasilien & Portugal
 
-CVV 
-http://www.cvv.org.br
-Telefon: 188 
-E-Mail: atendimento@cvv.org.br
+## Brasil
+/ Brasilien
+
+| CVV | http://www.cvv.org.br | Telefon: 188 | E-Mail: atendimento@cvv.org.br |
 
 ## Canada
 / Kanada
 
-Kids Help Phone (für Jugendliche unter 20) 
-Telefon: 1 800 6686868
+| Kids Help Phone (für Jugendliche unter 20) | Telefon: 1 800 6686868 |
 
-Personen ab 20 sollten sich an ein Krisenzentrum in ihrer Region wenden: 
-http://suicideprevention.ca/thinking-aboutsuicide/find-a-crisis-centre
+| Personen ab 20 sollten sich an ein Krisenzentrum in ihrer Region wenden: 
+http://suicideprevention.ca/thinking-aboutsuicide/find-a-crisis-centre |
 
 ## Czech Republic
 Česká republika / Tschechische Republik
 
-Linka bezpečí 
-www.linkabezpeci.cz
-Telefon: 116 111
-
-Pražská linka důvěry 
-http://www.csspraha.cz/linka-duvery
-Telefon: 222 580 697
-
-Linka důvěry Ostrava 
-http://www.mnof.cz/linka_duvery
-Telefon: 596 618 908 
-Telefon: 737 267 939
-
-Linka duševní tísně Most 
-http://www.mostknadeji.eu/linka-dusevni-tisne
-Telefon: 476 701 444 
-Skype: ldt.most
-
-Linka důvěry DKC 
-http://dkc.cz/linka_duvery.php
-Telefon: 241 484 149 
-Skype: ld_dkc
-
-Linka bezpečí 
-http://www.linkabezpeci.cz
-Telefon: 116111 (Kinder und Jugendliche)
+| Linka bezpečí | www.linkabezpeci.cz | Telefon: 116 111 |
+| Pražská linka důvěry | http://www.csspraha.cz/linka-duvery | Telefon: 222 580 697 |
+| Linka důvěry Ostrava | http://www.mnof.cz/linka_duvery | Telefon: 596 618 908 | Telefon: 737 267 939 |
+| Linka duševní tísně Most | http://www.mostknadeji.eu/linka-dusevni-tisne | Telefon: 476 701 444 | Skype: ldt.most |
+| Linka důvěry DKC | http://dkc.cz/linka_duvery.php | Telefon: 241 484 149 | Skype: ld_dkc |
+| Linka bezpečí | http://www.linkabezpeci.cz | Telefon: 116111 (Kinder und Jugendliche) |
 
 ## Denmark
 Danmark / Dänemark
 
-Livslinien 
-http://www.livslinien.dk
-Telefon: 70 201 201
+| Livslinien | http://www.livslinien.dk | Telefon: 70 201 201 |
 
-Børne 
-https://bornetelefonen.dk/ring
-Telefon: 116 111 (Beratungsstelle für Kinder täglich von 11:00 bis 23:00 Uhr erreichbar.)
+| Børne | https://bornetelefonen.dk/ring | Telefon: 116 111 (Beratungsstelle für Kinder täglich von 11:00 bis 23:00 Uhr erreichbar.) |
 
 ## Finland
 Finnland / Suomi
 
-Suomen Mielenterveysseura 
-http://www.e-mielenterveys.fi/en/
-Telefon: 01019 5202
+| Suomen Mielenterveysseura | http://www.e-mielenterveys.fi/en/ | Telefon: 01019 5202 |
 
 ## France
 / Frankreich
 
-S.O.S Amitié 
-http://www.sos-amitie.org
-Telefon: 01 42 96 26 26
+| S.O.S Amitié | http://www.sos-amitie.org | Telefon: 01 42 96 26 26 |
 
 ## Griechenland
 Ελλάδα / Griechenland
 
-Klimaka NGO 
-http://www.klimaka.org.gr
-
-Suicide Help Greece 
-http://www.suicide-help.gr
-Telefon: 1018
+| Klimaka NGO | http://www.klimaka.org.gr | |
+| Suicide Help Greece | http://www.suicide-help.gr | Telefon: 1018 |
 
 ## Hongkong
 
-The Samaritan Befrienders Hong Kong 
-http://www.help4suicide.com.hk
-
-The Samaritan Befrienders Hong Kong 
-http://www.sbhk.org.hk
-Telefon: 2389 2222
-
-The Samaritans Hong Kong 
-http://www.samaritans.org.hk
-Telefon: 2896 0000
+| The Samaritan Befrienders Hong Kong | http://www.help4suicide.com.hk |
+| The Samaritan Befrienders Hong Kong | 
+http://www.sbhk.org.hk | Telefon: 2389 2222 |
+| The Samaritans Hong Kong | http://www.samaritans.org.hk | Telefon: 2896 0000 |
 
 ## Hungary
 Magyarország / Ungarn
 
-Magyar Lelki Elsősegély Telefonszolgálatok Szövetsége 
-http://www.sos505.hu
-Telefon: 116 123 
-E-Mail: sos@sos505.hu
-
-Kek Vonal 
-Telefon: 116-111
+| Magyar Lelki Elsősegély Telefonszolgálatok Szövetsége | http://www.sos505.hu | Telefon: 116 123 | E-Mail: sos@sos505.hu |
+| Kek Vonal | Telefon: 116-111 |
 
 ## India
 भारत / Indien
 
-AASRA 
-http://www.aasra.info
-Telefon: 91-22-27546669 
-Telefon: 91-22-27546667 
-E-Mail: aasrahelpline@yahoo.com
+| AASRA | http://www.aasra.info | Telefon: 91-22-27546669 <br>Telefon: 91-22-27546667 | E-Mail: aasrahelpline@yahoo.com |
 
 ## Israel
 / ישראל
 
-ERAN 
-http://www.eran.org.il
-Telefon: Kostenloser Anruf innerhalb von Israel: 1201 
-Telefon: Außerhalb von Israel: +972-76-8844400
-
-SAHAR (Emotionale Support-Chatline) (Hebräisch) 
-http://www.sahar.org.il
-
-SAHAR (Emotionale Support-Chatline) (Arabisch) 
-http://www.sahar.org.il/?categoryId=63068
+| ERAN | http://www.eran.org.il | Telefon: Kostenloser Anruf innerhalb von Israel: 1201 | Telefon: Außerhalb von Israel: +972-76-8844400 |
+| SAHAR (Emotionale Support-Chatline) (Hebräisch) |  
+http://www.sahar.org.il |
+| SAHAR (Emotionale Support-Chatline) (Arabisch) | 
+http://www.sahar.org.il/?categoryId=63068 |
 
 ## Italien
 Italia / Italien
 
-Telefono Azzurro 
-www.azzurro.it
-Telefon: 19696
-
-Telefono Amico 
-http://www.telefonoamico.it
-Telefon: 199 284 284
+| Telefono Azzurro | www.azzurro.it | Telefon: 19696 |
+| Telefono Amico | http://www.telefonoamico.it | Telefon: 199 284 284 |
 
 ## Latvia
 Latvija / Lettland
-Skalbes 
-http://www.skalbes.lv
-Telefon: 371 67222922 
-Telefon: 371 27722292
+
+| Skalbes | http://www.skalbes.lv | Telefon: 371 67222922 <br>Telefon: 371 27722292
 
 ## Lithuania
 Lietuva / Litauen
-Lithuanian Association of Emotional Support Lines 
-http://www.klausau.lt
 
-Vaikų linija (Hotline für Kinder) 
-http://www.vaikulinija.lt
-Telefon: 116 111
-
-Jaunimo linija (Hotline für Jugendliche) 
-http://www.jaunimolinija.lt/laiskai/
-Telefon: 8 800 28888
-
-Vilties linija (Hope line) 
-http://www.kpsc.lt/vilties_linija.html
-Telefon: 116 123 
-E-Mail: vilties.linija@gmail.com
-
-Pagalbos moterims linija (Frauen) 
-http://www.moteriai.lt
-Telefon: 8 800 66366 
-E-Mail: pagalba@moteriai.lt
-
-Linija Doverija (Hilfe für russischsprachige Personen) 
-Telefon: 8 800 77277
+| Lithuanian Association of Emotional Support Lines | http://www.klausau.lt |
+| Vaikų linija (Hotline für Kinder) | http://www.vaikulinija.lt | Telefon: 116 111 |
+| Jaunimo linija (Hotline für Jugendliche) | http://www.jaunimolinija.lt/laiskai/ | Telefon: 8 800 28888 |
+| Vilties linija (Hope line) | http://www.kpsc.lt/vilties_linija.html | Telefon: 116 123 <br>E-Mail: vilties.linija@gmail.com |
+| Pagalbos moterims linija (Frauen) | http://www.moteriai.lt | Telefon: 8 800 66366 | E-Mail: pagalba@moteriai.lt |
+| Linija Doverija (Hilfe für russischsprachige Personen) | Telefon: 8 800 77277 |
 
 ## Luxembourg
 Lëtzebuerg / Luxemburg
@@ -427,6 +354,12 @@ E-Mail: tspc-fb@tsos.org.tw
 
 ## United Kingdom
 Vereinigtes Königreich
+
+Samaritans 
+http://www.samaritans.org
+Telefon: 116 123 
+E-Mail: jo@samaritans.org
+
 ## Ireland
 Irland
 
