@@ -1,15 +1,15 @@
 ---
 title: 🆘 Crisis Resources
 ---
-[Not in Germany?](#International)
-# Crisis Resources
-> **If you or someone you know is experiencing an emergency or crisis and needs immediate help, call 112 or go to the nearest emergency room.**
+[→ not in Germany](/crisis%20resources.html#international)
+# Crisis Resources (DE)
+> **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 now ↗](tel:) (link inactive) or go to the nearest emergency room.** <br>
 > Additional crisis resources can be found below.
 
 ## feeling suicidal?
-→ place a [distress call to ✆ 112 now ↗](tel:) (link inactive)
+- place a [distress call to ✆ 112 now ↗](tel:) (link inactive)
 
-emergency personell is available 24/7 and free of charge
+available 24/7 and free of charge
 
 > 1. say your location
 > 2. say you’re suicidal
@@ -61,6 +61,8 @@ Ressourcen zur Überbrückung
 # International
 Suicide Hotlines
 [list on wikimedia](//meta.wikimedia.org/wiki/Mental_health_resources)
+
+[🇺🇸](/crisis%20resources.html#usa)
 
 ## USA
 National Suicide Prevention Lifeline 
