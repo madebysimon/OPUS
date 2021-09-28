@@ -14,10 +14,8 @@ title: 🆘 Crisis Resources
 
 ## Lifelines and Numbers
 
-| Telefonseelsorge (24/7 & free of charge ) | [0800 111 0 111](tel: 08001110111) or [0800 111 0 222](tel: 08001110222) or [116 123](tel: 116123) | [online chat ↗](//online.telefonseelsorge.de/) |
-| Nummer gegen Kummer – Hotline (adults) | 0800 111 0 550 |  |
-| Nummer gegen Kummer – Hotline (children) | 0800 111 0 333 |  |
-| | | |
+| Telefonseelsorge (24/7 & free of charge ) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
+| Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [0800 111 0 333](tel: 08001110333) |
 
 
 | National Suicide Prevention Lifeline | |
@@ -47,10 +45,41 @@ Ressourcen zur Überbrückung
 ---
 
 # International
-Suicide Hotlines
-[list on wikimedia](//meta.wikimedia.org/wiki/Mental_health_resources)
-
 [🇺🇸](/crisis%20resources.html#usa)
+[🇦🇺](/crisis%20resources.html#australia)
+[🇦🇹](/crisis%20resources.html#Österreich)
+[🇧🇪](/crisis%20resources.html#Belgien)
+[🇧🇷🇵🇹](/crisis%20resources.html#brasil--portugal)
+[🇨🇦](/crisis%20resources.html#Kanada)
+[🇨🇿](/crisis%20resources.html#Tschechische Republik)
+[🇩🇰](/crisis%20resources.html#Dänemark)
+[🇫🇮](/crisis%20resources.html#Finnland)
+[🇫🇷](/crisis%20resources.html#Frankreich)
+[🇬🇷](/crisis%20resources.html#Griechenland)
+[🇭🇰](/crisis%20resources.html#Hongkong)
+[🇭🇺](/crisis%20resources.html#Ungarn)
+[🇮🇳](/crisis%20resources.html#Indien)
+[🇮🇱](/crisis%20resources.html#Israel)
+[🇮🇹](/crisis%20resources.html#Italien)
+[🇱🇻](/crisis%20resources.html#Lettland)
+[🇱🇹](/crisis%20resources.html#Litauen)
+[🇱🇺](/crisis%20resources.html#Luxemburg)
+[🇲🇽](/crisis%20resources.html#Mexiko)
+[🇳🇱](/crisis%20resources.html#Niederlande)
+[🇳🇿](/crisis%20resources.html#Neuseeland)
+[🇳🇴](/crisis%20resources.html#Norwegen)
+[🇵🇱](/crisis%20resources.html#Polen)
+[🇷🇸](/crisis%20resources.html#Serbien)
+[🇸🇬](/crisis%20resources.html#Singapur)
+[🇿🇦](/crisis%20resources.html#Südafrika)
+[🇰🇷](/crisis%20resources.html#Südkorea)
+[🇪🇸](/crisis%20resources.html#Spanien)
+[🇸🇪](/crisis%20resources.html#Schweden)
+[🇨🇭](/crisis%20resources.html#Schweiz)
+[🇹🇼](/crisis%20resources.html#Taiwan)
+[🇬🇧🇮🇪](/crisis%20resources.html#Vereinigtes Königreich/Irland)
+[not listed? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
+
 
 ## USA
 National Suicide Prevention Lifeline 
