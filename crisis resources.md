@@ -28,7 +28,7 @@ https://www.hamburg.de/drogenberatung-suchthilfe/
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
 
-Apotheken-Notdienstfinder                            040 22833 oder 0800 00 22833 (freecall) 
+Apotheken-Notdienstfinder                             0800 00 22833 (freecall) oder 040 22833 (Festnetz)
 
 Gift-Notruf 
 GIZ-Nord 0551 19240
