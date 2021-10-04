@@ -2,9 +2,7 @@
 title: 🆘 Crisis Resources
 nav_order: 99
 ---
-
-[→ not in Germany](/crisis%20resources.html#international)
-# Crisis Resources (EN)
+# Crisis Resources
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br>
 > Additional crisis resources can be found below.
 
@@ -17,6 +15,8 @@ nav_order: 99
 
 ### Regional points of contact
 to Hamburg, Germany
+
+[→ see international](/crisis%20resources.html#international)
 
 - list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/)
 - Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) [✆ 040 741035000](tel: 040741035000)
