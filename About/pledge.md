@@ -1,6 +1,6 @@
 ---
-parent: About
 title: Our Pledge
+parent: about
 ---
 
 # Our Pledge To Open Source
