@@ -11,16 +11,7 @@ nav_order: 99
 > Additional crisis resources can be found below.
 
 ---
-
-### Taxi Services
-Do not drive. Go by cab, money is refunded by most health insurance.
-- [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/)
--  [FreeNow / myTaxi (App) ↗](//free-now.com/de/)
-local to Hamburg:
-- Hansa-Taxi [✆ 221 221](tel: 004940221221)
-- TaxiHamburg [✆ 66 66 66](tel: 0049666666)
-
-### Regional points of contact
+## Regional points of contact
 to Hamburg, Germany ([→ see international](/sos#international))
 
 - list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/)
@@ -37,8 +28,15 @@ to Hamburg, Germany ([→ see international](/sos#international))
 | Schreibtelefon der Rettungsdienste | 040 19296 |
 | Apotheken-Notdienstfinder | 0800 00 22833 (freecall) oder 040 22833 (Festnetz) |
 
-| Poison Control Center / Giftnotruf | |
+| **Poison Control Center / Giftnotruf** | |
 | GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
+
+| **Taxi Services** <br>Do not drive. Go by cab, money is refunded by most health insurance. | | 
+| Taxi.de | [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/) |
+| FreeNow / MyTaxi | [App ↗](//free-now.com/de/) |
+| local to Hamburg | |
+| Hansa-Taxi | [✆ 221 221](tel: 004940221221) |
+| TaxiHamburg |  [✆ 66 66 66](tel: 0049666666) | 
 
 | **Seelsorge / Hopelines** | |
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
