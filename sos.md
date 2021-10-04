@@ -7,11 +7,12 @@ nav_order: 99
 
 ---
 
-> **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br>
+> **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
 > Additional crisis resources can be found below.
 
 ---
 
+### Taxi Services
 Do not drive. Go by cab, money is refunded by most health insurance.
 - [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/)
 -  [FreeNow / myTaxi (App) ↗](//free-now.com/de/)
