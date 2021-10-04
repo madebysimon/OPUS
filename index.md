@@ -15,8 +15,12 @@ Beware content and links may change during this period.
 ---
 ## Terms of Service / Rules of Engagement
 
-**Please cite and give credit** to any given sources or - if none are provided - link back to the article.  [help provide sources →](/feedback)
+1. **Please cite and give credit** to any given sources or - if none are provided - link back to the article. 
+2. understand this is not peer-reviewed
+3. please [help provide sources →](/feedback)
 <br>
+
+<iframe src="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" allowfullscreen="true" frameborder="0" id="iFrameResizer0" scrolling="no" style="min-height: 227px; width: 100%; overflow: hidden; height: 286px;"></iframe>
 
 ## Now go, explore 🕊
 If you already know what you're looking for, search is the way to go. <br>
