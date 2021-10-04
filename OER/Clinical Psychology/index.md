@@ -6,9 +6,10 @@ parent: Collections (OER)
 has_children: true
 has_toc: true
 ---
-
 Open Education Resources
 # Clinical Psychology
+
+Content from this site is free to use **for academic purposes**. 
 
 <details open markdown="block">
   <summary>
@@ -18,10 +19,6 @@ Open Education Resources
 1. TOC
 {:toc}
 </details>
-
-Content from this site is free to use **for academic purposes**. 
-
-special tip for students: To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
 
 ---
 
