@@ -3,15 +3,20 @@ title: 🆘 Crisis Resources
 nav_order: 99
 ---
 # Crisis Resources
+<br>
+---
+
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br>
 > Additional crisis resources can be found below.
 
-> Do not drive. Go by cab, money is refunded by most health insurance.
-> - [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/)
-> -  [FreeNow / myTaxi (App) ↗](//free-now.com/de/)
-> local to Hamburg:
-> - Hansa-Taxi [✆ 221 221](tel: 004940221221)
-> - TaxiHamburg [✆ 66 66 66](tel: 0049666666)
+---
+
+Do not drive. Go by cab, money is refunded by most health insurance.
+- [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/)
+-  [FreeNow / myTaxi (App) ↗](//free-now.com/de/)
+local to Hamburg:
+- Hansa-Taxi [✆ 221 221](tel: 004940221221)
+- TaxiHamburg [✆ 66 66 66](tel: 0049666666)
 
 ### Regional points of contact
 to Hamburg, Germany ([→ see international](/sos#international))
