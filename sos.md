@@ -2,8 +2,9 @@
 title: 🆘 Crisis Resources
 nav_order: 99
 ---
+
 # Crisis Resources
-<br>
+
 ---
 
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br>
