@@ -1,5 +1,6 @@
 ---
 title: 🆘 Crisis Resources
+nav_order: 99
 ---
 [→ not in Germany](/crisis%20resources.html#international)
 # Crisis Resources (DE)

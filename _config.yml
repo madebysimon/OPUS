@@ -7,8 +7,15 @@ logo: "/assets/images/icon.png"
 # Supports true (default) or false
 search_enabled: true
 
-# Jekyll .html am Ende weg
+# ---
+#### Jekyll .html am Ende weg
 permalink: /:title/
+
+# alternativ:
+# permalink: /:categories/:title
+# post_dirs: true 
+
+# ---
 
 search:
   # Split pages into sections that can be searched individually

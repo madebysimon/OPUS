@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Treatment
-nav_order: 1
+nav_order: 2
 grand_parent: Collections (OER)
 parent: Clinical Psychology
 has_children: true
