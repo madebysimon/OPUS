@@ -3,7 +3,7 @@ layout: default
 title: Psychotherapy
 nav_order: 2
 parent: Treatment
-grand_parent: 📕 Clinical Psychology
+grand_parent: Clinical Psychology
 ---
 
 # Test Two
