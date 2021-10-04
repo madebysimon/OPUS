@@ -1,7 +1,6 @@
 ---
-nav_exclude: true
-search_exclude: true
-title: Our Approach
+title: About
+has_children: true
 ---
 
 Hello Hamburg 👋🏼
@@ -13,8 +12,15 @@ Follow our socials to be notified as soon as we are ready to share our vision.
 # lets shape your future together
 
 → Get a Quote
+[Our Services]()
+[Our Mission / Manifesto]()
+[Pricing]()
+[Locations & Hours]()
+[Policies]()
 
 # Why us?
+
+Our Approach 
 World leading in XYZ
 
 experience high-end Mental Health services
@@ -36,12 +42,6 @@ wir machen sie Wetterfest
 - Maximise your psychological capital and gain quality of life improvements and competitive advantage across the board.
 - manage life-domain-balance
 - train your Motivation: willpower (goal-directed determination) and waypower (planning of ways to meet goals)
-
-Our Services
-Our Mission / Manifesto
-Pricing
-Locations & Hours
-Policies
 
 improved services and better client outcomes
 
