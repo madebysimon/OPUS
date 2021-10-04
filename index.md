@@ -40,5 +40,5 @@ This page **does not track** your visit - not a single cookie. <br>
 Also.. **no ads**. We hate them as much as you do.
 
 <span class="fs-3">
-[buy me a ☕️](/doc/coffee){: .btn }
+[buy me a ☕️](/coffee){: .btn }
 </span>
