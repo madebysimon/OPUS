@@ -3,6 +3,7 @@ title: About
 has_children: true
 nav_order: 3
 ---
+
 # What this is all about
 I grew tired of my lecture notes sitting dead on their hard drive, so I started revisiting and interconnecting them to a knowledge base. With this website I am sharing access to this resource with you. Maybe we can get some good use out of it together.
 
@@ -18,12 +19,10 @@ Read more about our pledge to open source [here](/pledge).
 
 > Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
 > By working behind closed doors, you miss out on a lot of valuable feedback.
-
 ##### NOW GO, EXPLORE 🕊
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the entry points (collections) linked in the menu. <br>
 If you ever wish to return to this page, click the logo to your upper left. <br>
-
 Yours <br><br>
 **Simon** <br>
 CX @maıahealth
@@ -37,6 +36,7 @@ Also.. **no ads**. We hate them as much as you do.
 
 
 ---
+
 Hello Hamburg 👋🏼
 we‘re the new kid on the block
 
