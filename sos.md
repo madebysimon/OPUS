@@ -14,9 +14,7 @@ nav_order: 99
 > - TaxiHamburg [✆ 66 66 66](tel: 0049666666)
 
 ### Regional points of contact
-to Hamburg, Germany
-
-[→ see international](/sos#international)
+to Hamburg, Germany ([→ see international](/sos#international))
 
 - list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/)
 - Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) [✆ 040 741035000](tel: 040741035000)
