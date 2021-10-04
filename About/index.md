@@ -34,9 +34,6 @@ enrich your relationships
 practice inner calm
 Kickstart resiliency
 
-**„a storm is coming“**
-wir machen sie Wetterfest
-
 # accelerate mental recovery
 
 - Maximise your psychological capital and gain quality of life improvements and competitive advantage across the board.
