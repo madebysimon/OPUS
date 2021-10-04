@@ -3,10 +3,6 @@ title: About
 has_children: true
 nav_order: 3
 ---
-
-Hello Hamburg 👋🏼
-we‘re the new kid on the block
-
 # What this is all about
 I grew tired of my lecture notes sitting dead on their hard drive, so I started revisiting and interconnecting them to a knowledge base. With this website I am sharing access to this resource with you. Maybe we can get some good use out of it together.
 
@@ -41,6 +37,8 @@ Also.. **no ads**. We hate them as much as you do.
 
 
 ---
+Hello Hamburg 👋🏼
+we‘re the new kid on the block
 
 We built this page to keep you closer.
 Follow our socials to be notified as soon as we are ready to share our vision.
