@@ -1,6 +1,6 @@
 ---
 title: Contact
-parent: about
+parent: About
 ---
 
 # For Clients
