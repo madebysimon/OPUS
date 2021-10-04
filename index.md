@@ -20,8 +20,9 @@ Beware content and links may change during this period.
 3. please [help provide sources →](/feedback)
 <br>
 
-<a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">Click me!</a>
-<iframe name="myiFrame" src="about:blank" allowfullscreen="true" frameborder="0" id="iFrameResizer0" scrolling="no" style="min-height: 227px; width: 100%; overflow: hidden; height: 286px;"></iframe>
+<a href="http://example.com" target="myiFrame">Click me!</a>
+<iframe name="myiFrame" src="about:blank">
+
 
 ## Now go, explore 🕊
 If you already know what you're looking for, search is the way to go. <br>
