@@ -11,7 +11,7 @@ Beware content and links may change during this period.
 
 [Get started](#now-go-explore-){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [What is this](/About){: .btn .fs-5 .mb-4 .mb-md-0 }
-
+ 
 ---
 
 ##### WHAT THIS IS ALL ABOUT
@@ -25,6 +25,11 @@ This is not wikipedia. Here you will find memes and scientific method, definitio
 **Please cite and give credit** to any given sources or - if none are provided - link back to the article.  [help provide sources →](/doc/feedback)
 <br>
 
+Read more about this project [here](/).
+
+> Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
+> By working behind closed doors, you miss out on a lot of valuable feedback.
+
 ##### NOW GO, EXPLORE 🕊
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the entry points (collections) linked in the menu. <br>
@@ -32,7 +37,7 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
 
 Yours <br><br>
 **Simon** <br>
-CX @maiahealth
+CX @maıahealth
 
 PS: <br>
 We take your **privacy** serious (as in: by actually doing it). <br>
