@@ -4,11 +4,11 @@ nav_order: 99
 ---
 
 [→ not in Germany](/crisis%20resources.html#international)
-# Crisis Resources (DE)
+# Crisis Resources (EN)
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br>
 > Additional crisis resources can be found below.
 
-> Do not drive. Go by cab, money is refunded by most insurance companies
+> Do not drive. Go by cab, money is refunded by most health insurance.
 > - [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/)
 > -  [FreeNow / myTaxi (App) ↗](//free-now.com/de/)
 > local to Hamburg:
@@ -16,8 +16,9 @@ nav_order: 99
 > - TaxiHamburg [✆ 66 66 66](tel: 0049666666)
 
 ### Regional points of contact
+to Hamburg, Germany
 
-- list of [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) in Hamburg
+- list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/)
 - Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) [✆ 040 741035000](tel: 040741035000)
 	- open 24 hours
 - find a [support group ↗](https://www.kiss-hh.de)
@@ -31,12 +32,12 @@ nav_order: 99
 | Schreibtelefon der Rettungsdienste | 040 19296 |
 | Apotheken-Notdienstfinder | 0800 00 22833 (freecall) oder 040 22833 (Festnetz) |
 
-| Poison Control Center / Giftnotruf: GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
+| Poison Control Center / Giftnotruf | |
+| GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
 
 | **Seelsorge / Hopelines** | |
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
-
 
 | **National Sexual Assault Hotline** | |
 | Hilfetelefon Gewalt gegen Frauen | 0800 116016 (freecall) |
@@ -213,10 +214,8 @@ Magyarország / Ungarn
 / ישראל
 
 | ERAN | http://www.eran.org.il | Telefon: Kostenloser Anruf innerhalb von Israel: 1201 | Telefon: Außerhalb von Israel: +972-76-8844400 |
-| SAHAR (Emotionale Support-Chatline) (Hebräisch) |  
-http://www.sahar.org.il |
-| SAHAR (Emotionale Support-Chatline) (Arabisch) | 
-http://www.sahar.org.il/?categoryId=63068 |
+| SAHAR (Emotionale Support-Chatline) (Hebräisch) |  http://www.sahar.org.il |
+| SAHAR (Emotionale Support-Chatline) (Arabisch) | http://www.sahar.org.il/?categoryId=63068 |
 
 ## Italien
 Italia / Italien
