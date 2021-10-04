@@ -1,3 +1,8 @@
+---
+nav_exclude: true
+title: Imprint
+---
+
 # Impressum
 
 ## Angaben gemäß § 5 TMG
