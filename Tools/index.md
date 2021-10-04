@@ -3,7 +3,6 @@ layout: default
 nav_exclude: false
 nav_order: 2
 title: Tools
-has_children: true
 ---
 # Knowledge Bar
 
