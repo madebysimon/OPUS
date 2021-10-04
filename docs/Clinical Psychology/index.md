@@ -18,10 +18,11 @@ Open Education Resources
 {:toc}
 </details>
 
-Content from this page is free to use **for academic purposes**. 
+Content from this site is free to use **for academic purposes**. 
 
-> special tip for students: To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
+special tip for students: To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
 
+---
 
 > Lectures in 2021 have a single flaw leading to subpar content: most of them are created closed source.
 > This leads to

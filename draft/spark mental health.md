@@ -5,6 +5,8 @@ title: Spark Mental Health
 ---
 
 # ⚡️Resiliency training
+- resist occasional turbulence
+
 For more knowledge to go, visit our [instagram](http://instagram.com/maiahealthDE)
 
 > Go spark
