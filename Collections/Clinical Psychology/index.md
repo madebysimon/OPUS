@@ -2,6 +2,7 @@
 layout: default
 title: Clinical Psychology
 nav_order: 1
+parent: Collections
 has_children: true
 has_toc: true
 ---
