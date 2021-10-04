@@ -9,9 +9,9 @@ Feel free to sneak around (or come back later).<br>
 Beware content and links may change during this period.
 {: .fs-6 .fw-300 }
 
-[Get started](#now-go-explore-){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started](/OER){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [What is this](/About){: .btn .fs-5 .mb-4 .mb-md-0 }
- 
+
 ---
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the entry points (collections) linked in the menu. <br>
@@ -19,7 +19,7 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
 
 ## Terms of Service / Rules of Engagement
 
-1. **Please cite and give credit** to any given sources or - if none are provided - link back to the article. 
+1. I don't steal your data, you don't steal mine. <br>**Please cite and give credit** to any given sources or - if none are provided - link back to the article.
 <a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">→ allow external content to see how</a>
 2. understand this is not peer-reviewed
 3. please [help provide sources](/feedback)
