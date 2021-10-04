@@ -1,7 +1,6 @@
 ---
-nav_exclude: true
-search_exclude: true
 title: Contact
+parent: About
 ---
 
 # For Clients

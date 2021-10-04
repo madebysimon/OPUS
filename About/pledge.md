@@ -1,5 +1,5 @@
 ---
-nav_exclude: true
+parent: About
 title: Our Pledge
 ---
 
