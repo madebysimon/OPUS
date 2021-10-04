@@ -16,7 +16,7 @@ nav_order: 99
 ### Regional points of contact
 to Hamburg, Germany
 
-[→ see international](/crisis%20resources.html#international)
+[→ see international](/sos#international)
 
 - list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/)
 - Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) [✆ 040 741035000](tel: 040741035000)
@@ -55,14 +55,6 @@ to Hamburg, Germany
 | Ambulanz für Suchtkranke der Asklepios Klinik Nord  (Haus 32 EG) | 040 1818872524 |
 | Anonyme Alkoholiker, Saarlandstraße 9, 22303 Hamburg | 040 19295 |
 | Anonyme Spieler | 040 2099009 |
-
----
-
-| LGBT National Hotline | |
-| Veteran Crisis Line | |
-| National Eating Disorders Association Helpline | |
-| National Abortion Federation Hotline | |
-| HIV Nightline | |
 
 ---
 
@@ -382,3 +374,12 @@ Samaritans
 http://www.samaritans.org
 Telefon: 116 123 
 E-Mail: jo@samaritans.org
+
+---
+
+tba_
+| LGBT National Hotline | |
+| Veteran Crisis Line | |
+| National Eating Disorders Association Helpline | |
+| National Abortion Federation Hotline | |
+| HIV Nightline | |

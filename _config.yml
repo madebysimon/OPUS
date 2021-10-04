@@ -62,9 +62,9 @@ heading_anchors: true
 footer_content: "Spread knowledge, cite this page. – Copyright &copy; 2021 Maia Health"
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Impressum / Imprint"
-gh_edit_repository: "opus.maiahealth.de/imprint/" # the github URL for your repo
+gh_edit_link: false # show or hide edit this page link
+gh_edit_link_text: "title"
+gh_edit_repository: "" # the github URL for your repo
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
