@@ -23,7 +23,7 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
 <a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">→ allow external content to see how</a>
 2. understand this is not peer-reviewed
 3. please [help provide sources](/feedback)
-4. <span class="fs-3"> [buy me a ☕️](/coffee){: .btn } </span> if you like
+4. <span class="fs-3"> [buy me a ☕️](/coffee){: .btn } </span>  if you like
 
 > special tip for students: To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
 
