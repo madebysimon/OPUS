@@ -155,7 +155,6 @@ Test bestanden
 
 <div class="container">
   <div class="aks-accordion" itemscope itemtype="https://schema.org/FAQPage" data-accordion="">
-    <h1>Frequently Asked Questions</h1>
     <div class="aks-accordion-row">
       <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
         <div class="aks-accordion-item-row">
@@ -168,7 +167,7 @@ Test bestanden
 
           </div>
           <div class="aks-accordion-item-title">
-            <h4 itemprop="name">What is the return policy?</h4>
+            <h3 itemprop="name">What is the return policy?</h3>
           </div>
         </div>
         <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
@@ -191,7 +190,7 @@ Test bestanden
 
           </div>
           <div class="aks-accordion-item-title">
-            <h4 itemprop="name">How long does it take to process a refund?</h4>
+            <h3 itemprop="name">How long does it take to process a refund?</h3>
           </div>
         </div>
         <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
@@ -212,7 +211,7 @@ Test bestanden
 
           </div>
           <div class="aks-accordion-item-title">
-            <h4 itemprop="name">What is the policy for late/non-delivery of items ordered online?</h4>
+            <h3 itemprop="name">What is the policy for late/non-delivery of items ordered online?</h3>
           </div>
         </div>
         <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
@@ -235,7 +234,7 @@ Test bestanden
 
           </div>
           <div class="aks-accordion-item-title">
-            <h4 itemprop="name">When will my credit card be charged?</h4>
+            <h3 itemprop="name">When will my credit card be charged?</h3>
           </div>
         </div>
         <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
@@ -256,7 +255,7 @@ Test bestanden
 
           </div>
           <div class="aks-accordion-item-title">
-            <h4 itemprop="name">Will I be charged sales tax for online orders?</h4>
+            <h3 itemprop="name">Will I be charged sales tax for online orders?</h3>
           </div>
         </div>
         <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
