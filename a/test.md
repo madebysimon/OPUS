@@ -2,15 +2,10 @@
 title: testKBarticle
 nav_exclude: true
 ---
-Pro {: .label }
-Tag {: .label }
+Pro
+{: .label }
+# Frequently Asked Questions
 
-## Test
-Test bestanden
-
-[Periodensystem der Störungen](/periodensystemderstoerungen)
-
-## Frequently Asked Questions
 
 <html lang="en" >
 <head>
