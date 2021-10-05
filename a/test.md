@@ -87,8 +87,8 @@ Test bestanden
   justify-content: flex-start;
 }
 .aks-accordion-item-icon {
-  width: 25px;
-  height: 25px;
+  width: 20px;
+  height: 20px;
   background: #2C4770;
   border-radius: 9999px;
   cursor: pointer;
