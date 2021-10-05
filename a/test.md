@@ -21,7 +21,7 @@ Test bestanden
 <style>
 .container {
   padding-right: 10px;
-  padding-left: 0px;
+  padding-left: 10px;
   margin-right: auto;
   margin-left: auto;
   padding-top: 2rem;
