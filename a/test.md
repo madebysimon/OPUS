@@ -89,7 +89,7 @@ Test bestanden
 .aks-accordion-item-icon {
   width: 25px;
   height: 25px;
-  background: #252525;
+  background: #2C4770;
   border-radius: 9999px;
   cursor: pointer;
   user-select: none;
@@ -255,7 +255,7 @@ Test bestanden
 
           </div>
           <div class="aks-accordion-item-title">
-            <h3 itemprop="name">Will I be charged sales tax for online orders?</h3>
+            <h3 itemprop="name">Question Five?</h3>
           </div>
         </div>
         <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
