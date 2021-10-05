@@ -19,11 +19,6 @@ Test bestanden
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-body {
-  margin: 0;
-  padding: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-}
 .container {
   padding-right: 10px;
   padding-left: 0px;
@@ -282,9 +277,10 @@ body {
 
 </div>
 <!-- partial -->
+
   <script src='/assets/page/jquery.min'></script>
-  <script  src="./script.js"></script>
-  <script>
+  <script src="./script.js"></script>
+<script>
     (function () {
   "use strict";
   var jQueryPlugin = (window.jQueryPlugin = function (ident, func) {
@@ -309,7 +305,6 @@ body {
     };
   });
 })();
-
 (function () {
   "use strict";
   function Accordion($roots) {
