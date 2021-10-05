@@ -4,6 +4,7 @@ nav_exclude: true
 ---
 Pro
 {: .label }
+this article is written for mental health professionals
 # Frequently Asked Questions
 
 
