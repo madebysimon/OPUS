@@ -334,7 +334,7 @@ this article is written for mental health professionals
 ---
 
 <html>
-<script>
+<style>
 .container {
   display: flex;
   width: 100%;
@@ -372,7 +372,8 @@ this article is written for mental health professionals
   width: 100%;
   height: 100%;
 }
-</script>
+</style>
+
 <div class="container">
   <div class="box">
     <img src="https://source.unsplash.com/1000x800">
