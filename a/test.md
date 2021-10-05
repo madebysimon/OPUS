@@ -21,7 +21,7 @@ Test bestanden
 <style>
 .container {
   padding-right: 10px;
-  padding-left: 10px;
+  padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
   padding-top: 2rem;
@@ -87,8 +87,8 @@ Test bestanden
   justify-content: flex-start;
 }
 .aks-accordion-item-icon {
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
   background: #2C4770;
   border-radius: 9999px;
   cursor: pointer;
