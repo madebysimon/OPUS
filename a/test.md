@@ -100,7 +100,7 @@ Test bestanden
   text-align: center;
 }
 .aks-accordion-item-icon svg {
-  width: 15px;
+  width: 20px;
   fill: white;
   margin: 0 auto;
 }
