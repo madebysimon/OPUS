@@ -89,7 +89,7 @@ Test bestanden
 .aks-accordion-item-icon {
   width: 25px;
   height: 25px;
-  background: #DADADA;
+  background: rgb(218,218,218,0.5);
   border-radius: 9999px;
   cursor: pointer;
   user-select: none;
