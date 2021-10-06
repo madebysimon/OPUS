@@ -14,10 +14,10 @@ nav_exclude: true
       margin-top: 10px;
       list-style: none;
       position: relative;
-      padding: 0px 60px;s
+      padding: 0px 60px;
       color: #000;
     }
-    .container ul:before {
+    .container ul:beforecontainer {
       content: "";
       width: 0px;
       height: 100%;
@@ -44,18 +44,18 @@ nav_exclude: true
       top: 0;
       position: absolute;
     }
-    .container ul li > span:before, .container ul li > span:after {
+    .container ul li > span:beforecontainer, .container ul li > span:aftercontainer {
       content: "";
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      border: 2px solid #edd;
+      border: 2px solid #ddd;
       position: absolute;
       background: #fff;
       left: -5px;
       top: 0;
     }
-    .container ul li span:after {
+    .container ul li span:aftercontainer {
       top: 100%;
     }
     .container ul li > div {
@@ -71,6 +71,7 @@ nav_exclude: true
       margin-top: 5px;
       margin-bottom: 10px;
     }
+
     .container div .info {
       font-weight: 300;
     }
