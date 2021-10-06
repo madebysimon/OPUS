@@ -1,0 +1,9 @@
+h1 {
+  color: blue;
+  margin-right: 30px;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Helvetica Neue", Arial, sans-serif !default;
+}
