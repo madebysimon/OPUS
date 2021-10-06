@@ -18,7 +18,7 @@ nav_exclude: true
   position: fixed;
   display: flex;
   min-height: 25vh;
-  width: auto;
+  max-width: 800px;
 }
 .content {
   box-shadow: 0 0 40px rgba(255,255,255,.2);
@@ -39,7 +39,6 @@ nav_exclude: true
 
 <div class="hero">
   <h1>Get scrollin'</h1>
-  </div>
 </div>
 <div class="content">
 
