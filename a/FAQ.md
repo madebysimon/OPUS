@@ -1,5 +1,5 @@
 ---
-title: testKBarticle
+title: FAQ
 nav_exclude: true
 ---
 Pro
