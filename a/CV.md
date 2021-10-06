@@ -19,7 +19,6 @@ nav_exclude: true
       color: #000;
     }
     .container ul:before {
-      content: "";
       width: 1px;
       height: 100%;
       position: absolute;
