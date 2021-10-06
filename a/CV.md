@@ -5,7 +5,7 @@ nav_exclude: true
 
 ## Notable Experiences
 
-<html>
+<html lang="en" >
   <head>
     <meta charset="UTF-8">
     <style>
@@ -17,7 +17,8 @@ nav_exclude: true
       padding: 0px 60px;
       color: #000;
     }
-    .container ul:beforecontainer {
+    .container ul:before {
+      color: rgba(172, 103, 103, 0);
       content: "";
       width: 0px;
       height: 100%;
@@ -44,7 +45,7 @@ nav_exclude: true
       top: 0;
       position: absolute;
     }
-    .container ul li > span:beforecontainer, .container ul li > span:aftercontainer {
+    .container ul li > span:before, .container ul li > span:after {
       content: "";
       width: 8px;
       height: 8px;
@@ -55,7 +56,7 @@ nav_exclude: true
       left: -5px;
       top: 0;
     }
-    .container ul li span:aftercontainer {
+    .container ul li span:after {
       top: 100%;
     }
     .container ul li > div {
@@ -71,7 +72,6 @@ nav_exclude: true
       margin-top: 5px;
       margin-bottom: 10px;
     }
-
     .container div .info {
       font-weight: 300;
     }
