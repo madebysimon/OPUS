@@ -5,8 +5,7 @@ nav_exclude: true
 
 ## Notable Experiences
 
-<!DOCTYPE html>
-  <html lang="en" >
+<html>
   <head>
     <meta charset="UTF-8">
     <style>
@@ -15,7 +14,7 @@ nav_exclude: true
       margin-top: 10px;
       list-style: none;
       position: relative;
-      padding: 0px 60px;
+      padding: 0px 60px;s
       color: #000;
     }
     .container ul:before {
