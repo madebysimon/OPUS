@@ -3,12 +3,15 @@ nav_exclude: true
 title: HomeEN
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 ---
+Early Access
+{: .label .label-yellow }
 # 👋🏼 Welcome to OPUS
 {: .fs-9 }
 This site is still under construction 🚧<br>
 Feel free to sneak around (or come back later).<br>
 Beware content and links may change during this period.
 {: .fs-6 .fw-300 }
+
 
 [Get started](/OER){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [What is this](/About){: .btn .fs-5 .mb-4 .mb-md-0 }
