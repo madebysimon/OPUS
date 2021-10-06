@@ -5,7 +5,7 @@ nav_exclude: true
 
 ## Notable Experiences
 
-<html>
+<!DOCTYPE html>
   <html lang="en" >
   <head>
     <meta charset="UTF-8">
@@ -111,8 +111,8 @@ nav_exclude: true
         </li>
         <li>
           <div><span></span>
-            <div class="title">Codify</div>
             <div class="info">Let&apos;s make coolest things in css</div>
+            <div class="title">Codify</div>
             <div class="type">Review</div>
           </div> <span class="number"><span>15:00</span> <span>17:45</span></span>
         </li>
