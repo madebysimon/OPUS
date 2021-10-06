@@ -49,7 +49,7 @@ nav_exclude: true
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      border: 2px solid #ddd;
+      border: 2px solid #edd;
       position: absolute;
       background: #fff;
       left: -5px;
