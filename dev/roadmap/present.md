@@ -1,10 +1,2 @@
----
-title: RoadmapCurrent
----
+<h2> Current Sprint </h2>
 
-## Current Sprint
-
-- [ ] x
-- [ ] y
-- [ ] z
-- [ ] a

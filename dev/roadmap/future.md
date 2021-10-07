@@ -1,10 +1,2 @@
----
-title: RoadmapFuture
----
+<h2> Future </h2>
 
-## Future
-
-- [ ] x
-- [ ] y
-- [ ] z
-- [ ] a
