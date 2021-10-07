@@ -1,7 +1,7 @@
 ---
 title: Autor
 nav_exclude: true
-author: Simon
+author: simon
 datePublished: 7.10.2021
 lastEdit: 7.10.2021
 contributors: Olaf<br>John<br>John<br>John<br>John
@@ -12,8 +12,6 @@ Something [^1]
 
 [^1]: This is the first footnote. <br>this is a new line
 	this indented stuff is included in the same line
-
-
 
 ---
 
@@ -162,7 +160,7 @@ Something [^1]
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text">This page was published on {{ page.datePublished }}.<br>last updated: {{ page.lastEdit }}<br>Thanks to further contributors to this page:<br>{{ page.contributors }}</p>
+            <p itemprop="text">this page was published on {{ page.datePublished }}<br>this page was last updated: {{ page.lastEdit }}<br><br>Thanks to all further contributors to this page:<br>{{ page.contributors }}</p>
           </div>
         </div>
       </div>
