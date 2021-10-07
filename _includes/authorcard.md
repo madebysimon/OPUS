@@ -143,7 +143,7 @@
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text"><h4>published on {{ page.published }}  | lastest edit: {{ page.last_edit }}</h4><br>This article is maintained by @{{ page.author }}<br><br>Thanks to all further contributors to this page:<br>{{ page.contributors }}</p>
+            <p itemprop="text"><h4>published on {{ page.published }}  | lastest edit: {{ page.last_edit }}</h4><br><br>Thanks to all further contributors to this page:<br>{{ page.contributors }}</p>
           </div>
         </div>
       </div>
