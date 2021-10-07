@@ -1,10 +1,11 @@
 ---
 title: Autor
-nav_exclude: true
+nav_exclude: truu
 author: simon
-datePublished: 7.10.2021
-lastEdit: 7.10.2021
-contributors: Olaf<br>John<br>John<br>John<br>John
+contributors: Theodor, Sybille, Anjel
+published: 7.10.21
+last_edit: 7.10.21
+
 ---
 
 # Title
@@ -15,4 +16,4 @@ Something [^1]
 	this indented stuff is included in the same line
 
 
-{% include_relative authorHTML.md %}
+{% include authorHTML.md %}
