@@ -5,8 +5,6 @@ nav_exclude: true
 
 ## Notable Experience
 
-<iframe name="myiFrame" src="/assets/page/Autor.html" allowfullscreen="true" frameborder="0" id="iFrameResizer0" scrolling="yes" style="min-height: 200px; width: 100%; overflow: hidden; max-height: 700px"></iframe>
-
 ---
 
 <html lang="en" >
@@ -150,8 +148,7 @@ nav_exclude: true
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text">Simon Kelch is the author of this article.</p>
-            </p>
+            <p itemprop="text">Simon Kelch is the author of this article.<a href="#">test</a></p>
           </div>
         </div>
       </div>
