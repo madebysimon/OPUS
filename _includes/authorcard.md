@@ -4,11 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
     .container {
-      padding-right: 10px;
+      padding-right: 0px;
       padding-left: 0px;
       margin-right: auto;
       margin-left: auto;
-      padding-top: 2rem;
+      padding-top: 1rem;
       max-width: 735px;
     }
     @media (min-width: 768px) {
