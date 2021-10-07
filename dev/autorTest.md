@@ -20,5 +20,6 @@ Something [^1]
 - [ ] Update the website
 - [ ] Contact the media
 
+### This is an H3
 
 {% include authorcard.md %}
