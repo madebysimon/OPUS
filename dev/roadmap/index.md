@@ -12,8 +12,8 @@ title: Roadmap
     flex-wrap: wrap;
   }
   .child {
-    flex: 0 1 240px;
-    flex: 1 1 240px;
+    flex: 0 1 200px;
+    flex: 1 1 200px;
     border: 1px solid;
     border-radius: 20px;
     border-color: #f8f8f8;
