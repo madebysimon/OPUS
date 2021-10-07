@@ -143,9 +143,9 @@
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <h3><div style="top: 0px; font-size: 13px">Published on {{ page.published }}</div>
-            <div style="top: 0px; font-size: 13px">Last edited  {{ page.last_edit }}</div><br>
-            <div style="top: 0px; font-size: 13px">Further contributors: {{ page.contributors }}</div></h3>
+            <h3><div style="top: 0px; font-size: 13px">published on {{ page.published }}</div>
+            <div style="top: 0px; font-size: 13px">last edited  {{ page.last_edit }}</div><br>
+            <div style="top: 0px; font-size: 13px">further contributors: {{ page.contributors }}</div></h3>
           </div>
         </div>
       </div>
