@@ -54,7 +54,7 @@
     .aks-accordion-item {
       width: 100%;
       border-top: 1px solid #DADADA;
-      padding-top: 20px;
+      padding-top: 12px;
       padding-right: 5px;
       padding-bottom: 12px;
       padding-left: 5px;
@@ -139,11 +139,11 @@
 		</svg>
             </div>
             <div class="aks-accordion-item-title">
-              <h3 itemprop="name">by @{{ page.author }}</h3>
+              <h3 itemprop="name">written by @{{ page.author }}</h3>
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text"><h4>published on {{ page.published }}  |  last edit: {{ page.last_edit }}</h4><br>this article was written by @{{ page.author }}<br><br>Thanks to all further contributors to this page:<br>{{ page.contributors }}</p>
+            <p itemprop="text"><h4>published on {{ page.published }}  |  lastest edit: {{ page.last_edit }}</h4><br>this article is maintained by @{{ page.author }}<br><br>Thanks to all further contributors to this page:<br>{{ page.contributors }}</p>
           </div>
         </div>
       </div>
