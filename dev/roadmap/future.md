@@ -1,2 +1,1 @@
-<h2> Planned </h2>
-
+{% include authorcard.md %}

@@ -1,2 +1,1 @@
-<h2> Current Sprint </h2>
-
+{% include authorcard.md %}
