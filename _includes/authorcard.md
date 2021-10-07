@@ -96,7 +96,7 @@
     .aks-accordion-item-content {
       display: none;
       width: 100%;
-      padding-top: 12px;
+      padding-top: 5px;
       padding-right: 8px;
       padding-bottom: 0;
       padding-left: 42px;
