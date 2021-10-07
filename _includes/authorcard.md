@@ -139,11 +139,11 @@
 		</svg>
             </div>
             <div class="aks-accordion-item-title">
-              <h4 itemprop="name">written by @{{ page.author }} | see more</h4>
+              <h3 itemprop="name">by @{{ page.author }} on {{ page.published }} | last edit: {{ page.last_edit }}</h3>
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text">this page was published on {{ page.published }}<br>this page was last updated {{ page.last_edit }}<br><br>Thanks to all further contributors to this page:<br>{{ page.contributors }}</p>
+            <p itemprop="text">this article was written by @{{ page.author }} and published on {{ page.published }}<br>this page was last updated {{ page.last_edit }}<br><br>Thanks to all further contributors to this page:<br>{{ page.contributors }}</p>
           </div>
         </div>
       </div>
