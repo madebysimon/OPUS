@@ -15,6 +15,7 @@ title: Roadmap
     flex: 0 1 300px;
     flex: 1 1 300px;
     background: white;
+    border: 1px;
     border-radius: 15%;
     border-color: #f8f8f8;
     text-align: center;
