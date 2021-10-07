@@ -4,12 +4,7 @@ nav_order: 4
 ---
 # Feedback Ballot 📮
 
-#  Roadmap
-## Current Feature Sprint
-- [x] Imprint / Impressum
-- [x] fix ugly png logo
-- [ ] fix embedded files
-- [ ] enable file access
+
 
 <br>
 <span class="fs-3">
