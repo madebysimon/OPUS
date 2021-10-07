@@ -15,12 +15,10 @@ title: Roadmap
     flex: 0 1 200px;
     flex: 1 1 200px;
     border: 1px solid;
-    border-radius: 20px;
+    border-radius: 5px;
     border-color: #f8f8f8;
     text-align: center;
-    backdrop-filter: blur(10px) saturate(100%) contrast(45%) brightness(130%);
-    box-shadow: 0 0 .5rem 0 rgba(0, 0, 0, 0.1);
-    margin: 1em;
+    margin: .25em;
     }
     
   .content {
