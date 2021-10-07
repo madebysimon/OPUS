@@ -1,13 +1,16 @@
 ---
 title: Autor
 nav_exclude: true
+author: Simon
+authorfellowship: MaiaHealth
+contributors:
 ---
 
 ## Notable Experience
 Something [^1]
 
-[^1]: This is the first footnote.
-	this is indented as the second line
+[^1]: This is the first footnote. <br>this is a new line
+	this indented stuff is included in the same line
 
 
 
@@ -154,11 +157,11 @@ Something [^1]
 		</svg>
             </div>
             <div class="aks-accordion-item-title">
-              <h3 itemprop="name">written by @simon</h3>
+              <h3 itemprop="name">written by @{{ page.author }}*</h3>
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text">Simon Kelch is the author of this article.<a href="#">test</a></p>
+            <p itemprop="text">* {{ page.contributors }} <br> further contributors to this page:<br>{{ page.contributors }}</p>
           </div>
         </div>
       </div>
