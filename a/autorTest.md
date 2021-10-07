@@ -62,7 +62,7 @@ nav_exclude: true
     }
     .aks-accordion-item {
       width: 100%;
-      border-bottom: 1px solid #DADADA;
+      border-top: 1px solid #DADADA;
       padding-top: 20px;
       padding-right: 5px;
       padding-bottom: 12px;
@@ -144,7 +144,7 @@ nav_exclude: true
             <div class="aks-accordion-item-icon">
             </div>
             <div class="aks-accordion-item-title">
-              <h3 itemprop="name">written by @Simon</h3>
+              <h3 itemprop="name">written by @simon</h3>
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
