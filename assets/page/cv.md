@@ -4,8 +4,9 @@ nav_exclude: true
 ---
 
 ## Notable Experience
+---
 
 
 ---
 
-{% include relative timeline.html %}
+{% include_relative timeline.html %}
