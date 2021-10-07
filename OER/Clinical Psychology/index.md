@@ -5,6 +5,10 @@ nav_order: 1
 parent: Collections (OER)
 has_children: true
 has_toc: true
+author: simon
+contributors: Theodor, Sybille, Anjel
+published: 7.10.21
+last_edit: 7.10.21
 ---
 Open Education Resources
 # Clinical Psychology
@@ -125,3 +129,7 @@ Deprecated
 ```markdown
 [Link button](http://example.com/){: .btn }
 ```
+
+---
+
+{% include authorHTML.md %}
