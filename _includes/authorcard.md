@@ -139,7 +139,7 @@
 		</svg>
             </div>
             <div class="aks-accordion-item-title">
-              <h3 itemprop="name">written by @{{ page.author }}</h3>
+              <h4 itemprop="name">written by @{{ page.author }} | see more</h4>
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
