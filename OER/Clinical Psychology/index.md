@@ -4,7 +4,6 @@ title: Clinical Psychology
 nav_order: 1
 parent: Collections (OER)
 has_children: true
-has_toc: true
 author: simon
 contributors: Theodor, Sybille, Anjel
 published: 7.10.21
