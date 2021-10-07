@@ -4,6 +4,12 @@ nav_exclude: true
 ---
 
 ## Notable Experience
+Something [^1]
+
+[^1]: This is the first footnote.
+	this is indented as the second line
+
+
 
 ---
 
