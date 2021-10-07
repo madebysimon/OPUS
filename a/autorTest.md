@@ -1,7 +1,7 @@
 ---
 title: Autor
 nav_exclude: true
-author: @simon
+author: simon
 datePublished: 7.10.2021
 lastEdit: 7.10.2021
 contributors: Olaf<br>John<br>John<br>John<br>John
@@ -150,7 +150,7 @@ contributors: Olaf<br>John<br>John<br>John<br>John
 		</svg>
             </div>
             <div class="aks-accordion-item-title">
-              <h3 itemprop="name">written by {{ page.author }}</h3>
+              <h3 itemprop="name">written by @{{ page.author }}</h3>
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
