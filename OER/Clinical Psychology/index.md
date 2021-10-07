@@ -132,4 +132,4 @@ Deprecated
 
 ---
 
-{% include authorHTML.md %}
+{% include authorcard.md %}

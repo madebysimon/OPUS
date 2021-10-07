@@ -9,7 +9,7 @@
       margin-right: auto;
       margin-left: auto;
       padding-top: 2rem;
-      max-width: 800px;
+      max-width: 735px;
     }
     @media (min-width: 768px) {
       .container {

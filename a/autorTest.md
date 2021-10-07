@@ -21,4 +21,4 @@ Something [^1]
 - [ ] Contact the media
 
 
-{% include authorHTML.md %}
+{% include authorcard.md %}
