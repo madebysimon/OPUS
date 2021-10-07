@@ -7,13 +7,7 @@ lastEdit: 7.10.2021
 contributors: Olaf<br>John<br>John<br>John<br>John
 ---
 
-## Notable Experience
-Something [^1]
-
-[^1]: This is the first footnote. <br>this is a new line
-	this indented stuff is included in the same line
-
----
+# Title
 
 <html lang="en" >
   <head>
@@ -235,4 +229,10 @@ Something [^1]
     </script>
   </body>
 </html>
+
+
+Something [^1]
+
+[^1]: This is the first footnote. <br>this is a new line
+	this indented stuff is included in the same line
 
