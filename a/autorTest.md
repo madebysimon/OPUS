@@ -88,7 +88,7 @@ nav_exclude: true
       text-align: center;
     }
     .aks-accordion-item-icon svg {
-      width: 15px;
+      width: 5px;
       fill: black;
       margin: 0 auto;
     }
