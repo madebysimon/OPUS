@@ -22,11 +22,4 @@ Something [^1]
 
 
 {% include authorcard.md %}
-
-<script src="https://utteranc.es/client.js"
-        repo="madebysimon/OPUS"
-        issue-term="pathname"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+{% include comments.md %}
