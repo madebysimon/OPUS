@@ -16,4 +16,9 @@ Something [^1]
 	this indented stuff is included in the same line
 
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
 {% include authorHTML.md %}
