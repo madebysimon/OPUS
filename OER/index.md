@@ -5,7 +5,8 @@ nav_order: 1
 has_children: true
 has_toc: true
 ---
-
+<p class="label label-yellow">academic</p>
+#academic / #EdX
 # Open Education Resources
 
 Content from this site is free to use for educational/academic purposes. 

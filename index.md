@@ -5,7 +5,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 ---
 Early Access
 {: .label .label-yellow }
-# 👋🏼 Welcome to OPUS
+# Welcome to OPUS 👋🏼
 {: .fs-9 }
 This site is still under construction 🚧<br>
 Feel free to sneak around (or come back later).<br>
