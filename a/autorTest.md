@@ -4,7 +4,7 @@ nav_exclude: true
 author: Simon
 datePublished: 7.10.2021
 lastEdit: 7.10.2021
-contributors: Olaf<br>John
+contributors: Olaf<br>John<br>John<br>John<br>John
 ---
 
 ## Notable Experience
@@ -162,7 +162,7 @@ Something [^1]
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text">This page was published on {{ page.datePublished }}.<br>last updated on {{ page.lastEdit }}.<br>Thanks to further contributors to this page:<br>{{ page.contributors }}</p>
+            <p itemprop="text">This page was published on {{ page.datePublished }}.<br>last updated: {{ page.lastEdit }}<br>Thanks to further contributors to this page:<br>{{ page.contributors }}</p>
           </div>
         </div>
       </div>
