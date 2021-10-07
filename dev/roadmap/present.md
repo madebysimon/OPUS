@@ -1,1 +1,4 @@
-{% include authorcard.md %}
+<hr>
+- a 
+- b
+- c
