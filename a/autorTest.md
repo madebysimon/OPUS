@@ -3,7 +3,7 @@ title: Autor
 nav_exclude: true
 author: Simon
 authorfellowship: MaiaHealth
-contributors:
+contributors: Olaf
 ---
 
 ## Notable Experience
@@ -157,11 +157,11 @@ Something [^1]
 		</svg>
             </div>
             <div class="aks-accordion-item-title">
-              <h3 itemprop="name">written by @{{ page.author }}*</h3>
+              <h3 itemprop="name">written by @{{ page.author }}</h3>
             </div>
           </div>
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-            <p itemprop="text">* {{ page.contributors }} <br> further contributors to this page:<br>{{ page.contributors }}</p>
+            <p itemprop="text">{{ page.author }} is at {{ page.authorfellowship }}<br> further contributors to this page:<br>{{ page.contributors }}</p>
           </div>
         </div>
       </div>
