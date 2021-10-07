@@ -16,7 +16,7 @@ title: Roadmap
     flex: 1 1 300px;
     background: white;
     border-radius: 15%;
-    border: 1px #f8f8f8;
+    border-color: #f8f8f8;
     text-align: center;
   }
   body {
@@ -27,13 +27,13 @@ title: Roadmap
   <body>
   <div class="parent">
     <div class="child">
-      <h2>Past</h2>
+	{% include_relative past.md %}
     </div>
     <div class="child">
-      <h2>Present</h2>
+	{% include_relative present.md %}
     </div>
     <div class="child">
-      <h2>Future</h2>
+	{% include_relative future.md %}
     </div>
   </div>
   </body>
