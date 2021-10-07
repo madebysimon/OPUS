@@ -3,7 +3,7 @@ title: 🆘 Crisis Resources
 nav_order: 99
 ---
 
-# Crisis Resources
+# Distress Resources
 
 ---
 
