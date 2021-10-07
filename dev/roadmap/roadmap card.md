@@ -18,6 +18,8 @@ title: Roadmap
     border-radius: 20px;
     border-color: #f8f8f8;
     text-align: center;
+    background: rgba(44,71,112,.1);
+    background: linear-gradient(0deg, rgba(44,71,112,.15) 0%, rgba(44,71,112,.1) 100%);
     backdrop-filter: blur(10px) saturate(100%) contrast(45%) brightness(130%);
     box-shadow: 0 0 .5rem 0 rgba(0, 0, 0, 0.1);
     margin: 1em;
