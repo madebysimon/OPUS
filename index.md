@@ -170,14 +170,17 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                             </svg>
                         </div>
                     <div class="aks-accordion-item-title">
-                    <h3 itemprop="name">our privacy policy</h3>
+                    <h3 itemprop="name">Your privacy.</h3>
                     </div>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
                     <p itemprop="text">
-                        We take your privacy serious by actually keeping your visit private.
-                        This page does not track your visit – not a single 🍪.
-                        Also.. no ads. We hate them just as much as you do. 
+                        Mental health is a deeply personal and potentially delicate matter. We keep your visit private.
+                        <ul>
+                            <li>We don't track your visit.</li>
+                            <li>We don't store cookies.</li>
+                            <li>We don't run ads.</li>
+                        </ul>
                     </p>
                 </div>
             </div>
@@ -194,9 +197,9 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
                     <p itemprop="text"> Local and State sales tax will be collected if your recipient's mailing address is in:
                     <ul>
-                        <li>Arizona</li>
-                        <li>California</li>
-                        <li>Colorado</li>
+                        <li>We don't track your visit.</li>
+                        <li>We don't store cookies.</li>
+                        <li>We don't run ads.</li>
                     </ul>
                     </p>
                 </div>
