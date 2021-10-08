@@ -5,7 +5,7 @@ nav_exclude: true
 Pro
 {: .label }
 this article is written for mental health professionals
-# Frequently Asked Questions
+# Frequently Asked Questions <p class="label">Pro</p>
 
 <html lang="en" >
   <head>
