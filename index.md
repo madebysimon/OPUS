@@ -76,7 +76,7 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
     }
     .aks-accordion-item {
       width: 100%;
-      border-bottom: 1px solid #DADADA;
+      border-bottom: 1px solid #eeebee;
       padding-top: 20px;
       padding-right: 5px;
       padding-bottom: 12px;
@@ -91,7 +91,7 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
     .aks-accordion-item-icon {
       width: 25px;
       height: 25px;
-      background: rgb(218,218,218,0.5);
+      background: #f8f8f8;
       border-radius: 9999px;
       cursor: pointer;
       user-select: none;
@@ -167,10 +167,10 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
                     <p itemprop="text">
-                        Mental health is a deeply personal and potentially delicate matter. We keep your visit private.
+                        Mental health is a deeply personal and potentially delicate matter.<br>That's why we keep your visit private.
                         <ul>
                             <li>We don't track your visit.</li>
-                            <li>We don't store cookies.</li>
+                            <li>We don't disclose any data.</li>
                             <li>We don't run ads.</li>
                         </ul>
                     </p>
@@ -190,11 +190,11 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                     <p itemprop="text">There are some rules of engagement to this site.
                         <ol>
                             <li>
-                            <strong>Please cite and give credit</strong> to any given sources or, if none are provided, make sure to link back to the article.
+                            <strong>Please cite and give credit</strong> to any given sources or, if none are provided, make sure to include a date with your link back to the article.
                             </li>
-                            <li>Please note this site is <strong>neither in peer-review nor rigorously updated </strong>.
+                            <li>Please note this site is neither in peer-review nor rigorously updated. Remember some of what is considered true this year might no longer be in the next.
                             </li>
-                            <li>Please <strong>help provide sources</strong> and <strong>report copyright issues</strong>.
+                            <li>Please <strong>help provide further sources</strong> and <strong>report copyright issues</strong>.
                             </li>
                         </ol>
                     </p>
@@ -269,11 +269,5 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
             $("[data-ripple]").Ripple_Button();
         })();
     </script>
-</body>
+  </body>
 </html>
-
----
-
-<a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">→ allow external content to see how</a>
-
-<iframe name="myiFrame" src="about:blank" allowfullscreen="true" frameborder="0" id="iFrameResizer0" scrolling="no" style="min-height: 227px; width: 100%; overflow: hidden; height: 286px;"></iframe>
