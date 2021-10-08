@@ -170,7 +170,7 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                             </svg>
                         </div>
                     <div class="aks-accordion-item-title">
-                    <h3 itemprop="name">Your privacy.</h3>
+                    <h3 itemprop="name">Your privacy first.</h3>
                     </div>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
@@ -191,16 +191,20 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                         <svg class="aks-accordion-item-icon-close" viewBox="0 0 32 32"><path d="M15.997 13.374l-7.081 7.081L7 18.54l8.997-8.998 9.003 9-1.916 1.916z" /></svg>
                     </div>
                     <div class="aks-accordion-item-title">
-                        <h3 itemprop="name">Question Five?</h3>
+                        <h3 itemprop="name">Terms of Service / Rules of Engagement</h3>
                     </div>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-                    <p itemprop="text"> Local and State sales tax will be collected if your recipient's mailing address is in:
-                    <ul>
-                        <li>We don't track your visit.</li>
-                        <li>We don't store cookies.</li>
-                        <li>We don't run ads.</li>
-                    </ul>
+                    <p itemprop="text">
+                        <ol>
+                            <li>
+                            <strong>Please cite and give credit</strong> to any given sources (see footnotes) or - if none are provided - link back to the article. <a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">→ allow external content to see how</a>
+                            </li>
+                            <li>
+                            understand this is not peer-reviewed
+                            </li>
+                            <li>please <a href="/feedback">help provide sources</a></li>
+                        </ol>
                     </p>
                 </div>
             </div>
