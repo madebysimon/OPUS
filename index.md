@@ -162,7 +162,7 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                             </svg>
                         </div>
                     <div class="aks-accordion-item-title">
-                    <h3 itemprop="name">Your privacy first.</h3>
+                    <h3 itemprop="name">Your privacy first</h3>
                     </div>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
@@ -187,15 +187,14 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                     </div>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
-                    <p itemprop="text">
+                    <p itemprop="text">There are some rules of engagement to this site.
                         <ol>
                             <li>
-                            <strong>Please cite and give credit</strong> to any given sources (see footnotes) or - if none are provided - link back to the article.
+                            <strong>Please cite and give credit</strong> to any given sources or, if none are provided, make sure to link back to the article.
                             </li>
-                            <li>
-                            understand this is not peer-reviewed
+                            <li>Please note this site is <strong>neither in peer-review nor rigorously updated </strong>.
                             </li>
-                            <li>please help provide sources
+                            <li>Please <strong>help provide sources</strong> and <strong>report copyright issues</strong>.
                             </li>
                         </ol>
                     </p>
@@ -272,7 +271,6 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
     </script>
 </body>
 </html>
-
 
 ---
 
