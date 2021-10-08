@@ -20,7 +20,6 @@ Beware content and links may change during this period.
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the entry points (collections) linked in the menu. <br>
 If you ever wish to return to this page, click the logo to your upper left.
-
 <html>
   <head>
     <meta charset="UTF-8">
@@ -150,9 +149,8 @@ If you ever wish to return to this page, click the logo to your upper left.
     </style>
   </head>
   <body>
-    <div class="container">
+    <div class="container, main-content">
         <div class="aks-accordion" itemscope itemtype="https://schema.org/FAQPage" data-accordion="">
-            <div class="aks-accordion-row">
                 <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
                 <div class="aks-accordion-item-row">
                     <div class="aks-accordion-item-icon">
@@ -175,8 +173,6 @@ If you ever wish to return to this page, click the logo to your upper left.
                         </ul>
                     </p>
                 </div>
-            </div>
-            <div class="aks-accordion-row">
                 <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
                 <div class="aks-accordion-item-row">
                     <div class="aks-accordion-item-icon">
@@ -200,11 +196,10 @@ If you ever wish to return to this page, click the logo to your upper left.
                         </ol>
                     </p>
                 </div>
-            </div>
+
         </div>
     </div>
     <script src='/assets/page/jquery.min'></script>
-    <script src="./script.js"></script>
     <script>
         (function () {
             "use strict";
