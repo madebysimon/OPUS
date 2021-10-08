@@ -242,26 +242,26 @@ nav_exclude: true
   <script src="./script.js"></script>
   <script>
       (function () {
-    "use strict";
-    var jQueryPlugin = (window.jQueryPlugin = function (ident, func) {
-      return function (arg) {
-        if (this.length > 1) {
-          this.each(function () {
-            var $this = $(this);
-            if (!$this.data(ident)) {
-              $this.data(ident, func($this, arg));
+        "use strict";
+        var jQueryPlugin = (window.jQueryPlugin = function (ident, func) {
+          return function (arg) {
+            if (this.length > 1) {
+              this.each(function () {
+                var $this = $(this);
+                if (!$this.data(ident)) {
+                  $this.data(ident, func($this, arg));
+                }
+              });
+              return this;
+            } else if (this.length === 1) {
+              if (!this.data(ident)) {
+                this.data(ident, func(this, arg));
+              }
+              return this.data(ident);
             }
-          });
-          return this;
-        } else if (this.length === 1) {
-          if (!this.data(ident)) {
-            this.data(ident, func(this, arg));
-          }
-          return this.data(ident);
-        }
-      };
-    });
-  })();
+          };
+        });
+      })();
   (function () {
     "use strict";
     function Accordion($roots) {
