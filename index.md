@@ -176,16 +176,9 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
                     <p itemprop="text">
                         We take your privacy serious by actually keeping your visit private.
+                        This page does not track your visit – not a single 🍪.
+                        Also.. no ads. We hate them just as much as you do. 
                     </p>
-                    <br>
-                    <p itemprop="text">
-                        This page does not track your visit – and doesn't store a single 🍪.
-                    </p>
-                    <br>
-                    <p itemprop="text">
-                        Also.. no ads. We hate them just as much as you do.
-                    </p>
-                    <br>
                 </div>
             </div>
             <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
