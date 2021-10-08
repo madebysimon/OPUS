@@ -29,14 +29,6 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
 3. please [help provide sources](/feedback)
 
 
-PS: 
-We take your privacy serious (as in: by actually doing it).<br>
-This page does not track your visit - not a single cookie.<br>
-Also.. no ads. We hate them as much as you do.
-
-<iframe name="myiFrame" src="about:blank" allowfullscreen="true" frameborder="0" id="iFrameResizer0" scrolling="no" style="min-height: 227px; width: 100%; overflow: hidden; height: 286px;"></iframe>
-
-
 <html>
   <head>
     <meta charset="UTF-8">
@@ -178,17 +170,22 @@ Also.. no ads. We hate them as much as you do.
                             </svg>
                         </div>
                     <div class="aks-accordion-item-title">
-                    <h3 itemprop="name">What is the return policy?</h3>
+                    <h3 itemprop="name">our privacy policy</h3>
                     </div>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
                     <p itemprop="text">
-                    Most unopened items in new condition and returned within <strong>90 days</strong> will receive a refund or exchange. Some items have a modified return policy noted on the receipt or packing slip. Items that are opened or damaged or do not have a receipt may be denied a refund or exchange. Items purchased online or in-store may be returned to any store.
+                        We take your privacy serious by actually keeping your visit private.
                     </p>
                     <br>
-                    <p>
-                    Online purchases may be returned via a major parcel carrier.
+                    <p itemprop="text">
+                        This page does not track your visit – and doesn't store a single 🍪.
                     </p>
+                    <br>
+                    <p itemprop="text">
+                        Also.. no ads. We hate them just as much as you do.
+                    </p>
+                    <br>
                 </div>
             </div>
             <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
@@ -282,3 +279,6 @@ Also.. no ads. We hate them as much as you do.
     </script>
 </body>
 </html>
+
+
+<iframe name="myiFrame" src="about:blank" allowfullscreen="true" frameborder="0" id="iFrameResizer0" scrolling="no" style="min-height: 227px; width: 100%; overflow: hidden; height: 286px;"></iframe>

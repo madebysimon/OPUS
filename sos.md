@@ -3,7 +3,7 @@ title: 🆘 Crisis Resources
 nav_order: 99
 ---
 
-# Distress Resources
+# Distress Resources 🚨
 
 ---
 
@@ -31,7 +31,7 @@ to Hamburg, Germany ([→ see international](/sos#international))
 | **Poison Control Center / Giftnotruf** | |
 | GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
 
-| **Taxi Services** <br>Do not drive. Go by cab, money is refunded by most health insurance. | |
+| **Taxi Services** 🚕 <br>Do not drive. Go by cab, money is refunded by most health insurance. | |
 | Taxi.de | [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/) |
 | FreeNow / MyTaxi | [App ↗](//free-now.com/de/) |
 | local to Hamburg | |
