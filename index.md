@@ -267,5 +267,3 @@ If you ever wish to return to this page, click the logo to your upper left.
             $("[data-ripple]").Ripple_Button();
         })();
     </script>
-  </body>
-</html>
