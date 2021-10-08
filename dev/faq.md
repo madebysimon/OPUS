@@ -155,7 +155,8 @@ this article is written for mental health professionals
           <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
             <p itemprop="text">Most unopened items in new condition and returned within <strong>90 days</strong> will receive a refund or exchange. Some items have a modified return policy noted on the receipt or packing slip. Items that are opened or damaged or do not have a receipt may be denied a refund or exchange. Items purchased online or in-store may be returned to any store.
               <br />
-              <p>Online purchases may be returned via a major parcel carrier. <a href="http://example.com/returns"> Click here </a> to initiate a return.</p>
+              <p>Online purchases may be returned via a major parcel carrier. <a href="/test"> Click here </a> to initiate a return.</p>
+	<p><span class="fs-3"> <a href="/test" class="btn">Tiny ass button</a> </span></p>
             </p>
           </div>
         </div>
