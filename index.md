@@ -154,13 +154,13 @@ If you ever wish to return to this page, click the logo to your upper left.
         <div class="aks-accordion" itemscope itemtype="https://schema.org/FAQPage" data-accordion="">
             <div class="aks-accordion-row">
                 <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
-                    <div class="aks-accordion-item-row">
-                        <div class="aks-accordion-item-icon">
+                <div class="aks-accordion-item-row">
+                    <div class="aks-accordion-item-icon">
                             <svg class="aks-accordion-item-icon-open" viewBox="0 0 32 32"><path d="M16.003 18.626l7.081-7.081L25 13.46l-8.997 8.998-9.003-9 1.917-1.916z" />
                             </svg>
                             <svg class="aks-accordion-item-icon-close" viewBox="0 0 32 32"><path d="M15.997 13.374l-7.081 7.081L7 18.54l8.997-8.998 9.003 9-1.916 1.916z" />
                             </svg>
-                        </div>
+                    </div>
                     <div class="aks-accordion-item-title">
                     <h3 itemprop="name">Your privacy first</h3>
                     </div>
