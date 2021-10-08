@@ -21,14 +21,6 @@ If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the entry points (collections) linked in the menu. <br>
 If you ever wish to return to this page, click the logo to your upper left. <br>
 
-## Terms of Service / Rules of Engagement
-
-1. **Please cite and give credit** to any given sources (see footnotes) or - if none are provided - link back to the article.
-<a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">→ allow external content to see how</a>
-2. understand this is not peer-reviewed
-3. please [help provide sources](/feedback)
-
-
 <html>
   <head>
     <meta charset="UTF-8">
@@ -198,12 +190,13 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                     <p itemprop="text">
                         <ol>
                             <li>
-                            <strong>Please cite and give credit</strong> to any given sources (see footnotes) or - if none are provided - link back to the article. <a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">→ allow external content to see how</a>
+                            <strong>Please cite and give credit</strong> to any given sources (see footnotes) or - if none are provided - link back to the article.
                             </li>
                             <li>
                             understand this is not peer-reviewed
                             </li>
-                            <li>please <a href="/feedback">help provide sources</a></li>
+                            <li>please help provide sources
+                            </li>
                         </ol>
                     </p>
                 </div>
@@ -280,5 +273,9 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
 </body>
 </html>
 
+
+---
+
+<a href="https://citation-example-generator.scribbr.com/?locale=de-DE&amp;citationStyle=apa&amp;citationStyles=apa%2Charvard-zitierweise%2Cdeutsche-zitierweise&amp;sourceType=webpage&amp;ref=https%3A%2F%2Fwww.scribbr.de%2Frichtig-zitieren%2Finternetquellen-zitieren%2F&amp;title=Internetquellen%2520einfach%2520zitieren%253A%2520Unterschiede%2520%2526%2520Beispiele" target="myiFrame">→ allow external content to see how</a>
 
 <iframe name="myiFrame" src="about:blank" allowfullscreen="true" frameborder="0" id="iFrameResizer0" scrolling="no" style="min-height: 227px; width: 100%; overflow: hidden; height: 286px;"></iframe>
