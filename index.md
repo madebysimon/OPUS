@@ -19,7 +19,7 @@ Beware content and links may change during this period.
 ---
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the entry points (collections) linked in the menu. <br>
-If you ever wish to return to this page, click the logo to your upper left. <br>
+If you ever wish to return to this page, click the logo to your upper left.
 
 <html>
   <head>
@@ -176,7 +176,8 @@ If you ever wish to return to this page, click the logo to your upper left. <br>
                     </p>
                 </div>
             </div>
-            <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
+            <div class="aks-accordion-row">
+                <div class="aks-accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" data-accordion-item="" data-ripple="#00000026">
                 <div class="aks-accordion-item-row">
                     <div class="aks-accordion-item-icon">
                         <svg class="aks-accordion-item-icon-open" viewBox="0 0 32 32"><path d="M16.003 18.626l7.081-7.081L25 13.46l-8.997 8.998-9.003-9 1.917-1.916z" /></svg>
