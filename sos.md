@@ -15,7 +15,7 @@ nav_order: 99
 to Hamburg, Germany ([→ see international](/sos#international))
 
 - list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/)
-- Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) [✆ 040 741035000](tel: 040741035000)
+- Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) [✆ 040 7410 350 00](tel: 040741035000)
 	- open 24 hours
 - find a [support group ↗](https://www.kiss-hh.de)
 - https://www.hamburg.de/drogenberatung-suchthilfe/
@@ -27,6 +27,18 @@ to Hamburg, Germany ([→ see international](/sos#international))
 | Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: 112 <br>Polizei: 110|
 | Schreibtelefon der Rettungsdienste | 040 19296 |
 | Apotheken-Notdienstfinder | 0800 00 22833 (freecall) oder 040 22833 (Festnetz) |
+
+
+Can't bear your baby's crying anymore? Do not shake the child.
+Leave your child in a safe place (i.e. place it in its bed on its back) and leave the room immediately. Then seek medical assistance below:
+
+https://www.hamburg.de/schreibabys/
+Kinder- und Jugendnotdienst Hamburg: +49 40 42815 3200
+Hilfetelefon Gewalt gegen Frauen: 0800 116 016
+https://arztruf-hamburg.de/arztrufhamburg
+https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg
+
+
 
 | **Poison Control Center / Giftnotruf** | |
 | GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |

@@ -1,9 +1,10 @@
 ---
-nav_exclude: true
-search_exclude: true
-title: Why Therapy?
+nav_exclude: false
+title: Case Studies
+parent: The Maia Health Experience
 ---
 
+# Our Customers / Why Therapy
 Wann sollte ich zu Psychotherapeut/innen gehen
 
 
@@ -14,6 +15,15 @@ We are like IT, if everything runs smoothly we only do administrative stuff. But
 
 Psychotherapy is greater than it’s parts
 
+Therapy is a like a bathtub: What you get out of it depends on what you put into it.
+
+
+
+---
+
+therapists are not paid friends
+therapy is for everyone, not only "the weak"
+therapy is not for life - we work in planned obsolescence
 
 ---
 
@@ -45,3 +55,37 @@ Diese Schwelle schwankt mit vielen Faktoren.
 Die Kunst der Therapeut/innen ist es jetzt (als unabhängige Instanz im Auftrag der Klient/innen) die Ursache so akkurat herauszuarbeiten wie möglich und mit dem Erfahrungsschatz dem Klienten dabei zu unterstützen, einen individuellen, möglichst effektiven und umsetzbaren Lösungsweg zu entwickeln.
 
 
+---
+
+Ein guter Therapeut ist wie ein Koch/Barkeeper, der Dank des Wissens um Vorlieben seines Gasts, seiner Erfahrung um Zutaten und deren Kombination zu Rezepten ein Menü improvisieren kann.
+
+Und um die Analogie noch etwas auszureizen: Geschmäcker sind verschieden - was ein prämierter Sternekoch zaubert muss noch lange nicht jedem schmecken.
+
+Auch Profiköche kochen nur mit Wasser - aber das ist ja die Kunst daran
+
+---
+
+Psychopharmaka wie Rube Goldberg Maschine
+
+Irgendwo wird irgendwas vermeintlich unbeteiligtes ausgelöst, was eine Kaskade/Reihe an Wirkungen zur Folge hat, die am Ende einen Schalter umlegen.
+
+Leider bringen wir damit viele andere Systeme zum Rollen 
+
+---
+
+Wir nutzen bewusst keine Verlaufsgrafiken mehr dazu
+
+Warum Verlaufsgrafiken psychischer Störungen ein falsches Bild vermitteln
+
+→ nicht interaktiv, da viele Faktoren beeinflussen
+falsches Bild
+
+→ Therapie nicht linear und nicht homogen verläuft (AHA-Erlebenisse)
+
+---
+
+Differentialdiagnostik in Notizen: 
+auf Symptomebene link zu Diagnosen
+auf Diagnoseebene 
+
+---

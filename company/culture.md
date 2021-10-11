@@ -1,7 +1,10 @@
 ---
 nav_exclude: true
-title: Ethics and Values
+title: Company Culture
 ---
+
+# Our Ethics and Values
+
 Zeiten ändern sich, Werte bestehen – auch in der digitalen Welt.
 
 →  ♿ read in easy language
@@ -38,6 +41,8 @@ This is what we do for our values.
 ## transparency
 - in pricing
 - Transparenz schafft Vertrauen
+"weil transparenz vertrauen schafft"
+**Ihr Vertrauen in uns.**
 
 > Wir gestalten unsere Preise transparent.
 > Sehen Sie hier, wie Auslastung und Verfügbarkeit sich auswirken.
@@ -49,6 +54,7 @@ Welches Feedback wir wann umgesetzt haben, zeigt sich in unserem Unternehmens-Bl
 - Keine Industrieinteressen
 maia health bleibt unabhängig. Wir erhalten keine Förderung von Pharmaka- oder Medizinprodukt-Herstellern und schalten keine Werbung.
 Wir sind von der Wichtigkeit von Produktneutralität überzeugt.
+Jedes Quartal ist QA-Day: QA/QS-Audits
 
 ## serious about confidentiality and privacy
 **better safe than sorry**
@@ -123,3 +129,14 @@ Privacy isn't a gimmick
 
 
 Read our Code of Conduct
+
+
+---
+
+**hosted eco friendly in europe**
+
+Als modernes und verantwortungsvolles Unternehmen nehmen wir freiwillig am Emmisionshandel teil und leisten damit einen wichtigen Beitrag zur Verringerung der Treibhausgase.
+
+Die von uns erworbenen Zertifikate unterstützen verschiedene Klimaschutzsprojekte, wie zum Beispiel Naturwaldaufforstung, Schutz der Artenvielfalt und vieles mehr.
+
+Unsere Infrastruktur läuft über Ökostrom.

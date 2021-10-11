@@ -1,12 +1,15 @@
 ---
-nav_exclude: true
-search_exclude: true
-title: Arrivals
+title: Customer Relations / Portal
+has_children: true
+nav_order: 5
 ---
 
 # Klient/in werden →
 Termin Buchen (Sprechstunde/Warteliste)
 booking.kelchmentalhealth.de
+
+request an appointment
+
 
 Ihre Sprechstunde:
 Ihr persönlicher Ansprechpartner wird Sie vor Ort begrüßen.

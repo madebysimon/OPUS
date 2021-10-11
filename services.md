@@ -1,10 +1,12 @@
 ---
-nav_exclude: true
-search_exclude: true
 title: services
+nav_order: 1
 ---
 
-# Portfolio
+Browse our set of services and offerings
+in *Hamburg*
+
+# Portfolio / Features
 
 ## mono
 
@@ -19,6 +21,8 @@ title: services
 
 our services are optionally in-office or remote. Please keep in mind some processes in therapy require the nuances of personal communication in presence.
 ---
+
+complimentary services
 
 ## duo
 
@@ -50,3 +54,7 @@ open contingent)
 ---
 
 MH: Wir halten Ihnen mit arbeitnehmerfreundlichen Terminen den Rücken frei, damit Sie nicht daran gehindert werden mentale Gesundheit zu Ihrer Priorität erklären können
+
+---
+
+See plans and pricing → 

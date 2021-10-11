@@ -5,17 +5,18 @@ nav_order: 2
 title: Tools
 has_children: true
 ---
-# Knowledge Bar
-
+# Knowledge Bar / Resources ⚛️
 
 Liebe Kolleg/innen,
 wir stellen unsere Weiterentwicklungen und Materialien in vielen Fällen kostenlos zur Verfügung.
 Bitte kontaktieren Sie uns, um Zugang zu erhalten.
 
 
-## Toolkits & Ressourcen 🔖 
+# Toolkits 🔖 
 
 - (Arbeitsblätter)
 - compressed knowledge units → Chunks
-- espresso
+- espresso ☕️
 - [Periodensystem der Störungen](/tools/pds)
+
+## Blueprints 📑

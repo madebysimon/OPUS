@@ -7,10 +7,12 @@ title: Spark Mental Health
 # ⚡️Resiliency training
 - resist occasional turbulence
 **„a storm is coming“**
-wir machen sie Wetterfest
 
+wir machen sie Wetterfest
+Leuchtturm icon
 
 For more knowledge to go, visit our [instagram](http://instagram.com/maiahealthDE)
+
 
 > Go spark
 
