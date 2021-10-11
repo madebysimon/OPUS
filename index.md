@@ -1,8 +1,13 @@
 ---
 nav_exclude: true
 title: HomeEN
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+image: /assets/img/quote.png
+logo: /assets/page/logo.svg
+tagline: "an open access knowledge base"
+description: "OPUS is a Knowledgebase on all things psychology made available to the public by Maia Health."
+author: Maia Health
 ---
+
 Early Access
 {: .label .label-yellow }
 # Welcome to OPUS 👋🏼
