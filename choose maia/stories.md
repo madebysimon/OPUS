@@ -1,5 +1,4 @@
 ---
-nav_exclude: false
 title: Case Studies
 parent: The Maia Health Experience
 ---

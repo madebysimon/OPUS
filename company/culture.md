@@ -1,5 +1,5 @@
 ---
-nav_exclude: true
+parent: Mission Statement
 title: Company Culture
 ---
 

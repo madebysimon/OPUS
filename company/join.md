@@ -1,7 +1,5 @@
 ---
-nav_exclude: true
-parent: company
-search_exclude: true
+parent: Mission Statement
 title: Join or Partner
 ---
 # Apply to join or partner with us

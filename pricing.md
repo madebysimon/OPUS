@@ -1,6 +1,6 @@
 ---
-nav_order: 2
 title: Plans and Pricing
+nav_order: 2
 ---
 
 # Plans and Pricing

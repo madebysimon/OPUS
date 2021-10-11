@@ -1,7 +1,6 @@
 ---
+parent: Mission Statement
 title: maia next Competition
-parent: company
-nav_order: 3
 ---
 
 # maia next

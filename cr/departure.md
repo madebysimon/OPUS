@@ -1,6 +1,6 @@
 ---
+parent: Customer Relations
 nav_exclude: true
-search_exclude: true
 title: Departure
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Reference materials
-has_children: true
+parent: Resources
 ---
 
 # Blueprints and Reference materials

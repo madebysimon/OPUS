@@ -1,6 +1,6 @@
 ---
+parent: Mission Statement
 title: Our Pledge
-parent: company
 ---
 
 # Our Pledge To Open Source

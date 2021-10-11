@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: Resources
 nav_exclude: false
 nav_order: 2
 title: Tools

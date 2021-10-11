@@ -1,6 +1,6 @@
 ---
 title: Events
-has_children: true
+parent: Resources
 ---
 
 tba

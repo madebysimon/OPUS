@@ -1,6 +1,6 @@
 ---
 nav_exclude: true
-search_exclude: true
+parent: Customer Relations
 title: Arrivals
 ---
 

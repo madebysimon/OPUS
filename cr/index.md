@@ -1,8 +1,9 @@
 ---
-title: Customer Relations / Portal
-has_children: true
+title: Customer Relations
 nav_order: 5
+has_children: true
 ---
+/ Portal
 
 # Klient/in werden →
 Termin Buchen (Sprechstunde/Warteliste)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Collections (OER)
-nav_order: 1
+nav_exclude: true
 has_children: true
 has_toc: true
 ---

@@ -1,6 +1,6 @@
 ---
+parent: Mission Statement
 title: Code of Conduct
-parent: company
 ---
 
 tba

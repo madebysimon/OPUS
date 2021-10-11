@@ -1,6 +1,6 @@
 ---
 title: Contact
-parent: About
+parent: Customer Relations
 ---
 
 # For Clients
