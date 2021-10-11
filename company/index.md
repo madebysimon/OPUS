@@ -1,7 +1,7 @@
 ---
-title: Mission Statement
+title: Company
 has_children: true
-nav_order: 7
+nav_order: 70
 ---
 
 # Mission Statement / Manifesto / Vision

@@ -1,6 +1,7 @@
 ---
+parent: Our Approach
 title: Case Studies
-parent: The Maia Health Experience
+nav_order: 31
 ---
 
 # Our Customers / Why Therapy

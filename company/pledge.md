@@ -1,6 +1,7 @@
 ---
 parent: Mission Statement
 title: Our Pledge
+nav_order: 73
 ---
 
 # Our Pledge To Open Source

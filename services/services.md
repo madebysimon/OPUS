@@ -1,6 +1,7 @@
 ---
-title: services
-nav_order: 1
+title: Services
+nav_order: 11
+has_children: true
 ---
 
 Browse our set of services and offerings

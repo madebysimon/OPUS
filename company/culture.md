@@ -1,6 +1,7 @@
 ---
 parent: Mission Statement
 title: Company Culture
+nav_order: 71
 ---
 
 # Our Ethics and Values

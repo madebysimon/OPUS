@@ -1,6 +1,7 @@
 ---
+parent: Services
 title: Plans and Pricing
-nav_order: 2
+nav_order: 12
 ---
 
 # Plans and Pricing

@@ -1,6 +1,7 @@
 ---
 parent: Mission Statement
 title: Join or Partner
+nav_order: 72
 ---
 # Apply to join or partner with us
 

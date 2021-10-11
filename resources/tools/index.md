@@ -2,9 +2,8 @@
 layout: default
 parent: Resources
 nav_exclude: false
-nav_order: 2
+nav_order: 43
 title: Tools
-has_children: true
 ---
 # Knowledge Bar / Resources ⚛️
 

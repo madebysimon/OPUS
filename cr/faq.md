@@ -1,6 +1,7 @@
 ---
-title: FAQ
 parent: Customer Relations
+title: FAQ
+nav_order: 52
 ---
 <p class="label" title="article is targeted towards professionals">Pro</p>
 # Frequently Asked Questions

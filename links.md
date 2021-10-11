@@ -1,6 +1,6 @@
 ---
 title: Blog and Socials
-nav_order: 6
+nav_order: 60
 ---
 
 tba

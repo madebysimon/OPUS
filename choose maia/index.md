@@ -1,12 +1,9 @@
 ---
-nav_order: 3
-title: The Maia Health Experience
+nav_order: 30
+title: Our Approach
 has_children: true
 ---
-
-# Our Approach
-
-## The maia health experience
+# The Maia Health Experience
 > meet the next generation psychotherapy
 
 every path is different

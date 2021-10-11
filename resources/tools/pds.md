@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_exclude: false
+nav_exclude: true
 parent: Tools
 title: Periodensystem der Störungen
 ---

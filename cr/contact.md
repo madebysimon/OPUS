@@ -1,6 +1,7 @@
 ---
-title: Contact
 parent: Customer Relations
+title: Contact
+nav_order: 51
 ---
 
 # For Clients
