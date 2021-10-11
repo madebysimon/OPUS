@@ -2,6 +2,7 @@
 title: Customer Relations
 nav_order: 50
 has_children: true
+has_toc: false
 ---
 / Portal
 

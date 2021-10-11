@@ -2,7 +2,6 @@
 parent: Resources
 title: Getting Started
 nav_order: 41
-has_children: true
 ---
 
 # About OPUS
