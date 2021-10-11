@@ -1,5 +1,5 @@
 ---
-parent: Mission Statement
+parent: Company
 title: Company Culture
 nav_order: 71
 ---

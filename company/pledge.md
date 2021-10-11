@@ -1,5 +1,5 @@
 ---
-parent: Mission Statement
+parent: Company
 title: Our Pledge
 nav_order: 73
 ---

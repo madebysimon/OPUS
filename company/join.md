@@ -1,5 +1,5 @@
 ---
-parent: Mission Statement
+parent: Company
 title: Join or Partner
 nav_order: 72
 ---

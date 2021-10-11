@@ -1,5 +1,5 @@
 ---
-parent: Mission Statement
+parent: Company
 title: maia next Competition
 nav_order: 74
 ---

@@ -54,14 +54,12 @@ Diese Schwelle schwankt mit vielen Faktoren.
 
 Die Kunst der Therapeut/innen ist es jetzt (als unabhängige Instanz im Auftrag der Klient/innen) die Ursache so akkurat herauszuarbeiten wie möglich und mit dem Erfahrungsschatz dem Klienten dabei zu unterstützen, einen individuellen, möglichst effektiven und umsetzbaren Lösungsweg zu entwickeln.
 
-
 ---
 
 Ein guter Therapeut ist wie ein Koch/Barkeeper, der Dank des Wissens um Vorlieben seines Gasts, seiner Erfahrung um Zutaten und deren Kombination zu Rezepten ein Menü improvisieren kann.
+Auch Profiköche kochen nur mit Wasser - aber das ist ja die Kunst daran
 
 Und um die Analogie noch etwas auszureizen: Geschmäcker sind verschieden - was ein prämierter Sternekoch zaubert muss noch lange nicht jedem schmecken.
-
-Auch Profiköche kochen nur mit Wasser - aber das ist ja die Kunst daran
 
 ---
 

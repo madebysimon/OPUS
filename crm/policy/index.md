@@ -1,6 +1,6 @@
 ---
 parent: Customer Relations
-title: policies
+title: Policies
 nav_order: 53
 nav_exclude: false
 ---
