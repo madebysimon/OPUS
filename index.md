@@ -13,12 +13,12 @@ Beware content and links may change during this period.
 {: .fs-6 .fw-300 }
 
 
-[Get started](/OER){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[What is this](/About){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started](/oer){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[What is this](/resources/getting%20started/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 If you already know what you're looking for, search is the way to go. <br>
-For everyone "just browsing" I recommend the entry points (collections) linked in the menu. <br>
+For everyone "just browsing" I recommend the [entry points](/oer). <br>
 If you ever wish to return to this page, click the logo to your upper left.
 
 Currently our **knowledge base is still closed** to the public as we're trying to figure out how to handle potential copyright breaches in user submitted content.
