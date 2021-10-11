@@ -1,6 +1,6 @@
 ---
 parent: Resources
-title: getting started
+title: Getting Started
 nav_order: 41
 has_children: true
 ---
