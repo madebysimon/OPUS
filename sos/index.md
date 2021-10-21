@@ -50,7 +50,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | **Hopelines / Seelsorge** ||
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
-| Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) | 
+| Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) |
 |  |  |
 | **National Sexual Assault Hotline** | |
 | Hilfetelefon Gewalt gegen Frauen | 0800 116016 (freecall) |
@@ -121,7 +121,3 @@ Can't bear your child's crying? **Do not shake the child.**
 | [hamburg.de/schreibabys/](//www.hamburg.de/schreibabys/) ||
 | [Arztruf Hamburg](https://arztruf-hamburg.de/arztrufhamburg) ||
 | [Kinderärzte im Netz](https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg) ||
-
-
-https://cmhc.utexas.edu/commonconcerns.html
-
