@@ -12,9 +12,9 @@ nav_order: 99
 ---
 quick links:
 
-[talk to someone →](#lifelines-and-phone-numbers){: .btn}<br>
-[see where to go →](#regional-points-of-contact){: .btn}<br>
-[how to help others →](#help-someone-with-a-crisis){: .btn}<br>
+[talk to someone →](#lifelines-and-phone-numbers){: .btn} 
+[see where to go →](#regional-points-of-contact){: .btn} 
+[how to help others →](#help-someone-with-a-crisis){: .btn} 
 [help a child →](#children-){: .btn}
 
 ---
