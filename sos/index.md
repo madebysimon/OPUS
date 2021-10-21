@@ -15,7 +15,7 @@ quick links:
 [talk to someone →](#lifelines-and-phone-numbers){: .btn} 
 [see where to go →](#regional-points-of-contact){: .btn} 
 [how to help others →](#help-someone-with-a-crisis){: .btn} 
-[help a child →](#children-){: .btn}
+[children →](#children-){: .btn}
 
 ---
 ## Regional points of contact
@@ -51,7 +51,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
 | Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) | 
-
+| <hr> | <hr> |
 | **National Sexual Assault Hotline** | |
 | Hilfetelefon Gewalt gegen Frauen | 0800 116016 (freecall) |
 | **Notruf Häusliche Gewalt / Domestic Violence Hotline** | |
@@ -60,7 +60,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Mädchenhaus | 040 428 15 32 71 |
 | Opfer-Telefon Weisser Ring | 116006 (freecall) |
 | Notruf für vergewaltigte Frauen und Mädchen | 040 255566 |
-
+| <hr> | <hr> |
 | Anwaltlicher Notfalldienst | 0171 6105949 |
 
 | **Notfalldienste Suchterkrankungen / Alcoholism & Drug Dependence Hopelines** | |
