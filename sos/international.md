@@ -1,11 +1,12 @@
 ---
-title: international-lines
+title: International Lifelines
 nav_exclude: true
+---
+[← back to regional ressources for *Hamburg, Germany*](/sos)
+
 ---
 
 # International Lifelines
----
-[← back to regional ressources for *Hamburg, Germany*](/sos)
 
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆911 ↗](tel: 911) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=emergency-rooms)** <br><br>
 > Additional crisis resources can be found below.
@@ -16,6 +17,8 @@ nav_exclude: true
 
 ---
 
+all countries currently listed:
+
 | Europe | [🇦🇹](#austria) [🇧🇪](#belgium) [🇧🇷](#brasil) [🇨🇿](#czech-republic) [🇩🇰](#denmark) [🇫🇷](#france) [🇫🇮](#finland) [🇬🇷](#greece) [🇭🇺](#hungary) [🇮🇹](#italy) [🇮🇪](#ireland) [🇱🇻](#latvia) [🇱🇹](#lithuania) [🇱🇺](#luxembourg) [🇳🇱](#the-netherlands) [🇳🇴](#norway) [🇵🇱](#poland) [🇷🇸](#serbia) [🇹🇷](#turkey) [🇪🇸](#spain) [🇸🇪](#sweden) [🇨🇭](#switzerland) [🇬🇧](#united-kingdom) |
 | Africa | [🇿🇦](#south-africa) |
 | Asia | [🇭🇰](#hongkong) [🇮🇳](#india) [🇮🇱](#israel) [🇸🇬](#singapore) [🇰🇷](#south-korea) [🇹🇼](#taiwan) |
@@ -23,6 +26,7 @@ nav_exclude: true
 | Oceania | [🇦🇺](#australia) [🇳🇿](#new-zealand) |
 
 [unlisted? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
+
 know a number? → [give feedback](/feedback)
 
 ---

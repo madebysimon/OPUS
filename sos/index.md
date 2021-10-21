@@ -19,7 +19,7 @@ nav_order: 99
 
 ---
 ## Regional points of contact
-to Hamburg, Germany ([→ see international](#international-lifelines))
+to Hamburg, Germany ([→ see international](/sos/international#international-lifelines))
 
 | list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) |
 | [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) |
@@ -35,7 +35,7 @@ to Hamburg, Germany ([→ see international](#international-lifelines))
 | TaxiHamburg |  [✆ 66 66 66](tel: 0049666666) | 
 
 ## Lifelines and phone numbers
-to Hamburg, Germany ([→ see international](#international-lifelines))
+to Hamburg, Germany ([→ see international](/sos/international#international-lifelines))
 
 | Emergency lines / **Notrufnummern**  | |
 | Suizidprävention / Suicide Prevention Lifeline | 112 |
