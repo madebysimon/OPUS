@@ -27,7 +27,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 
 | Zentrale Notaufnahme Universitätsklinikum Eppendorf (UKE) | [✆ 040 7410 35 000](tel: +4940741035000), open 24hrs |
 | Zentrale Notaufnahme / ZNA Kinder-UKE 🧸 | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
-| UKE Ambulanz für geflüchtete Kinder | [✉️ mail ↗](mailto:fluechtlingsambulanz@uke.de) <br> [✆ 040 4719 30 80](tel: +494047193080) (office hours) |
+| UKE Ambulanz für geflüchtete Kinder 🧸| [✉️ mail ↗](mailto:fluechtlingsambulanz@uke.de) <br> [✆ 040 4719 30 80](tel: +494047193080) (office hours) |
 | find a [support group ↗](https://www.kiss-hh.de) | https://www.hamburg.de/drogenberatung-suchthilfe/ |
 
 | **Taxi Services** 🚕 <br>Do not drive if you're in crisis. Go by cab or public transport, money is refunded by most health insurance. |
@@ -49,22 +49,22 @@ to Hamburg, Germany ([→ see international](/sos/international))
 
 | **Hopelines / Seelsorge** ||
 | Telefonseelsorge (24/7 & free of charge) | [✆ 0800 111 0 111](tel:08001110111) <br>or [✆ 0800 111 0 222](tel:08001110222) <br>or [✆ 116 123](tel:116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
-| Nummer gegen Kummer – Hotline | Adults: [✆ 0800 111 0 550](tel:08001110550) <br>Children: [✆ 116 111](tel:116111) or [✆ 0800 111 0 333](tel:08001110333) |
-| Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) |
+| Nummer gegen Kummer – Hotline | Adults: [✆ 0800 111 0 550](tel:08001110550) <br>Children 🧸: [✆ 116 111](tel:116111) or [✆ 0800 111 0 333](tel:08001110333) |
+| Krisenchat for Children and Adolescents 🧸 | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) |
 |  |  |
 | **National Sexual Assault Hotline** | |
 | Hilfetelefon Gewalt gegen Frauen | [✆ 0800 11 60 16](tel:0800116016) (freecall) |
 | **Notruf Häusliche Gewalt / Domestic Violence Hotline** | |
 | Autonome Hamburger Frauenhäuser Notruf  (0–24 Uhr) | [✆ 040 8000 4 1000](tel:4940800041000) or fax: 040 8000 4 100 19 |
-| Notruf Gewalt und Notlagen gegen Mädchen oder Jungen, Kinder- und Jugendnotdienst | [✆ 040 428 15 32 00](tel:4940428153200) |
-| Mädchenhaus | [✆ 040 428 15 32 71](tel:4940428153271) |
+| Notruf Gewalt und Notlagen gegen Mädchen oder Jungen, Kinder- und Jugendnotdienst 🧸 | [✆ 040 428 15 32 00](tel:4940428153200) |
+| Mädchenhaus 🧸 | [✆ 040 428 15 32 71](tel:4940428153271) |
 | Opfer-Telefon Weisser Ring | [✆ 116 006](tel:116006) (freecall) |
-| Notruf für vergewaltigte Frauen und Mädchen | [✆ 040 255566](tel:040255566) |
+| Notruf für vergewaltigte Frauen und Mädchen 🧸 | [✆ 040 255566](tel:040255566) |
 |  |  |
 | **Anwalt/Strafverteidiger Notruf** Hamburg | [✆ 0171 6105949](tel:491716105949) |
 |  |  |
 | **Notfalldienste Suchterkrankungen / Alcoholism & Drug Dependence Hopelines** | |
-| Drogeninformationstelefon der Jugendhilfe | [✆ 040 28051107](tel:04028051107) day (8–20hrs) <br> [✆ 040 2803204](tel:49402803204) night (20–8hrs) |
+| Drogeninformationstelefon der Jugendhilfe 🧸 | [✆ 040 28051107](tel:04028051107) day (8–20hrs) <br> [✆ 040 2803204](tel:49402803204) night (20–8hrs) |
 | Ambulanz für Suchtkranke, Asklepios Klinik Nord (Haus 32 EG) | [✆ 040 1818872524](tel:0401818872524) |
 | Anonyme Alkoholiker (Saarlandstraße 9, 22303 Hamburg) | [✆ 040 19295](tel:494019295) |
 | Anonyme Spieler | [✆ 040 2099009](tel:49402099009) |
