@@ -15,7 +15,7 @@ quick links:
 [talk to someone →](#lifelines-and-phone-numbers){: .btn} 
 [see where to go →](#regional-points-of-contact){: .btn} 
 [how to help others →](#help-someone-in-a-crisis){: .btn} 
-[for parents →](#children-){: .btn}
+[for parents →](#for-parents-){: .btn}
 
 ---
 ## Regional points of contact
@@ -25,7 +25,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) |
 | list of [psychiatric hospitals on hamburg.de ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) |
 
-| Zentrale Notaufnahme Universitätsklinikum Eppendorf (UKE) | [✆ 040 7410 35 000](tel: +4940741035000), open 24hrs |
+| Zentrale Notaufnahme Universitätsklinikum Eppendorf (UKE) 👤| [✆ 040 7410 35 000](tel: +4940741035000), open 24hrs |
 | Zentrale Notaufnahme / ZNA Kinder-UKE 🧸 | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
 | UKE Ambulanz für geflüchtete Kinder 🧸| [✉️ mail ↗](mailto:fluechtlingsambulanz@uke.de) <br> [✆ 040 4719 30 80](tel: +494047193080) (office hours) |
 | find a [support group ↗](https://www.kiss-hh.de) | https://www.hamburg.de/drogenberatung-suchthilfe/ |
@@ -70,7 +70,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Anonyme Spieler | [✆ 040 2099009](tel:49402099009) |
 
 
-## Help someone in a crisis
+## Help someone in a crisis 🫂
 1. Safety first, maintain boundaries
 	> **Do not approach and do not touch someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
 	- Protect your own safety, physical and mental wellbeing before assisting others. Recognize your limits, be aware of your own needs and seek support for yourself.
@@ -93,7 +93,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 	- Follow up. Let the person know that you'll be checking back with him or her later to see how things turned out.
 	- Responding in a caring way to a person in distress can help prevent the distressed person's situation from escalating into a crisis.
 
-### Suicide Warning Signs
+### Suicide Warning Signs ⚠️
 include:
 - Talking about or making plans for suicide.
 - Expressing hopelessness/carelessness about the future.
@@ -106,7 +106,7 @@ include:
 
 If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
 
-### For Parents
+### For Parents 🚸
 Can't bear your child's crying? **Do not shake the child.**
 
 1. Leave your child in a safe place (i.e. place it in its bed on its back)
