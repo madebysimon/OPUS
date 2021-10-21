@@ -4,7 +4,7 @@ title: Collections (OER)
 parent: Resources
 nav_exclude: false
 nav_order: 44
-has_children: true
+has_children: false
 has_toc: true
 ---
 <p class="label label-yellow">academic</p>

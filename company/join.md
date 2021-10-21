@@ -5,9 +5,9 @@ nav_order: 72
 ---
 # Apply to join or partner with us
 
-# join our team building tomorrow’s therapy
+## join our team building tomorrow’s therapy
 Maia Health was started as a one-man-army and our team has since grown to the size of X.
-(meet the team ↗). We work on premises in our offices are located in Hamburg.
+(meet the team ↗). We work on premises in our offices located in Hamburg.
 
 People of all ages and of special needs are encouraged to apply.
 

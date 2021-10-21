@@ -6,7 +6,7 @@ has_children: true
 
 See
 	[open education ressources](/oer)
-	blueprints and reference materials
+	blueprints, "cookbooks" and reference material
 	[tools](/tools)
 	events
 	[blog](#)

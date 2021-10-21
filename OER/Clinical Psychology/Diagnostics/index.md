@@ -2,7 +2,6 @@
 layout: default
 title: Diagnostics
 nav_order: 1
-grand_parent: Collections (OER)
 parent: Clinical Psychology
 has_children: true
 has_toc: true

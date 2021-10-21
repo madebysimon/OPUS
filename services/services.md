@@ -5,7 +5,7 @@ has_children: true
 ---
 
 Browse our set of services and offerings
-in *Hamburg*
+in *Hamburg, Germany*
 
 # Portfolio / Features
 
