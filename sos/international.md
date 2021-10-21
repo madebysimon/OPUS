@@ -2,7 +2,7 @@
 title: International Lifelines
 nav_exclude: true
 ---
-[← back to regional ressources](/sos) for Hamburg, Germany
+[← back to regional](/sos) (for Hamburg, Germany)
 
 ---
 

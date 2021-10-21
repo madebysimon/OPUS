@@ -3,19 +3,19 @@ title: 🆘 Crisis Resources
 nav_order: 99
 ---
 
-# Distress Resources 🚨
+# Crisis Resources 🚨
 ---
 
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
 > Additional crisis resources can be found below.
 
 ---
-quick links:
+### quick links
 
 [talk to someone →](#lifelines-and-phone-numbers){: .btn} 
 [see where to go →](#regional-points-of-contact){: .btn} 
 [how to help others →](#help-someone-in-a-crisis){: .btn} 
-[for parents →](#for-parents-){: .btn}
+[for distressed parents →](#for-parents-){: .btn}
 
 ---
 ## Regional points of contact
@@ -70,14 +70,14 @@ to Hamburg, Germany ([→ see international](/sos/international))
 
 
 ## Help someone in a crisis 🫂
-1. Safety first, maintain boundaries
-	> **Do not approach and do not touch someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
+1. Safety first, respect and maintain boundaries
+	> **Do not touch or even approach someone who is highly agitated or violent**. Also do not decide by yourself what is in the person's best interests.
 	- Protect your own safety, physical and mental wellbeing before assisting others. Recognize your limits, be aware of your own needs and seek support for yourself.
 		-  You **cannot** decide for another person whether or not he/she wants help
 		- You **cannot** control how your effort is met, how other people respond to you
 		- be honest with yourself about how much time and effort you can afford to spend in helping
 	
-	> **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals
+	> **For your safety** - as well as that of others and the person in distress itself - decisions on their behalf should be left to trained professionals.
 
 2. Be ready to recognize need for professional intervention
 	- if you feel strongly uneasy or seriously concerned at any times do not hessitate and involve emergency services (see [suicide warning signs →](#suicide-warning-signs-)) or [seek help by professionals →](#lifelines-and-phone-numbers)
@@ -106,11 +106,11 @@ include:
 If you notice these warning signs in someone, it is very important that you ask them clearly and directly if they are thinking about suicide.
 
 ### For Parents 🧸
-Can't bear your child's crying? **Do not shake the child.**
+Can't bear your child (i.e. for constant crying)? **Do not shake the child** under any circumstances.
 
 1. Leave your child in a safe place (i.e. place it in its bed on its back)
 2. leave the room immediately
-3. seek medical assistance below:
+3. seek medical assistance (see below)
 
 | Kinder- und Jugendnotdienst Hamburg | [✆ +49 (0)40 42815 3200](tel:+4940428153200) |
 | [hamburg.de/schreibabys ↗](//www.hamburg.de/schreibabys/) ||
