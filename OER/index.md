@@ -29,3 +29,13 @@ special tip for students: To avoid hits in plagiarism software make sure to incl
 ---
 
 Below you will find curated guides to this knowledge base.
+
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
