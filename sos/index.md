@@ -80,7 +80,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 	> **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals
 
 2. Be ready to recognize need for professional intervention
-	- if you feel strongly uneasy or seriously concerned at any times do not hessitate and involve emergency services (see [suicide warning signs →](#suicide-warning-signs)) or [seek help by professionals →](#lifelines-and-phone-numbers)
+	- if you feel strongly uneasy or seriously concerned at any times do not hessitate and involve emergency services (see [suicide warning signs →](#suicide-warning-signs-)) or [seek help by professionals →](#lifelines-and-phone-numbers)
 		- Direct the person to professional help. Offer to accompany him/her to the next psychotherapist or emergency room or encourage him/her to call and make an appointment right then and there.
 
 3. How to help
@@ -113,7 +113,6 @@ Can't bear your child's crying? **Do not shake the child.**
 3. seek medical assistance below:
 
 | Kinder- und Jugendnotdienst Hamburg | [✆ +49 (0)40 42815 3200](tel:+4940428153200) |
-| Hilfetelefon Gewalt gegen Frauen | [✆ +49 (0)800 116 016](tel:+49800116016) |
-| [hamburg.de/schreibabys/](//www.hamburg.de/schreibabys/) ||
-| [Arztruf Hamburg](https://arztruf-hamburg.de/arztrufhamburg) ||
-| [Kinderärzte im Netz](https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg) ||
+| [hamburg.de/schreibabys ↗](//www.hamburg.de/schreibabys/) ||
+| [Arztruf Hamburg ↗](https://arztruf-hamburg.de/arztrufhamburg) ||
+| [Kinderärzte im Netz ↗](https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg) ||
