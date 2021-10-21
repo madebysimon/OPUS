@@ -15,7 +15,7 @@ quick links:
 [talk to someone →](#lifelines-and-phone-numbers){: .btn} 
 [see where to go →](#regional-points-of-contact){: .btn} 
 [how to help others →](#help-someone-in-a-crisis){: .btn} 
-[children →](#children-){: .btn}
+[for parents →](#children-){: .btn}
 
 ---
 ## Regional points of contact
@@ -25,8 +25,9 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) |
 | list of [psychiatric hospitals on hamburg.de ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) |
 
-| Zentrale Notfallambulanz / ZNA Universitätsklinikum Eppendorf (UKE) | [✆ 040 7410 35 000](tel: +4940741035000), open 24hrs |
-| UKE Ambulanz für geflüchtete Kinder | fluechtlingsambulanz@uke.de | [✆ 040 4719 30 80](tel: +494047193080) (office hours) |
+| Zentrale Notaufnahme Universitätsklinikum Eppendorf (UKE) | [✆ 040 7410 35 000](tel: +4940741035000), open 24hrs |
+| Zentrale Notaufnahme / ZNA Kinder-UKE 🧸 | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
+| UKE Ambulanz für geflüchtete Kinder | [✉️ mail ↗](mailto:fluechtlingsambulanz@uke.de) <br> [✆ 040 4719 30 80](tel: +494047193080) (office hours) |
 | find a [support group ↗](https://www.kiss-hh.de) | https://www.hamburg.de/drogenberatung-suchthilfe/ |
 
 | **Taxi Services** 🚕 <br>Do not drive if you're in crisis. Go by cab or public transport, money is refunded by most health insurance. |
@@ -42,7 +43,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Suizidprävention / Suicide Prevention Lifeline | [✆ 112](tel:112) |
 | Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: [✆ 112](tel:112) <br>Polizei: [✆ 110](tel:110) |
 | Schreibtelefon der Rettungsdienste | 040 19296 |
-| Apotheken-Notdienstfinder | [✆ 0800 00 22833](tel:498000022833) (freecall) oder [✆ 040 22833](tel:494022833) (Festnetz) |
+| Apotheken-Notdienstfinder | [✆ 0800 00 22833](tel:498000022833) (freecall) <br>oder [✆ 040 22833](tel:494022833) (Festnetz) |
 |  |  |
 | GIZ-Nord (Poison Control Center / Giftnotruf) | [✆ 0551 19240](tel:055119240)<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
 
@@ -56,7 +57,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | **Notruf Häusliche Gewalt / Domestic Violence Hotline** | |
 | Autonome Hamburger Frauenhäuser Notruf  (0–24 Uhr) | [✆ 040 8000 4 1000](tel:4940800041000) or fax: 040 8000 4 100 19 |
 | Notruf Gewalt und Notlagen gegen Mädchen oder Jungen, Kinder- und Jugendnotdienst | [✆ 040 428 15 32 00](tel:4940428153200) |
-| Mädchenhaus | [✆ 040 428 15 32 71](tel:4940428153271) |
+| Mädchenhaus | [✆ 040 428 15 32 71](tel:4940428153271) |
 | Opfer-Telefon Weisser Ring | [✆ 116 006](tel:116006) (freecall) |
 | Notruf für vergewaltigte Frauen und Mädchen | [✆ 040 255566](tel:040255566) |
 |  |  |
@@ -105,10 +106,7 @@ include:
 
 If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
 
-### Children 🧸
-
-| Zentrale Notfallambulanz / ZNA Kinder-UKE | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
-
+### For Parents
 Can't bear your child's crying? **Do not shake the child.**
 
 1. Leave your child in a safe place (i.e. place it in its bed on its back)

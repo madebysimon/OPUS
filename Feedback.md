@@ -14,6 +14,6 @@ nav_order: 98
 (via paypal)
 
 ---
-Got Feedback? Comment below (or send me an [✉️ email ↗](mailto: simon@maiahealth.de))
+Got Feedback? Comment below (or send me an [✉️  mail ↗](mailto: simon@maiahealth.de))
 
 {% include comments.md %}
