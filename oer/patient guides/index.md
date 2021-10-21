@@ -10,15 +10,14 @@ last_edit: 21.10.21
 ---
 Open Education Resources
 # Patient Ressources
-
-## Who is who in psychotherapy
+# Who is who in psychotherapy
 Many actors offer services in mental health these days, so it can get confusing when it comes to expectations, who to trust or approach with what.
 
 See my chart comparing common professions below.
 
-|                                             | Coach | Heilpraktiker für Psychotherapie |   Psychologists    | Psychotherapist (since 2020) |         ==Psychological Psychotherapist==         |     Medical ("Ärztlicher") Psychotherapist     |                   other medical practitioners                    |
+|                                             | Coach | Heilpraktiker für Psychotherapie |   Psychologists    | Psychotherapist (since 2020) |         ::Psychological Psychotherapist::         |     Medical ("Ärztlicher") Psychotherapist     |                   other medical practitioners                    |
 | -------------------------------------------:|:-----:|:--------------------------------:|:------------------:|:----------------------------:|:---------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------------------:|
-|                                    includes |       |                                  | Neuropsychologists |                              |                                               | certain "Fachärzte"[^1] i.e. **==psychiatrists==** | general practitioners,<br>"Nervenärzte",<br>**neurologists**[^4] |
+|                                    includes |       |                                  | Neuropsychologists |                              |                                               | certain "Fachärzte"[^1] i.e. **::psychiatrists::** | general practitioners,<br>"Nervenärzte",<br>**neurologists**[^4] |
 |          psychotherapy for mental diagnoses |   ×   |             (✓)[^5]              |      (✓)[^2]       |            **✓**             |                     **✓**                     |                     **✓**                      |                             (✓)[^3]                              |
 |     covered by public health insurance (DE) |   ×   |                ×                 |      (✓)[^2]       |              ✓               |                       ✓                       |                       ✓                        |                                ✓                                 |
 |            **diagnostics** in mental health |   ×   |                ×                 |         ✓          |              ✓               |                       ✓                       |                       ✓                        |                                ✓                                 |
@@ -79,5 +78,6 @@ To become a psychotherapist - an approbated health professional  - one has to ru
 -  the costs for psychotherapeutical work with clients is refunded by the public health system
 4. **mandatory ongoing further education** and evaluation
 
+---
 
 {% include authorcard.md %}
