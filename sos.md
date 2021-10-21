@@ -9,10 +9,19 @@ nav_order: 99
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
 > Additional crisis resources can be found below.
 
-[Who can I talk to? ->](#Regional-points-of-contact)
-[Someone needs help. ->](#Help-someone-with-a-crisis)
-[I need help with my child. ->](#)
+[Who can I talk to? →](#regional-points-of-contact)
+[Someone needs help. →](#help-someone-with-a-crisis)
+[I need help with my child. →](#)
 
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 ---
 ## Regional points of contact
 to Hamburg, Germany ([→ see international](/sos#international-lifelines))
