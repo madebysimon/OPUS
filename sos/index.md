@@ -11,10 +11,11 @@ nav_order: 99
 
 ---
 quick links:
-[talk to someone →](#lifelines-and-phone-numbers){: .btn}
-[see where to go →](#regional-points-of-contact){: .btn .fs-5 .mb-4 .mb-md-0 }
-[how to help others →](#help-someone-with-a-crisis){: .btn .fs-5 .mb-4 .mb-md-0 }
-[help a child →](#children){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+[talk to someone →](#lifelines-and-phone-numbers){: .btn}<br>
+[see where to go →](#regional-points-of-contact){: .btn}<br>
+[how to help others →](#help-someone-with-a-crisis){: .btn}<br>
+[help a child →](#children){: .btn}
 
 ---
 ## Regional points of contact
