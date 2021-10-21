@@ -8,10 +8,11 @@ nav_order: 41
 
 OPUS is a Knowledgebase on all things psychology made available to the public by Maia Health.
 Freely accessible for the good of everybody.
+
 Wissen für Kitteltasche und Klemmbrett
 
+> Achtung! Inhalte dieser Seite ersetzen weder Einschätzung noch Therapie durch qualifiziertes Fachpersonal. Auch handelt es sich nicht um klinische Leitlinien.
 
-> Achtung! Inhalte dieser Seite ersetzen weder die Einschätzung noch Therapie durch Qualifiziertes Fachpersonal.
 
 # What this is all about
 
