@@ -9,13 +9,14 @@ nav_order: 99
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
 > Additional crisis resources can be found below.
 
-[I need to talk. →](#lifelines-and-phone-numbers)
 
-[Where can I go? →](#regional-points-of-contact)
+[talk to someone →](#lifelines-and-phone-numbers){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-[Someone else needs my help. →](#help-someone-with-a-crisis)
+[see where to go →](#regional-points-of-contact){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-[I need help with my child. →](#children)
+[how to help others →](#help-someone-with-a-crisis){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+[help a child →](#children){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 ## Regional points of contact
