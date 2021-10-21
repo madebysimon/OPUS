@@ -29,11 +29,11 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | UKE Ambulanz für geflüchtete Kinder | fluechtlingsambulanz@uke.de | +49 (0) 40 4719308-0 (office hours) |
 | find a [support group ↗](https://www.kiss-hh.de) | https://www.hamburg.de/drogenberatung-suchthilfe/ |
 
-| **Taxi Services** 🚕 <br>Do not drive if you're in crisis. Go by cab or public transport, money is refunded by most health insurance. | |
-| Taxi.de | [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/) |
-| FreeNow / MyTaxi | [App ↗](//free-now.com/de/) |
-| Hansa-Taxi | [✆ 221 221](tel: 004940221221) |
-| TaxiHamburg |  [✆ 66 66 66](tel: 0049666666) | 
+| **Taxi Services** 🚕 <br>Do not drive if you're in crisis. Go by cab or public transport, money is refunded by most health insurance. |
+| Taxi.de | [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/)
+| FreeNow / MyTaxi | [App ↗](//free-now.com/de/)
+| Hansa-Taxi | [✆ 221 221](tel: 004940221221)
+| TaxiHamburg |  [✆ 66 66 66](tel: 0049666666) 
 
 ## Lifelines and phone numbers
 to Hamburg, Germany ([→ see international](/sos/international))
@@ -43,15 +43,15 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: 112 <br>Polizei: 110 |
 | Schreibtelefon der Rettungsdienste | 040 19296 |
 | Apotheken-Notdienstfinder | 0800 00 22833 (freecall) oder 040 22833 (Festnetz) |
-
+|  |  |
 | **Poison Control Center / Giftnotruf** | |
 | GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
 
-| **Hopelines / Seelsorge** | |
+| **Hopelines / Seelsorge** ||
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
 | Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) | 
-| <hr> | <hr> |
+|  |  |
 | **National Sexual Assault Hotline** | |
 | Hilfetelefon Gewalt gegen Frauen | 0800 116016 (freecall) |
 | **Notruf Häusliche Gewalt / Domestic Violence Hotline** | |
@@ -60,9 +60,9 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Mädchenhaus | 040 428 15 32 71 |
 | Opfer-Telefon Weisser Ring | 116006 (freecall) |
 | Notruf für vergewaltigte Frauen und Mädchen | 040 255566 |
-| <hr> | <hr> |
-| Anwaltlicher Notfalldienst | 0171 6105949 |
-
+|  |  |
+| **Anwaltlicher Notfalldienst** | 0171 6105949 |
+|  |  |
 | **Notfalldienste Suchterkrankungen / Alcoholism & Drug Dependence Hopelines** | |
 | Drogeninformationstelefon der Jugendhilfe | 040 28051107 (8–20 Uhr) und (040) 2803204 (20–8 Uhr) |
 | Ambulanz für Suchtkranke der Asklepios Klinik Nord  (Haus 32 EG) | 040 1818872524 |
