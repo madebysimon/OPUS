@@ -11,6 +11,15 @@ last_edit: 21.10.21
 Open Education Resources
 # Patient Ressources
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Who is who in psychotherapy
 Many actors offer services in mental health these days, so it can get confusing when it comes to expectations, who to trust or approach with what.
 
