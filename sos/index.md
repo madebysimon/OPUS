@@ -10,7 +10,9 @@ nav_order: 99
 > Additional crisis resources can be found below.
 
 [I need to talk. →](#lifelines-and-phone-numbers)
+
 [Where can I go? →](#regional-points-of-contact)
+
 [Someone else needs my help. →](#help-someone-with-a-crisis)
 
 [I need help with my child. →](#children)
