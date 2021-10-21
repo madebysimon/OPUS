@@ -78,21 +78,17 @@ to Hamburg, Germany ([→ see international](#international-lifelines))
 
 ## Help someone with a crisis
 1. Protect your own safety and wellbeing before assisting others.
-
 > **Do not** take it upon yourself to **approach someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
 
 > **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals.
-
 2. Recognize your limits and maintain boundaries
-- What you can't do:
-	- you cannot control how your effort is met, how other people respond to you 
-	- you cannot decide for another person whether or not he/she wants help
-
-- What you can do:
-	- be aware of your own needs and seek support for yourself
-	- be honest with yourself about how much time and effort you can afford to spend in helping
-	- be genuinely concerned and supportive
-
+	- What you can't do:
+		- you cannot control how your effort is met, how other people respond to you 
+		- you cannot decide for another person whether or not he/she wants help
+	- What you can do:
+		- be aware of your own needs and seek support for yourself
+		- be honest with yourself about how much time and effort you can afford to spend in helping
+		- be genuinely concerned and supportive
 3. How to help
 - Take the person aside and talk to him / her in private for undivided attention.
 - Listen carefully and with sensitivity. Listen in an open minded and nonjudgmental way.
@@ -115,11 +111,14 @@ include:
 
 If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
 
-### children
+### Children
 | Zentrale Notfallambulanz / ZNA Kinder-UKE | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
 
 #### Can't bear your child's crying?
-Do not shake the child. Leave your child in a safe place (i.e. place it in its bed on its back) and leave the room immediately. Then seek medical assistance below:
+**Do not shake the child.**
+1. Leave your child in a safe place (i.e. place it in its bed on its back)
+2. leave the room immediately
+3. seek medical assistance below:
 
 | https://www.hamburg.de/schreibabys/ | 
 | Kinder- und Jugendnotdienst Hamburg | +49 40 42815 3200 |
@@ -136,8 +135,7 @@ Do not shake the child. Leave your child in a safe place (i.e. place it in its b
 | Oceania | [🇦🇺](#australia) [🇳🇿](#new-zealand) |
 
 [unlisted? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
-
-افغانستان / Afghanistan
+know a number? → [give feedback](/feedback)
 
 ### United States
 United States of America / Vereinigte Staaten von Amerika
