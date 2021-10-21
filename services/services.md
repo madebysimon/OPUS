@@ -8,6 +8,10 @@ Browse our set of services and offerings
 in *Hamburg, Germany*
 
 # Portfolio / Features
+First class psychotherapy
+Since our founding, we’ve been refining and updating what that means, but we’ve never stopped pursuing that ideal.
+
+advising and programs
 
 ## mono
 
@@ -29,6 +33,7 @@ complimentary services
 
 - : Multimodaler Therapieansatz
 - : Flexible Termingestaltung & zeitgemäßes Klientenmanagement
+	- Made to fit around full-time work.
 - : Therapeut/innen Matching
 - : Ressourcen
 - : Interdisziplinäres all-in-one Versorgungskonzept
@@ -59,3 +64,18 @@ MH: Wir halten Ihnen mit arbeitnehmerfreundlichen Terminen den Rücken frei, dam
 ---
 
 See plans and pricing → 
+
+---
+
+Urgent Care→
+See a medical expert in minutes
+
+Behavioral Health→
+Emotional support from the privacy of home
+
+Preventive Health→
+Support for a healthy lifestyle
+
+Chronic Care→
+Convenient management for chronic conditions
+

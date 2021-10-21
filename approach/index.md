@@ -10,6 +10,9 @@ every path is different
 
 Our aim is to revolutionize care in mental health.
 
+changing the game for mental health
+
+
 > lets shape your future together
 
 Increase transformation velocity

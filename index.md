@@ -26,7 +26,8 @@ If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the [entry points](/oer). <br>
 If you ever wish to return to this page, click the logo to your upper left.
 
-Currently our **knowledge base is still closed** to the public as we're trying to figure out how to handle potential copyright breaches in user submitted content.
+Currently our **knowledge base is still closed** to the public as we're trying to figure out how to ensure intellectual property and handle copyright in user submitted content.
+As of 2021 the German Bundestag voted to require upload filters.
 
 <html>
   <head>

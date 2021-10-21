@@ -13,6 +13,7 @@ has_toc: true
 
 Content from this site is free to use for educational/academic purposes. 
 
+
 special tip for students: To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
 
 ---
@@ -25,6 +26,10 @@ special tip for students: To avoid hits in plagiarism software make sure to incl
 
 > Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
 > By working behind closed doors, you miss out on a lot of valuable feedback.
+
+---
+
+[An Education for Tomorrow]()
 
 ---
 

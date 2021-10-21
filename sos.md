@@ -4,15 +4,18 @@ nav_order: 99
 ---
 
 # Distress Resources 🚨
-
 ---
 
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
 > Additional crisis resources can be found below.
 
+[Who can I talk to? ->](#Regional-points-of-contact)
+[Someone needs help. ->](#Help-someone-with-a-crisis)
+[I need help with my child. ->](#)
+
 ---
 ## Regional points of contact
-to Hamburg, Germany ([→ see international](/sos#international))
+to Hamburg, Germany ([→ see international](/sos#international-lifelines))
 
 - list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/)
 - Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) [✆ 040 7410 350 00](tel: 040741035000)
@@ -24,21 +27,9 @@ to Hamburg, Germany ([→ see international](/sos#international))
 
 | **Notrufnummern** | |
 | Suizidprävention / Suicide Prevention Lifeline | 112 |
-| Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: 112 <br>Polizei: 110|
+| Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: 112 <br>Polizei: 110 |
 | Schreibtelefon der Rettungsdienste | 040 19296 |
 | Apotheken-Notdienstfinder | 0800 00 22833 (freecall) oder 040 22833 (Festnetz) |
-
-
-Can't bear your baby's crying anymore? Do not shake the child.
-Leave your child in a safe place (i.e. place it in its bed on its back) and leave the room immediately. Then seek medical assistance below:
-
-https://www.hamburg.de/schreibabys/
-Kinder- und Jugendnotdienst Hamburg: +49 40 42815 3200
-Hilfetelefon Gewalt gegen Frauen: 0800 116 016
-https://arztruf-hamburg.de/arztrufhamburg
-https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg
-
-
 
 | **Poison Control Center / Giftnotruf** | |
 | GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
@@ -73,7 +64,57 @@ https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[
 
 ---
 
-# International
+Can't bear your baby's crying anymore? Do not shake the child.
+Leave your child in a safe place (i.e. place it in its bed on its back) and leave the room immediately. Then seek medical assistance below:
+
+https://www.hamburg.de/schreibabys/
+Kinder- und Jugendnotdienst Hamburg: +49 40 42815 3200
+Hilfetelefon Gewalt gegen Frauen: 0800 116 016
+https://arztruf-hamburg.de/arztrufhamburg
+https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg
+
+## Help someone with a crisis
+1. Protect your own safety and wellbeing before assisting others.
+
+> **Do not** take it upon yourself to **approach someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
+
+> **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals.
+
+2. Recognize your limits and maintain boundaries
+- What you can't do:
+	- you cannot control how your effort is met, how other people respond to you 
+	- you cannot decide for another person whether or not he/she wants help
+
+- What you can do:
+	- be aware of your own needs and seek support for yourself
+	- be honest with yourself about how much time and effort you can afford to spend in helping
+	- be genuinely concerned and supportive
+
+3. How to help
+- Take the person aside and talk to him / her in private for undivided attention.
+- Listen carefully and with sensitivity. Listen in an open minded and nonjudgmental way.
+- Be honest and direct, but nonjudgmental. Share what you have observed and why it concerns you. For example: "I've noticed that you've been missing class a lot lately and you aren't answering your phone or text messages like you used to. I'm worried about you."
+- Note that distress often comes from conflicting feelings or demands.
+- Make a referral. Direct the person to the Counseling and Mental Health Center (CMHC). Encourage him or her to call and make an appointment right then and there. Even better yet: offer to accompany him or her to CMHC.
+- Follow up. Let the person know that you'll be checking back with him or her later to see how things turned out.
+- Responding in a caring way to a person in distress can help prevent the distressed person's situation from escalating into a crisis.
+
+
+### Suicide Warning Signs
+include:
+- Talking about or making plans for suicide.
+- Expressing hopelessness/carelessness about the future.
+- Displaying severe/overwhelming emotional pain or distress.
+- Showing worrisome behavioral cues or marked changes in behavior, particularly in the presence of the warning signs above. Specifically, this includes significant:
+	- Withdrawal from or changing in social connections/situations
+	- Changes in sleep (increased or decreased)
+	- Anger or hostility that seems out of character or out of context
+	- Recent increased agitation or irritability
+
+If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
+
+
+# International Lifelines
 
 Europe: 
 [🇦🇹](/crisis%20resources.html#austria)
@@ -193,7 +234,7 @@ Finnland / Suomi
 
 | S.O.S Amitié | http://www.sos-amitie.org | Telefon: 01 42 96 26 26 |
 
-## Griechenland
+## Greece
 Ελλάδα / Griechenland
 
 | Klimaka NGO | http://www.klimaka.org.gr | |
@@ -224,7 +265,7 @@ Magyarország / Ungarn
 | SAHAR (Emotionale Support-Chatline) (Hebräisch) |  http://www.sahar.org.il |
 | SAHAR (Emotionale Support-Chatline) (Arabisch) | http://www.sahar.org.il/?categoryId=63068 |
 
-## Italien
+## Italy
 Italia / Italien
 
 | Telefono Azzurro | www.azzurro.it | Telefon: 19696 |
@@ -398,3 +439,7 @@ tba_
 | National Eating Disorders Association Helpline | |
 | National Abortion Federation Hotline | |
 | HIV Nightline | |
+
+
+---
+

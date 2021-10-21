@@ -10,6 +10,14 @@ Zeiten ändern sich, Werte bestehen – auch in der digitalen Welt.
 
 →  ♿ read in easy language
 
+      
+      
+
+building strong voices
+
+
+Diversity, Equity & Inclusion
+
 # here is how we are different
 Unsere Philosophie
 pillars of our work

@@ -33,3 +33,7 @@ keep the fire burning
 > only **you** can prevent _mental crises_
 
 Elements of Resilience
+
+Feel Well, Do Well
+Thriving in life requires taking care of every component of your well-being. See how maia health helps you do wellness your way.
+
