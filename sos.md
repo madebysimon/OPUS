@@ -21,16 +21,23 @@ nav_order: 99
 ## Regional points of contact
 to Hamburg, Germany ([→ see international](#international-lifelines))
 
-| list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) ||
-| [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) ||
+| list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) |
+| [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) |
+
 | Zentrale Notfallambulanz / ZNA Universitätsklinikum Eppendorf (UKE) | [✆ 49 (0)40 7410 350 00](tel: 040741035000), open 24hrs |
 | UKE Ambulanz für geflüchtete Kinder | fluechtlingsambulanz@uke.de | +49 (0) 40 4719308-0 (office hours) |
 | find a [support group ↗](https://www.kiss-hh.de) | https://www.hamburg.de/drogenberatung-suchthilfe/ |
 
+| **Taxi Services** 🚕 <br>Do not drive if you're in crisis. Go by cab or public transport, money is refunded by most health insurance. | |
+| Taxi.de | [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/) |
+| FreeNow / MyTaxi | [App ↗](//free-now.com/de/) |
+| Hansa-Taxi | [✆ 221 221](tel: 004940221221) |
+| TaxiHamburg |  [✆ 66 66 66](tel: 0049666666) | 
+
 ## Lifelines and phone numbers
 to Hamburg, Germany ([→ see international](#international-lifelines))
 
-| **Notrufnummern** | |
+| Emergency lines / **Notrufnummern**  | |
 | Suizidprävention / Suicide Prevention Lifeline | 112 |
 | Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: 112 <br>Polizei: 110 |
 | Schreibtelefon der Rettungsdienste | 040 19296 |
@@ -39,14 +46,7 @@ to Hamburg, Germany ([→ see international](#international-lifelines))
 | **Poison Control Center / Giftnotruf** | |
 | GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
 
-| **Taxi Services** 🚕 <br>Do not drive. Go by cab, money is refunded by most health insurance. | |
-| Taxi.de | [Taxi.de ↗](//www.taxi.de/bestellen/hamburg/) |
-| FreeNow / MyTaxi | [App ↗](//free-now.com/de/) |
-| local to Hamburg | |
-| Hansa-Taxi | [✆ 221 221](tel: 004940221221) |
-| TaxiHamburg |  [✆ 66 66 66](tel: 0049666666) | 
-
-| **Seelsorge / Hopelines** | |
+| **Hopelines / Seelsorge** | |
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
 | Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) | 
@@ -112,19 +112,20 @@ include:
 If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
 
 ### Children
+
 | Zentrale Notfallambulanz / ZNA Kinder-UKE | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
 
-#### Can't bear your child's crying?
-**Do not shake the child.**
+Can't bear your child's crying? **Do not shake the child.**
+
 1. Leave your child in a safe place (i.e. place it in its bed on its back)
 2. leave the room immediately
 3. seek medical assistance below:
 
-| https://www.hamburg.de/schreibabys/ | 
-| Kinder- und Jugendnotdienst Hamburg | +49 40 42815 3200 |
-| Hilfetelefon Gewalt gegen Frauen | 0800 116 016 |
-| https://arztruf-hamburg.de/arztrufhamburg |
-| https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg |
+| Kinder- und Jugendnotdienst Hamburg | [✆ +49 (0)40 42815 3200](tel:+4940428153200) |
+| Hilfetelefon Gewalt gegen Frauen | [✆ +49 (0)800 116 016](tel:+49800116016) |
+| [hamburg.de/schreibabys/](//www.hamburg.de/schreibabys/) ||
+| [Arztruf Hamburg](https://arztruf-hamburg.de/arztrufhamburg) ||
+| [Kinderärzte im Netz](https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg) ||
 
 ## International Lifelines
 
@@ -155,9 +156,7 @@ United States of America / Vereinigte Staaten von Amerika
 ### Belgium
 / België / Belgique / Belgien
 
-Centrum Ter Preventie Van Zelfdoding 
-http://www.zelfmoord1813.be
-Telefon: 1813
+| Centrum Ter Preventie Van Zelfdoding | http://www.zelfmoord1813.be | Telefon: 1813 |
 
 ### Austria
 / Österreich
