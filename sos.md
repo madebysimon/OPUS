@@ -9,24 +9,26 @@ nav_order: 99
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
 > Additional crisis resources can be found below.
 
-[Who can I talk to? →](#lifelines-and-phone-numbers)
-[Where can I go?](#regional-points-of-contact)
+[I need to talk. →](#lifelines-and-phone-numbers)
 
-[Someone needs my help. →](#help-someone-with-a-crisis)
+[Where can I go? →](#regional-points-of-contact)
 
-[I need help with my child. →](#)
+[Someone else needs my help. →](#help-someone-with-a-crisis)
+
+[I need help with my child. →](#children)
 
 ---
-
 ## Regional points of contact
-to Hamburg, Germany ([→ see international](/sos#international-lifelines))
+to Hamburg, Germany ([→ see international](#international-lifelines))
 
 | list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) ||
-| Zentrale Notfallambulanz Universitätsklinikum Eppendorf (UKE) | [✆ 040 7410 350 00](tel: 040741035000), open 24hrs |
+| [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) ||
+| Zentrale Notfallambulanz / ZNA Universitätsklinikum Eppendorf (UKE) | [✆ 49 (0)40 7410 350 00](tel: 040741035000), open 24hrs |
+| UKE Ambulanz für geflüchtete Kinder | fluechtlingsambulanz@uke.de | +49 (0) 40 4719308-0 (office hours) |
 | find a [support group ↗](https://www.kiss-hh.de) | https://www.hamburg.de/drogenberatung-suchthilfe/ |
 
 ## Lifelines and phone numbers
-to Hamburg, Germany ([→ see international](/sos#international-lifelines))
+to Hamburg, Germany ([→ see international](#international-lifelines))
 
 | **Notrufnummern** | |
 | Suizidprävention / Suicide Prevention Lifeline | 112 |
@@ -47,6 +49,7 @@ to Hamburg, Germany ([→ see international](/sos#international-lifelines))
 | **Seelsorge / Hopelines** | |
 | Telefonseelsorge (24/7 & free of charge) | [0800 111 0 111](tel: 08001110111) <br>or [0800 111 0 222](tel: 08001110222) <br>or [116 123](tel: 116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
 | Nummer gegen Kummer – Hotline | Adults: [0800 111 0 550](tel: 0800 111 0 550) <br>Children: [116111](tel: 116111) [0800 111 0 333](tel: 08001110333) |
+| Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) | 
 
 | **National Sexual Assault Hotline** | |
 | Hilfetelefon Gewalt gegen Frauen | 0800 116016 (freecall) |
@@ -72,15 +75,6 @@ to Hamburg, Germany ([→ see international](/sos#international-lifelines))
 | National Eating Disorders Association Helpline | |
 | National Abortion Federation Hotline | |
 | HIV Nightline | |
-
-## Can't bear your child's crying?
-Do not shake the child. Leave your child in a safe place (i.e. place it in its bed on its back) and leave the room immediately. Then seek medical assistance below:
-
-https://www.hamburg.de/schreibabys/
-Kinder- und Jugendnotdienst Hamburg: +49 40 42815 3200
-Hilfetelefon Gewalt gegen Frauen: 0800 116 016
-https://arztruf-hamburg.de/arztrufhamburg
-https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg
 
 ## Help someone with a crisis
 1. Protect your own safety and wellbeing before assisting others.
@@ -121,22 +115,31 @@ include:
 
 If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
 
+### children
+| Zentrale Notfallambulanz / ZNA Kinder-UKE | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
 
+#### Can't bear your child's crying?
+Do not shake the child. Leave your child in a safe place (i.e. place it in its bed on its back) and leave the room immediately. Then seek medical assistance below:
 
-# International Lifelines
+| https://www.hamburg.de/schreibabys/ | 
+| Kinder- und Jugendnotdienst Hamburg | +49 40 42815 3200 |
+| Hilfetelefon Gewalt gegen Frauen | 0800 116 016 |
+| https://arztruf-hamburg.de/arztrufhamburg |
+| https://www.kinderaerzte-im-netz.de/nc/adressen/notdienste/?tx_mksnotdienst_pi1[sword]=Hamburg |
 
-| Europe | [🇦🇹](#austria) [🇧🇪](#belgium) [🇧🇷](#brasil) [🇨🇿](#czech-republic) [🇩🇰](#denmark) [🇫🇷](#france) [🇫🇮](#finland) [🇬🇷](#greece) [🇭🇺](#hungary) [🇮🇹](#italy) [🇮🇪](#ireland) [🇱🇻](#latvia) [🇱🇹](#lithuania) [🇱🇺](#luxembourg) [🇳🇱](#the-netherlands) [🇳🇴](#norway) [🇵🇱](#poland) [🇷🇸](#serbia) [🇪🇸](#spain) [🇸🇪](#sweden) [🇨🇭](#switzerland) [🇬🇧](#united-kingdom) |
-| Africa |  [🇿🇦](#south-africa) |
-| Asia | [🇭🇰](#hongkong) [🇮🇳](#India) [🇮🇱](#israel) [🇸🇬](#singapore) [🇰🇷](#south-korea) [🇹🇼](#taiwan) |
-| North & South America | [🇨🇦](#canada) [🇲🇽](#mexiko) [🇺🇸](#united-states) |
+## International Lifelines
+
+| Europe | [🇦🇹](#austria) [🇧🇪](#belgium) [🇧🇷](#brasil) [🇨🇿](#czech-republic) [🇩🇰](#denmark) [🇫🇷](#france) [🇫🇮](#finland) [🇬🇷](#greece) [🇭🇺](#hungary) [🇮🇹](#italy) [🇮🇪](#ireland) [🇱🇻](#latvia) [🇱🇹](#lithuania) [🇱🇺](#luxembourg) [🇳🇱](#the-netherlands) [🇳🇴](#norway) [🇵🇱](#poland) [🇷🇸](#serbia) [🇹🇷](#turkey) [🇪🇸](#spain) [🇸🇪](#sweden) [🇨🇭](#switzerland) [🇬🇧](#united-kingdom) |
+| Africa | [🇿🇦](#south-africa) |
+| Asia | [🇭🇰](#hongkong) [🇮🇳](#india) [🇮🇱](#israel) [🇸🇬](#singapore) [🇰🇷](#south-korea) [🇹🇼](#taiwan) |
+| North & South America | [🇨🇦](#canada) [🇲🇽](#mexico) [🇺🇸](#united-states) |
 | Oceania | [🇦🇺](#australia) [🇳🇿](#new-zealand) |
 
 [unlisted? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
 
 افغانستان / Afghanistan
-Türkiye / Türkei / Turkey
 
-## United States
+### United States
 United States of America / Vereinigte Staaten von Amerika
 
 | National Suicide Prevention Lifeline | http://www.suicidepreventionlifeline.org | Tel: 1 800 273 TALK (8255) |
@@ -144,33 +147,33 @@ United States of America / Vereinigte Staaten von Amerika
 | Veterans/Military Crisis Line (für aktive Angehörige, Veteranen und Familienmitglieder der US-Streitkräfte) |http://www.veteranscrisisline.net | Tel: 1 800 273 8255, then press 1; or SMS: 838255 |
 | The Trevor Project (für Jugendliche, Freunde und Familienmitglieder der LGBT-Gemeinschaft) | http://www.thetrevorproject.org | Telefon: 1 866 488 73865 |
 
-## Australia
+### Australia
 / Australien
 
 | Lifeline Australia | http://www.lifeline.org.au | Tel: 13 11 14 |
 | Kids Helpline | http://www.kidshelp.com.au | Tel: 1800 55 1800 |
 | Headspace | http://www.eheadspace.org.au | Tel: 1800 650 890 |
 
-## Belgium
+### Belgium
 / België / Belgique / Belgien
 
 Centrum Ter Preventie Van Zelfdoding 
 http://www.zelfmoord1813.be
 Telefon: 1813
 
-## Austria
+### Austria
 / Österreich
 
 | Rat auf Draht | http://rataufdraht.orf.at | Telefon: 147 |
 | Telefonseelsorge – Notruf 142 | http://www.telefonseelsorge.at | Telefon: 142 (24 Stunden täglich) <br> E-Mail: https://onlineberatung-telefonseelsorge.at (Chat und E-Mail) |
 
 
-## Brasil
+### Brasil
 / Brasilien
 
 | CVV | http://www.cvv.org.br | Telefon: 188 | E-Mail: atendimento@cvv.org.br |
 
-## Canada
+### Canada
 / Kanada
 
 | Kids Help Phone (für Jugendliche unter 20) | Telefon: 1 800 6686868 |
@@ -178,7 +181,7 @@ Telefon: 1813
 | Personen ab 20 sollten sich an ein Krisenzentrum in ihrer Region wenden: 
 http://suicideprevention.ca/thinking-aboutsuicide/find-a-crisis-centre |
 
-## Czech Republic
+### Czech Republic
 Česká republika / Tschechische Republik
 
 | Linka bezpečí | www.linkabezpeci.cz | Telefon: 116 111 |
@@ -188,65 +191,65 @@ http://suicideprevention.ca/thinking-aboutsuicide/find-a-crisis-centre |
 | Linka důvěry DKC | http://dkc.cz/linka_duvery.php | Telefon: 241 484 149 | Skype: ld_dkc |
 | Linka bezpečí | http://www.linkabezpeci.cz | Telefon: 116111 (Kinder und Jugendliche) |
 
-## Denmark
+### Denmark
 Danmark / Dänemark
 
 | Livslinien | http://www.livslinien.dk | Telefon: 70 201 201 |
 | Børne | https://bornetelefonen.dk/ring | Telefon: 116 111 (Beratungsstelle für Kinder täglich von 11:00 bis 23:00 Uhr erreichbar.) |
 
-## Finland
+### Finland
 Finnland / Suomi
 
 | Suomen Mielenterveysseura | http://www.e-mielenterveys.fi/en/ | Telefon: 01019 5202 |
 
-## France
+### France
 / Frankreich
 
 | S.O.S Amitié | http://www.sos-amitie.org | Telefon: 01 42 96 26 26 |
 
-## Greece
+### Greece
 Ελλάδα / Griechenland
 
 | Klimaka NGO | http://www.klimaka.org.gr | |
 | Suicide Help Greece | http://www.suicide-help.gr | Telefon: 1018 |
 
-## Hongkong
+### Hongkong
 
 | The Samaritan Befrienders Hong Kong | http://www.help4suicide.com.hk |
 | The Samaritan Befrienders Hong Kong | 
 http://www.sbhk.org.hk | Telefon: 2389 2222 |
 | The Samaritans Hong Kong | http://www.samaritans.org.hk | Telefon: 2896 0000 |
 
-## Hungary
+### Hungary
 Magyarország / Ungarn
 
 | Magyar Lelki Elsősegély Telefonszolgálatok Szövetsége | http://www.sos505.hu | Telefon: 116 123 | E-Mail: sos@sos505.hu |
 | Kek Vonal | Telefon: 116-111 |
 
-## India
+### India
 भारत / Indien
 
 | AASRA | http://www.aasra.info | Telefon: 91-22-27546669 <br>Telefon: 91-22-27546667 | E-Mail: aasrahelpline@yahoo.com |
 
-## Israel
+### Israel
 / ישראל
 
 | ERAN | http://www.eran.org.il | Telefon: Kostenloser Anruf innerhalb von Israel: 1201 | Telefon: Außerhalb von Israel: +972-76-8844400 |
 | SAHAR (Emotionale Support-Chatline) (Hebräisch) |  http://www.sahar.org.il |
 | SAHAR (Emotionale Support-Chatline) (Arabisch) | http://www.sahar.org.il/?categoryId=63068 |
 
-## Italy
+### Italy
 Italia / Italien
 
 | Telefono Azzurro | www.azzurro.it | Telefon: 19696 |
 | Telefono Amico | http://www.telefonoamico.it | Telefon: 199 284 284 |
 
-## Latvia
+### Latvia
 Latvija / Lettland
 
 | Skalbes | http://www.skalbes.lv | Telefon: 371 67222922 <br>Telefon: 371 27722292
 
-## Lithuania
+### Lithuania
 Lietuva / Litauen
 
 | Lithuanian Association of Emotional Support Lines | http://www.klausau.lt |
@@ -256,57 +259,57 @@ Lietuva / Litauen
 | Pagalbos moterims linija (Frauen) | http://www.moteriai.lt | Telefon: 8 800 66366 | E-Mail: pagalba@moteriai.lt |
 | Linija Doverija (Hilfe für russischsprachige Personen) | Telefon: 8 800 77277 |
 
-## Luxembourg
+### Luxembourg
 Lëtzebuerg / Luxemburg
 
 | SOS Détresse – Hëllef iwwer Telefon | http://www.454545.lu | Telefon: 454545 |
 | Kanner-Jugendtelefon | http://www.kjt.lu | Telefon: 116 111 |
 
-## Mexico
+### Mexico
 México / Mexiko
 
 | Consejo Ciudadano | http://consejociudadanomx.org | Telefon: 55 5533-5533 |
 | Instituto Hispanoamericano de Suicidologia, A.C | Telefon: +5255 46313300 | E-Mail: info@suicidiologia.com.mx |
 
-## The Netherlands
+### The Netherlands
 Nederland / Niederlande
 
 | Foundation 113Online | http://www.113online.nl | Telefon: 0900-113 0 113 |
 
-## New Zealand
+### New Zealand
 Neuseeland
 
 | National Depression Initiative | http://www.depression.org.nz |||
 | The Lowdown | http://www.thelowdown.co.nz | Telefon: 0800 111 757 <br>SMS: 5626 | E-Mail: team@thelowdown.co.nz |
 | Youthline http://www.youthline.co.nz | Telefon: 0800 376633 <br>SMS: 234 | E-Mail: talk@youthline.co.nz <br> E-Mail: parenttalk@youthline.co.nz |
 
-## Norway
+### Norway
 Norge / Norwegen
 
 | Kirkens SOS | http://www.kirkens-sos.no | Telefon: 815 33 300 |
 
-## Poland
+### Poland
 Polska / Polen
 
 | Fundacja Dzieci Niczyje | http://www.116111.pl/napisz | Telefon: 116 111 |
 
-## Serbia
+### Serbia
 Србија / Serbien
 
 | Centar Srce | http://www.centarsrce.org | Telefon: 0800 300 303 | E-Mail: vanja@centarsrce.org |
 
 
-## Singapore
+### Singapore
 新加坡 / Singapur
 
 | Samaritans of Singapore (SOS) | http://samaritans.org.sg | Telefon: 1800 221 4444 | E-Mail: pat@samaritans.org.sg |
 
-## South Africa
+### South Africa
 Suid Afrika / Südafrika
 
 | The South African Depression and Anxiety Group (SADAG) | http://www.sadag.org | Telefon: 0800 567 567 | SMS: 31393 |
 
-## South Korea
+### South Korea
 한국 / Südkorea
 
 | 중앙자살예방센터 (Korea Suicide Prevention Center) | www.spckorea.or.kr | Telefon: +82 2-2203-0053 | E-Mail: spc@spckorea.or.kr |
@@ -314,33 +317,39 @@ Suid Afrika / Südafrika
 | 보건복지부 보건복지콜센터 (Callcenter des Ministeriums für Gesundheit und Soziales) | Telefon: 129 (24시간 위기상담 / 24-Stunden-Hotline) |
 | 정신건강증진센터 정신건강위기상담전화 (Krisenzentrum und Beratung für mentale Gesundheit) | Telefon: 1577-0199 (24시간 위기상담 / 24-Stunden-Hotline) |
 
-## Spain
+### Spain
 España / Spanien
 
 | Teléfono de la Esperanza | http://telefonodelaesperanza.org | Telefon: 902500002 |
 
-## Sweden
+### Sweden
 Sverige / Schweden
 
 | Mind | https://mind.se/ |
 
-## Switzerland
+### Switzerland
 Suisse / Schweiz
 
 | Tel 143  La Main Tendue – Die Dargebotene Hand – Telefono Amico | http://www.143.ch
 | Telefon: 143 |
 
-## Taiwan
+### Taiwan
 / 臺灣 / 台湾
 
 | Taiwan Suicide Prevention Center | http://www.tspc.tw | Telefon: 0800 788 995 | E-Mail: tspc-fb@tsos.org.tw |
 
-## United Kingdom
+### Turkey
+Türkiye / Türkei
+
+| Emergency Hotline | 182 |
+
+
+### United Kingdom
 Vereinigtes Königreich
 
 | Samaritans | http://www.samaritans.org | Telefon: 116 123 | E-Mail: jo@samaritans.org |
 
-## Ireland
+### Ireland
 Irland
 
 | Samaritans | http://www.samaritans.org | Telefon: 116 123 | E-Mail: jo@samaritans.org
@@ -349,3 +358,4 @@ Irland
 
 
 https://cmhc.utexas.edu/commonconcerns.html
+
