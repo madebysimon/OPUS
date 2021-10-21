@@ -103,7 +103,7 @@ include:
 	- anger or hostility that seems out of character or out of context
 	- recent increased agitation or irritability
 
-If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
+If you notice these warning signs in someone, it is very important that you ask them clearly and directly if they are thinking about suicide.
 
 ### For Parents 🧸
 Can't bear your child's crying? **Do not shake the child.**
