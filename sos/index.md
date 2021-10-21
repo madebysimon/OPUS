@@ -14,7 +14,7 @@ quick links:
 
 [talk to someone →](#lifelines-and-phone-numbers){: .btn} 
 [see where to go →](#regional-points-of-contact){: .btn} 
-[how to help others →](#help-someone-with-a-crisis){: .btn} 
+[how to help others →](#help-someone-in-a-crisis){: .btn} 
 [children →](#children-){: .btn}
 
 ---
@@ -40,8 +40,8 @@ to Hamburg, Germany ([→ see international](/sos/international))
 
 | emergency dispatch / **Notruf**  | [✆ 112](tel:112){: .btn}  |
 | Suizidprävention / Suicide Prevention Lifeline | [✆ 112](tel:112) |
-| ♿️ Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: [✆ 112](tel:112) <br>Polizei: [✆ 110](tel:110) |
-| ♿️ Schreibtelefon der Rettungsdienste | 040 19296 |
+| Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: [✆ 112](tel:112) <br>Polizei: [✆ 110](tel:110) |
+| Schreibtelefon der Rettungsdienste | 040 19296 |
 | Apotheken-Notdienstfinder | [✆ 0800 00 22833](tel:498000022833) (freecall) oder [✆ 040 22833](tel:494022833) (Festnetz) |
 |  |  |
 | GIZ-Nord (Poison Control Center / Giftnotruf) | [✆ 0551 19240](tel:055119240)<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
@@ -69,28 +69,28 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Anonyme Spieler | [✆ 040 2099009](tel:49402099009) |
 
 
-## Help someone with a crisis
-1. Protect your own safety and wellbeing before assisting others.
-	> **Do not** take it upon yourself to **approach someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
-
-	> **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals.
-
-2. Recognize your limits and maintain boundaries
-	- What you can't do:
-		- you cannot control how your effort is met, how other people respond to you 
-		- you cannot decide for another person whether or not he/she wants help
-	- What you can do:
-		- be aware of your own needs and seek support for yourself
+## Help someone in a crisis
+1. Safety first, maintain boundaries
+	> **Do not approach and do not touch someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
+	- Protect your own safety, physical and mental wellbeing before assisting others. Recognize your limits, be aware of your own needs and seek support for yourself.
+		-  You **cannot** decide for another person whether or not he/she wants help
+		- You **cannot** control how your effort is met, how other people respond to you
 		- be honest with yourself about how much time and effort you can afford to spend in helping
-		- be genuinely concerned and supportive
+	
+	> **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals
+
+2. Be ready to recognize need for professional intervention
+	- if you feel strongly uneasy or seriously concerned at any times do not hessitate and involve emergency services (see [suicide warning signs →](#suicide-warning-signs)) or [seek help by professionals →](#lifelines-and-phone-numbers)
+		- Direct the person to professional help. Offer to accompany him/her to the next psychotherapist or emergency room or encourage him/her to call and make an appointment right then and there.
+
 3. How to help
-- Take the person aside and talk to him / her in private for undivided attention.
-- Listen carefully and with sensitivity. Listen in an open minded and nonjudgmental way.
-- Be honest and direct, but nonjudgmental. Share what you have observed and why it concerns you. For example: "I've noticed that you've been missing class a lot lately and you aren't answering your phone or text messages like you used to. I'm worried about you."
-- Note that distress often comes from conflicting feelings or demands.
-- Make a referral. Direct the person to the Counseling and Mental Health Center (CMHC). Encourage him or her to call and make an appointment right then and there. Even better yet: offer to accompany him or her to CMHC.
-- Follow up. Let the person know that you'll be checking back with him or her later to see how things turned out.
-- Responding in a caring way to a person in distress can help prevent the distressed person's situation from escalating into a crisis.
+	- Take the person aside for undivided attention and to talk in private.
+	- Listen **carefully** and with sensitivity in an open minded and **nonjudgmental** way. Do not argue.
+	- **Be honest** and direct, do not lie. Share what you have observed and why it concerns you. For example:
+		> "I've noticed that you've been missing a lot lately and you aren't answering your phone or text messages like you used to. I'm worried about you."
+	- Note that distress often comes from conflicting feelings or demands.
+	- Follow up. Let the person know that you'll be checking back with him or her later to see how things turned out.
+	- Responding in a caring way to a person in distress can help prevent the distressed person's situation from escalating into a crisis.
 
 ### Suicide Warning Signs
 include:

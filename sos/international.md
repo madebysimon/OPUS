@@ -11,7 +11,7 @@ nav_exclude: true
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆911 ↗](tel: 911) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=emergency-rooms)** <br><br>
 > Additional crisis resources can be found below.
 
-[Someone else needs my help. →](/sos#help-someone-with-a-crisis)
+[Someone else needs my help. →](/sos#help-someone-in-a-crisis)
 
 [I need help with my child. →](#children)
 
