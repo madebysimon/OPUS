@@ -189,7 +189,7 @@ Currently our **knowledge base is still closed** to the public as we're trying t
                         <svg class="aks-accordion-item-icon-close" viewBox="0 0 32 32"><path d="M15.997 13.374l-7.081 7.081L7 18.54l8.997-8.998 9.003 9-1.916 1.916z" /></svg>
                     </div>
                     <div class="aks-accordion-item-title">
-                        <h3 itemprop="name">Terms of Service / Rules of Engagement</h3>
+                        <h3 itemprop="name">Terms of Service</h3>
                     </div>
                 </div>
                 <div class="aks-accordion-item-content" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" data-accordion-content="">
