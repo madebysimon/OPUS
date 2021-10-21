@@ -20,3 +20,4 @@ Bitte kontaktieren Sie uns, um Zugang zu erhalten.
 - [Periodensystem der Störungen](/tools/pds)
 
 ## Blueprints 📑
+- emergency skill kit 🧯

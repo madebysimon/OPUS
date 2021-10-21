@@ -10,19 +10,18 @@ nav_order: 99
 > Additional crisis resources can be found below.
 
 [I need to talk. →](#lifelines-and-phone-numbers)
-
 [Where can I go? →](#regional-points-of-contact)
-
 [Someone else needs my help. →](#help-someone-with-a-crisis)
 
 [I need help with my child. →](#children)
 
 ---
 ## Regional points of contact
-to Hamburg, Germany ([→ see international](/sos/international#international-lifelines))
+to Hamburg, Germany ([→ see international](/sos/international))
 
-| list of Hamburg [psychiatric hospitals ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) |
+
 | [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) |
+| list of [psychiatric hospitals on hamburg.de ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) |
 
 | Zentrale Notfallambulanz / ZNA Universitätsklinikum Eppendorf (UKE) | [✆ 49 (0)40 7410 350 00](tel: 040741035000), open 24hrs |
 | UKE Ambulanz für geflüchtete Kinder | fluechtlingsambulanz@uke.de | +49 (0) 40 4719308-0 (office hours) |
@@ -35,7 +34,7 @@ to Hamburg, Germany ([→ see international](/sos/international#international-li
 | TaxiHamburg |  [✆ 66 66 66](tel: 0049666666) | 
 
 ## Lifelines and phone numbers
-to Hamburg, Germany ([→ see international](/sos/international#international-lifelines))
+to Hamburg, Germany ([→ see international](/sos/international))
 
 | Emergency lines / **Notrufnummern**  | |
 | Suizidprävention / Suicide Prevention Lifeline | 112 |
@@ -68,19 +67,13 @@ to Hamburg, Germany ([→ see international](/sos/international#international-li
 | Anonyme Alkoholiker, Saarlandstraße 9, 22303 Hamburg | 040 19295 |
 | Anonyme Spieler | 040 2099009 |
 
----
-
-| LGBT National Hotline | |
-| Veteran Crisis Line | |
-| National Eating Disorders Association Helpline | |
-| National Abortion Federation Hotline | |
-| HIV Nightline | |
 
 ## Help someone with a crisis
 1. Protect your own safety and wellbeing before assisting others.
-> **Do not** take it upon yourself to **approach someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
+	> **Do not** take it upon yourself to **approach someone who is highly agitated or violent** or decide by yourself what is in the person's best interests.
 
-> **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals.
+	> **For your safety** - as well as that of others and the person in distress - those decisions should be left to trained professionals.
+
 2. Recognize your limits and maintain boundaries
 	- What you can't do:
 		- you cannot control how your effort is met, how other people respond to you 
@@ -111,7 +104,7 @@ include:
 
 If you notice these warning signs in your student/friend, it is very important that you ask them directly if they are thinking about suicide.
 
-### Children
+### Children 🧸
 
 | Zentrale Notfallambulanz / ZNA Kinder-UKE | [✆ +49 (0) 40 7410 - 0](tel:+494074100) |
 

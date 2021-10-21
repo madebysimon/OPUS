@@ -1,5 +1,5 @@
 ---
-title: feedback
+title: Feedback
 nav_order: 98
 ---
 # Feedback Ballot 📮
@@ -12,11 +12,6 @@ nav_order: 98
 </span>
 
 (via paypal)
-
----
-
-current rating:
-★★★★★ **5.0 @ 2 Reviews**
 
 ---
 Got Feedback? Comment below (or send me an [✉️ email ↗](mailto: simon@maiahealth.de))
