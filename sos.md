@@ -12,7 +12,7 @@ nav_order: 99
 [Who can I talk to? →](#lifelines-and-phone-numbers)
 [Where can I go?](#regional-points-of-contact)
 
-[Someone needs help. →](#help-someone-with-a-crisis)
+[Someone needs my help. →](#help-someone-with-a-crisis)
 
 [I need help with my child. →](#)
 
