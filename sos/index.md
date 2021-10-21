@@ -25,8 +25,8 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | [search for nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme) |
 | list of [psychiatric hospitals on hamburg.de ↗](//www.hamburg.de/krankenhausverzeichnis/2833438/psychiatrie/) |
 
-| Zentrale Notfallambulanz / ZNA Universitätsklinikum Eppendorf (UKE) | [✆ 49 (0)40 7410 350 00](tel: 040741035000), open 24hrs |
-| UKE Ambulanz für geflüchtete Kinder | fluechtlingsambulanz@uke.de | +49 (0) 40 4719308-0 (office hours) |
+| Zentrale Notfallambulanz / ZNA Universitätsklinikum Eppendorf (UKE) | [✆ 040 7410 35 000](tel: +4940741035000), open 24hrs |
+| UKE Ambulanz für geflüchtete Kinder | fluechtlingsambulanz@uke.de | [✆ 040 4719 30 80](tel: +494047193080) (office hours) |
 | find a [support group ↗](https://www.kiss-hh.de) | https://www.hamburg.de/drogenberatung-suchthilfe/ |
 
 | **Taxi Services** 🚕 <br>Do not drive if you're in crisis. Go by cab or public transport, money is refunded by most health insurance. |
@@ -38,11 +38,11 @@ to Hamburg, Germany ([→ see international](/sos/international))
 ## Lifelines and phone numbers
 to Hamburg, Germany ([→ see international](/sos/international))
 
-| Emergency lines / **Notrufnummern**  | |
+| emergency dispatch / **Notruf**  | [✆ 112](#lifelines-and-phone-numbers){: .btn}  |
 | Suizidprävention / Suicide Prevention Lifeline | 112 |
-| Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: 112 <br>Polizei: 110 |
-| Schreibtelefon der Rettungsdienste | 040 19296 |
-| Apotheken-Notdienstfinder | 0800 00 22833 (freecall) oder 040 22833 (Festnetz) |
+| 📠 Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: 112 <br>Polizei: 110 |
+| ✍️ Schreibtelefon der Rettungsdienste | 040 19296 |
+| 💊 Apotheken-Notdienstfinder | 0800 00 22833 (freecall) oder 040 22833 (Festnetz) |
 |  |  |
 | **Poison Control Center / Giftnotruf** | |
 | GIZ-Nord | 0551 19240<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
