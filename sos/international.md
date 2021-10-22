@@ -25,7 +25,8 @@ all countries currently listed:
 | North & South America | [🇨🇦](#canada) [🇲🇽](#mexico) [🇺🇸](#united-states) |
 | Oceania | [🇦🇺](#australia) [🇳🇿](#new-zealand) |
 
-[unlisted? see wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources)
+unlisted? see [wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources) or [telefonseelsorge↗](https://www.telefonseelsorge.de/international-helplines/#australia)
+[Suicidestop ↗](https://www.suicidestop.com/suicide_prevention_chat_international.html)
 
 know a number? → [give feedback](/feedback)
 

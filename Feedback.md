@@ -4,14 +4,8 @@ nav_order: 98
 ---
 # Feedback Ballot 📮
 
+[buy me a ☕️ (via paypal)](//paypal.me/SimonKelch/2){: .btn }
 
-
-<br>
-<span class="fs-3">
-[buy me a ☕️](//paypal.me/SimonKelch/2){: .btn }
-</span>
-
-(via paypal)
 
 ---
 Got Feedback? Comment below (or send me an [✉️  mail ↗](mailto: simon@maiahealth.de))

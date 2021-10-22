@@ -47,7 +47,7 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | GIZ-Nord (Poison Control Center / Giftnotruf) | [✆ 0551 19240](tel:055119240)<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
 
 | **Hopelines / Seelsorge** ||
-| Telefonseelsorge (24/7 & free of charge) | [✆ 0800 111 0 111](tel:08001110111) <br>or [✆ 0800 111 0 222](tel:08001110222) <br>or [✆ 116 123](tel:116123) <br>[online chat ↗](//online.telefonseelsorge.de/) |
+| Telefonseelsorge (24/7 & free of charge) | [✆ 0800 111 0 111](tel:08001110111) <br>or [✆ 0800 111 0 222](tel:08001110222) <br>or [✆ 116 123](tel:116123) <br>[online chat ↗](//online.telefonseelsorge.de/)
 | Nummer gegen Kummer – Hotline | Adults: [✆ 0800 111 0 550](tel:08001110550) <br>Children: [✆ 116 111](tel:116111) or [✆ 0800 111 0 333](tel:08001110333) |
 | Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) |
 |  |  |
@@ -68,6 +68,26 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Anonyme Alkoholiker (Saarlandstraße 9, 22303 Hamburg) | [✆ 040 19295](tel:494019295) |
 | Anonyme Spieler | [✆ 040 2099009](tel:49402099009) |
 
+### Other Languages
+
+English speakers
+British Armed Forces (Germany) Hotline: 0800 181 0771/ 0800 181 0772 (to Samaritans)
+International Helpline Berlin: 030-44 01 06 07
+Crisis Hotline: 0177/ 81 41 510 (Free of Charge Referral Service)
+
+Telefon/Project Doweria: +49 30 44 03 08 454/ 030-44 01 06 06
++49 30 44 03 08 454
+http://telefonseelsorge-berlin-brandenburg.de/6_Doweria/index.html
+Doweria offers mental health support for the Russian speaking community in Germany.
+Crisis Service of Middle Franconia (Krisendienst Mittelfranken): 0800 / 655 3000
+
+
+Turkish/ Arabic speakers
+Muslimische SeelsorgeTelefon (MuTeS): +49 30 44 35 09 821
+[http://www.mutes.de/home.html](http://www.mutes.de/home.html)
+MuTeS is an emergency hotline for the Muslim community living in Germany. They offer advice in Turkish, Arabic and Urdu on their emergency hotline.
+
+The Crisis Service of Middle Franconia also offers counselling in Turkish. Krisendienst Mittelfranken: 0800 / 655 3000
 
 ## Help someone in a crisis 🫂
 1. Safety first, respect and maintain boundaries
