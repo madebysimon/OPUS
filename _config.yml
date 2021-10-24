@@ -17,7 +17,7 @@ permalink: /:title/
 
 # ---
 plugins:
-  - gem 'jekyll-wikilinks', '~> 0.0.6'
+- gem 'jekyll-wikilinks', '~> 0.0.6'
 #---
 search:
   # Split pages into sections that can be searched individually
