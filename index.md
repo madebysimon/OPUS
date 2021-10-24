@@ -22,6 +22,10 @@ Beware content and links may change during this period.
 [What is this](/resources/getting%20started/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
+
+[[imprint]]
+[[imprint.md]]
+
 If you already know what you're looking for, search is the way to go. <br>
 For everyone "just browsing" I recommend the [entry points](/oer). <br>
 If you ever wish to return to this page, click the logo to your upper left.
