@@ -1,0 +1,82 @@
+If parsing has bugs, test on https://rubular.com/ with the regex from parser.rb and the below info:
+
+test text:
+----------
+
+# vanilla
+
+[[wikilink]]
+
+[[wikilink#header]]
+
+[[wikilink#^block_id]]
+
+# typed
+
+link_type::[[wikilink]]
+
+link_type::[[wikilink#header]]
+
+link_type::[[wikilink#^block_id]]
+
+what if the link_type::[[wikilink]] is inline?
+
+# labelled
+
+[[wikilink|label txt]]
+
+[[wikilink#header|label txt]]
+
+[[wikilink#^block_id|label txt]]
+
+# labelled w bracket
+
+[[wikilink|[bracketted] label txt]]
+
+[[wikilink|bracketted label [txt]]]
+
+[[wikilink#header|[bracketted] label txt]]
+
+[[wikilink#^block_id|[bracketted] label txt]]
+
+# embedded
+
+![[wikilink]]
+
+![[wikilink#header]]
+
+![[wikilink#^block_id]]
+
+# typed embedded
+
+!link_type::[[wikilink]]
+
+!link_type::[[wikilink#header]]
+
+!link_type::[[wikilink#^block_id]]
+
+what if the !type::[[wikilink]] is inline?
+
+# typed labelled
+
+link_type::[[wikilink|label txt]]
+
+link_type::[[wikilink#header|label txt]]
+
+link_type::[[wikilink#^block_id|label txt]]
+
+what if the link_type::[[wikilink|label txt]] is inline?
+
+# stacked header-block
+
+[[wikilink#header#^block]]
+
+# known invalids
+
+# stacked headers
+
+[[wikilink#header#another-header]]
+
+# header range
+
+[[wikilink#header#another:#header]]
