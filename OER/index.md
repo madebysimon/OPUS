@@ -13,6 +13,7 @@ has_toc: true
 
 Content from this site is free to use for educational/academic purposes. 
 
+> Diese Datenbank enthält Information für Behandler/innen. Patienten nutzen bitte das Angebot von [gesund.bund.de](//gesund.bund.de)
 
 special tip for students: To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
 
