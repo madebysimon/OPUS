@@ -1,5 +1,6 @@
 ---
-title: feedback
+title: Feedback
+permalink: /feedback
 nav_order: 98
 ---
 # Feedback Ballot 📮
