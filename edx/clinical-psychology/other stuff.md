@@ -2,6 +2,7 @@
 layout: default
 title: Frontmatter Stuff
 nav_order: 2
+grandparent: Maia edX
 parent: Clinical Psychology
 ---
 

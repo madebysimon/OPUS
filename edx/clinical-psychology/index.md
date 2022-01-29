@@ -2,7 +2,7 @@
 layout: default
 title: Clinical Psychology
 nav_order: 1
-parent: maia edX
+parent: Maia edX
 author: Simon Kelch
 contributors: 
 published: 7.10.21

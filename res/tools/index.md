@@ -18,7 +18,8 @@ permalink: /tools
 
 ## Blueprints 📑
 - emergency skill kit 🧯
-
+- Infographics
+- Reports
 
 ---
 

@@ -11,12 +11,6 @@ to get around the notes being WORN – written once read never
 
 **Ein Psychologe ordnet Dinge und Ordnet Dinge Ein**
 
----
-
-All the things you would expect
-Was Sie erwarten dürfen / dürften
-
----
 
 Together we advance
 
@@ -65,11 +59,10 @@ Physicians, psychologists, therapists, and other mental health providers are oft
 P.S. We're completely independent, self-funded, bootstrapped and debt-free. We're not interested in raising funds or taking investment. We choose the subscription business model rather than surveillance capitalism. We're operating a sustainable project funded solely by the fees that our subscribers pay us. And we donate 5% of our revenue. Read more about us.
 
 ---
-
-Novus Via: 
+Novus Via:
 
 Psychotherapie
-Bei unseren Therapeuten sind Sie in den sprichwцrtlich „guten Hдnden“, denn in unserem Team finden Sie Spezialisten aller psychotherapeutischen Verfahren. Dazu zдhlen unter anderem die Bereiche Verhaltenstherapie, Tiefenpsychologische Psychotherapie oder Analytische Psychotherapie. Dies gibt uns die Mцglichkeit, nach einem ersten Gesprдch, die fьr Sie passende Therapieform anzubieten und spart Ihnen Zeit und Wege auf der Suche nach dem passenden Therapeuten.
+Bei unseren Therapeuten sind Sie in den sprichwörtlich „guten Händen“, denn in unserem Team finden Sie Spezialisten aller psychotherapeutischen Verfahren. Dazu zählen unter anderem die Bereiche Verhaltenstherapie, Tiefenpsychologische Psychotherapie oder Analytische Psychotherapie. Dies gibt uns die Mцglichkeit, nach einem ersten Gesprдch, die fьr Sie passende Therapieform anzubieten und spart Ihnen Zeit und Wege auf der Suche nach dem passenden Therapeuten.
 
 Mentale Gesundheit
 Ihre Mentale Gesundheit steht bei uns im Vordergrund. Um Sie auf Ihrem Weg dorthin umfassend zu unterstьtzen, haben wir ein neues Programm entwickelt – wir nennen es „Mental Health Care“. Dazu bieten wir Ihnen tдglich Kurse und Seminare an, in denen Sie lernen zu entspannen oder Ihren Alltag besser zu bewдltigen. Unser „Fitnessprogramm“ stдrkt nicht Ihre Muskeln, kann aber Ihre Seele stдrken und Sie so auf Ihrem Weg zu einem gesunden und ausgeglichenen Leben unterstьtzen.
@@ -91,21 +84,11 @@ mailto:hello@maiahealth.de?subject=I%20want%20to%20join%20Better%20Stack&amp;bod
 
 ---
 
-http://firsttimetherapy.com
-
----
-
-„Die aktuelle Psychologie ist ein Luftschloss mit wenig tragenden Wänden.“
-- Lé me, sincerely
-
+"Die aktuelle Psychologie ist ein Luftschloss mit wenig tragenden Wänden."
 
 ---
 
 Advisors + Notable Investors
-
----
-
-©2021 Maia Health. All rights reserved.
 
 ---
 
@@ -133,7 +116,6 @@ the capability to invest capital
 ---
 
 Accelerated Recovery
-
 
 ---
 
@@ -164,9 +146,6 @@ The secret of getting ahead is getting started
 
 grab one of our whitepapers
 
-Infographic
-
-Analyst Report
 
 Blog
 

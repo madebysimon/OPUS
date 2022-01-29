@@ -3,7 +3,7 @@ layout: default
 title: Diagnostics
 nav_order: 1
 parent: Clinical Psychology
-grand_parent: maia edX
+grand_parent: Maia edX
 has_children: true
 has_toc: true
 ---

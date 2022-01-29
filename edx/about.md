@@ -1,5 +1,5 @@
 ---
-parent: maia edX
+parent: Maia edX
 title: about
 nav_order: 41
 ---
