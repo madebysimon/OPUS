@@ -15,40 +15,33 @@ advising and programs
 All the things you would expect
 Was Sie erwarten dürfen / dürften
 
+- \+ 🧑‍🏫 MaiaEDX Ressourcen (Open Access)
+- \+ ⚡️ Spark Resilienztraining
+- \+ Digital Mental Health Guidelines
+- Gastfreundschaft: complimentary fruit and coffee
+- transparente Diagnostik und umfassende Aufklärung sind bestandteile jeder Therapie nach Richtlinie
+
 ## ① mono
-- Transparente Diagnostik
-- Etablierte Therapieprogramme nach „Gold-Standard“
-- Klientenorientierte Aufklärung
-- boarding pass
-- complimentary fruit and coffee
-- first class
-- better seating and more services
-- best-in-class work environment
-
-our services are optionally in-office or remote. Please keep in mind some processes in therapy require the nuances of personal communication in presence.
-
----
-
-complimentary services
+- moderne Verhaltenstherapie nach Psychotherapie-Richtlinie durch approbierte psychologische Psychotherapeuten
+	- Behandlung von ["Störungen mit Krankheitswert" ↗](/faq#Wann-Therapie?)
+	- Einzel-, Paar- & Gruppentherapeutische Angebote
 
 ## ② duo
+- Therapy accompanied by Coaching
 - Multimodaler Therapieansatz
 - Flexible Termingestaltung & zeitgemäßes Klientenmanagement
 	- Made to fit around full-time work.
 - Therapeut/innen Matching
+
+- best-in-class therapy space
+	- better seating
 - Ressourcen
 - Interdisziplinäres all-in-one Versorgungskonzept
-
-## ③ trio
 - Psychologisches one-on-one Coaching
 - Resilienztraining, Mental Load & Stressmanagement, Digital Mental Health
 
-- \+ 🧑‍🏫 MaiaEDX Ressourcen (Open Access)
-- \+ ⚡️ Spark Resilienztraining
-- \+ Digital Mental Health Guidelines
-- \+ Gruppentherapie
-
-## ◼️ Maia Black [request pricing and availability](booking.maiahealth.de){: .btn} 
+## ③ trio / ◼️ Maia Black
+[request pricing and availability](booking.maiahealth.de){: .btn} 
 - Concierge Service
 	- therapy-on-demand within 24h
 	- therapy-on-premises
@@ -57,6 +50,7 @@ complimentary services
 	- advisory services
 	- in-house multidisciplinary care teams
 
+> Our services take place in-office or remote. Please keep in mind some processes in therapy require the nuances of personal communication in presence.
 
 
 ---
