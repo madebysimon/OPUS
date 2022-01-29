@@ -43,25 +43,25 @@ complimentary services
 - Psychologisches one-on-one Coaching
 - Resilienztraining, Mental Load & Stressmanagement, Digital Mental Health
 
-- + 🧑‍🏫 MaiaEDX Ressourcen (Open Access)
-- + ⚡️ Spark Resilienztraining
-- + Digital Mental Health Guidelines
-- + Gruppentherapie
+- \+ 🧑‍🏫 MaiaEDX Ressourcen (Open Access)
+- \+ ⚡️ Spark Resilienztraining
+- \+ Digital Mental Health Guidelines
+- \+ Gruppentherapie
 
 ## ◼️ Maia Black
-(request pricing and availability open contingent)
-- Concierge Service: Therapy-on-demand und on-premises
-	- MARINA is our concierge program for mental health
-	- Therapeut/innen Gespräche innerhalb von 24h
+- Concierge Service
+	- therapy-on-demand within 24h
+	- therapy-on-premises
 
 - Health Consulting
 	- advisory services
 	- in-house multidisciplinary care teams
 
+[request pricing and availability](booking.maiahealth.de){: .btn} 
+
 ---
 
 
-See [plans and pricing →](/services/pricing) 
 
 MH: Wir halten Ihnen mit arbeitnehmerfreundlichen Terminen den Rücken frei, damit Sie nicht daran gehindert werden mentale Gesundheit zu Ihrer Priorität erklären können
 
