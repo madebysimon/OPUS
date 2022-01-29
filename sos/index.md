@@ -9,6 +9,8 @@ nav_order: 99
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
 > Additional crisis resources can be found below.
 
+If you are in a life threatening situation – don’t use this site. Call 112 to get immediate help.
+
 ---
 ### quick links
 
@@ -43,13 +45,17 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Notruffax für hör- und sprechbehinderte Menschen | Feuerwehr: [✆ 112](tel:112) <br>Polizei: [✆ 110](tel:110) |
 | Schreibtelefon der Rettungsdienste | 040 19296 |
 | Apotheken-Notdienstfinder | [✆ 0800 00 22833](tel:498000022833) (freecall) <br>oder [✆ 040 22833](tel:494022833) (Festnetz) |
+| Sozialpsychiatrischer Dienst Hamburg(Krisenhilfe, auch vor Ort) | [website ↗](https://www.hamburg.de/altona/sozialpsychiatrischer-dienst/) [✆ 040 428 11 2093](tel:+4940428112093)|
 |  |  |
 | GIZ-Nord (Poison Control Center / Giftnotruf) | [✆ 0551 19240](tel:055119240)<br> [Übersicht DE](https://www.bvl.bund.de/DE/Arbeitsbereiche/01_Lebensmittel/03_Verbraucher/09_InfektionenIntoxikationen/02_Giftnotrufzentralen/lm_LMVergiftung_giftnotrufzentralen_node.html) |
 
 | **Hopelines / Seelsorge** ||
 | Telefonseelsorge (24/7 & free of charge) | [✆ 0800 111 0 111](tel:08001110111) <br>or [✆ 0800 111 0 222](tel:08001110222) <br>or [✆ 116 123](tel:116123) <br>[online chat ↗](//online.telefonseelsorge.de/)
-| Nummer gegen Kummer – Hotline | Adults: [✆ 0800 111 0 550](tel:08001110550) <br>Children: [✆ 116 111](tel:116111) or [✆ 0800 111 0 333](tel:08001110333) |
+| Nummer gegen Kummer – Hotline | Adults: [✆ 0800 111 0 550](tel:08001110550) <br>Children: [✆ 116 111](tel:116111) or [✆ 0800 111 0 333](tel:08001110333) <br> [website](www.nummergegenkummer.de) |
 | Krisenchat for Children and Adolescents | [website ↗](https://krisenchat.de) <br>[chat on WhatsApp ↗](https://wa.me/4915735998143) |
+| BKE | [Online-Beratung für Jugendliche und Eltern](www.bke-beratung.de/~run/) |
+| Jugendnotmail | [website ↗](www.jugendnotmail.de) |
+| Projekt "Pausentaste" für Kinder und Jugendliche, die sich um ihre Familie kümmern | [website](www.pausentaste.de) |
 |  |  |
 | **National Sexual Assault Hotline** | |
 | Hilfetelefon Gewalt gegen Frauen | [✆ 0800 11 60 16](tel:0800116016) (freecall) |
@@ -67,6 +73,9 @@ to Hamburg, Germany ([→ see international](/sos/international))
 | Ambulanz für Suchtkranke, Asklepios Klinik Nord (Haus 32 EG) | [✆ 040 1818872524](tel:0401818872524) |
 | Anonyme Alkoholiker (Saarlandstraße 9, 22303 Hamburg) | [✆ 040 19295](tel:494019295) |
 | Anonyme Spieler | [✆ 040 2099009](tel:49402099009) |
+| Regenbogenportal LGBTQIA+ Beratungsangebote | [website](https://www.regenbogenportal.de) |
+| **Pflegetelefon** Beratungs- & Krisentelefon (bundesweit für Betroffene und Angehörige) | [✆ 030 20179131](tel:03020179131) <br> [Mail](mailto:info@wege-zur-pflege.de) |
+
 
 ### Other Languages
 

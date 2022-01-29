@@ -8,8 +8,6 @@ nav_order: 74
 
 ## Sign up for our bi-anual Hackathon in november!
 
-      
-
 Mental health care costs too much and moves too slowly.
 We’re attacking these and other problems with the urgency they deserve. Whether you’re in medicine, engineering, business or design, you can be part of the solution.
 

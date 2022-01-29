@@ -5,6 +5,7 @@ title: Arrivals
 ---
 
 Onboarding for Clients
+Day one is exciting enough.
 
 # Welcome 🔖
 
@@ -18,4 +19,25 @@ Our approach includes by standard:
 - customized agendas & effortless integration, centered on your specific needs
 - presentations from subject matter experts and specialists
 - behind-the-scenes look and in-depth discussions at the latest strategies and innovations
+
+
+---
+
+What led you to consider therapy today
+
+- I've been feeling depressed
+- I feel anxious or overwhelmed
+- My mood is interfering with my job/school performance
+- I struggle with building or maintaining relationships
+- I can't find purpose and meaning in my life
+- I am grieving
+- I have experienced trauma
+- I need to talk through a specific challenge
+- I want to gain self confidence
+- I want to improve myself but I don't know where to start
+- Recommended to me (friend, family, doctor)
+- Just exploring
+- Other
+
+> This is a preliminary question to understand what you are going through, you will have more opportunities to explain or elaborate on your feelings and challenges later on.
 

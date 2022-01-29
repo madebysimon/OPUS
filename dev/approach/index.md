@@ -12,6 +12,7 @@ Our aim is to revolutionize care in mental health.
 
 changing the game for mental health
 
+here's what we do and how we do it
 
 > lets shape your future together
 
