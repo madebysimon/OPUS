@@ -9,7 +9,8 @@ has_toc: true
 permalink: /edx
 ---
 <p class="label label-yellow">academic</p>
-# Open Education Resources
+<p class="label label-blue">open access</p>
+# maia EdX Open Education Resources
 
 Content from this site is free to use for educational/academic purposes. 
 
