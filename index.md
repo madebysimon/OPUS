@@ -17,9 +17,8 @@ Feel free to sneak around (or come back later).<br>
 Beware content and links may change during this period.
 {: .fs-6 .fw-300 }
 
-
 [Get started](/oer){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[What is this](/resources/getting%20started/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[What is this](/res/getting-started){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
