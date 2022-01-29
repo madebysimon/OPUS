@@ -1,6 +1,7 @@
 ---
 title: Suicide Warning Signs
 nav_exclude: true
+parent: sos
 ---
 [← back to 'help someone in crisis'](/help-someone)
 

@@ -1,6 +1,7 @@
 ---
 title: International Lifelines
 nav_exclude: true
+parent: sos
 ---
 [← back to regional](/sos) (for Hamburg, Germany)
 

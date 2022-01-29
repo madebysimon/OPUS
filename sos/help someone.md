@@ -1,6 +1,7 @@
 ---
 title: Help Someone
 nav_exclude: true
+parent: sos
 ---
 [← back to crisis resources](/sos)
 
