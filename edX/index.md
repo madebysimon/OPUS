@@ -8,31 +8,22 @@ has_children: false
 has_toc: true
 permalink: /edx
 ---
-<p class="label label-yellow">academic</p>
-<p class="label label-blue">open access</p>
+<p class="label label-yellow">academic</p><p class="label label-blue">open access</p>
+
 # maia EdX Open Education Resources
 
-Content from this site is free to use for educational/academic purposes. 
+Let's build the education of tomorrow.
+Content from this site is licenced free-to-use for non-commercial educational purposes.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
 
-> Diese Datenbank enthält Information für Behandler/innen. Patienten nutzen bitte das Angebot von [gesund.bund.de](//gesund.bund.de)
+Lectures in 2021 have a single flaw leading to subpar content: most of them are created closed source.
+This leads to
+- sporting centristic "monodisciplinary" views
+- suffering from *false consensus* and *confirmation bias*
+- loosing focus on accountability
 
-special tip for students: To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
-
----
-
-> Lectures in 2021 have a single flaw leading to subpar content: most of them are created closed source.
-> This leads to
-> - sporting centristic "monodisciplinary" views
-> - suffering from *false consensus* and *confirmation bias*
-> - loosing focus on accountability
-
-> Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
-> By working behind closed doors, you miss out on a lot of valuable feedback.
+Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s. By working behind closed doors, you miss out on a lot of valuable feedback.
 
 ---
 
-[An Education for Tomorrow]()
-
----
-
-Below you will find curated guides to this knowledge base.
+To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
