@@ -2,10 +2,11 @@
 parent: Company
 title: Our Pledge
 nav_order: 73
+permalink: /pledge#to-open-source
 ---
 
 # Our Pledge
-## To Open Source
+## to Open Source
 
 Pretty early in my life I was told
 > "If you're good at something never do it for free."
