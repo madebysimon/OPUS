@@ -6,7 +6,7 @@ nav_exclude: false
 nav_order: 44
 has_children: false
 has_toc: true
-permalink: /edX
+permalink: /edx
 ---
 <p class="label label-yellow">academic</p>
 # Open Education Resources
