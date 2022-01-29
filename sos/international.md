@@ -5,14 +5,9 @@ parent: sos
 ---
 [← back to regional](/sos) (for Hamburg, Germany)
 
----
+{% include emergency-disclaimer.md %}
 
-# International Lifelines
-
-> **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆911 ↗](tel: 911) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=emergency-rooms)** <br><br>
-> Additional crisis resources can be found below.
-
----
+## International Lifelines
 
 all countries currently listed:
 

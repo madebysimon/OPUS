@@ -1,7 +1,8 @@
 ---
 title: Reference Material
-parent: Resources
-nav_order: 45
+parent: tools
+grandparent: Patient Resources
+nav_order:
 ---
 
 # Blueprints, "cookbooks" and other reference material

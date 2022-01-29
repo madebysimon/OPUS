@@ -3,15 +3,17 @@ layout: default
 title: Clinical Psychology
 nav_order: 1
 parent: maia edX
-author: simon
-contributors: Theodor, Sybille, Anjel
+author: Simon Kelch
+contributors: 
 published: 7.10.21
-last_edit: 7.10.21
+last_edit: 29.1.22
 ---
 Open Education Resources
-# Clinical Psychology
 
-Content from this site is free to use **for academic purposes**. 
+# Clinical Psychology
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+
+By accessing this site you agree to the licence agreement.
 
 <details open markdown="block">
   <summary>
@@ -23,23 +25,6 @@ Content from this site is free to use **for academic purposes**.
 </details>
 
 ---
-
-> Lectures in 2021 have a single flaw leading to subpar content: most of them are created closed source.
-> This leads to
-> - sporting centristic "monodisciplinary" views
-> - suffering from *false consensus* and *confirmation bias*
-> - loosing focus on accountability
-
-> Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
-> By working behind closed doors, you miss out on a lot of valuable feedback.
-
-
----
-
-Contribute and see all authors on our → github
-
----
- this is the parent page - see frontmatter
 
 # hello world
 Welcome to my first note
@@ -85,9 +70,9 @@ this is code
 [Link button](http://example.com/){: .btn }
 </span>
 
-<span class="fs-3">
+inline text <span class="fs-3">
 [Tiny ass button](http://example.com/){: .btn }
-</span>
+</span> blablabla
 
 [Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
 [Button ](http://example.com/){: .btn .btn-blue }
@@ -101,16 +86,16 @@ this is code
 #bts
 {: .label }
 
-Blue label
+Open Access
 {: .label .label-blue }
 
-Stable
-{: .label .label-green }
-
-New release
+Preview
 {: .label .label-purple }
 
-Coming soon
+Released
+{: .label .label-green }
+
+Work In Progress
 {: .label .label-yellow }
 
 Deprecated

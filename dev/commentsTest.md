@@ -19,7 +19,6 @@ Something [^1]
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
----
 
 ---
 
@@ -36,7 +35,7 @@ Something [^1]
 	Stories / our customers / case studies
 
 4. [Resources](resources)
-	[Getting started](getting-started)
+	[Getting started](about.md)
 	blueprints
 	reference materials
 	events

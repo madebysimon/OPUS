@@ -5,9 +5,7 @@ parent: sos
 ---
 [← back to crisis resources](/sos)
 
-> **ⓘ If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆112 ↗](tel: 112) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=Notaufnahme)** <br><br>
-> Additional crisis resources can be found below.
-
+{% include emergency-disclaimer.md %}
 
 ## Help someone in a crisis 🫂
 1. Safety first, respect and maintain boundaries

@@ -9,11 +9,6 @@ permalink: /tools
 
 # Knowledge Bar / Resources ⚛️
 
-Liebe Kolleg/innen,
-wir stellen unsere Weiterentwicklungen und Materialien in vielen Fällen kostenlos zur Verfügung.
-Bitte kontaktieren Sie uns, um Zugang zu erhalten.
-
-
 # Toolkits 🔖 
 
 - (Arbeitsblätter)
@@ -23,3 +18,10 @@ Bitte kontaktieren Sie uns, um Zugang zu erhalten.
 
 ## Blueprints 📑
 - emergency skill kit 🧯
+
+
+---
+
+Liebe Kolleg/innen,
+wir stellen unsere Weiterentwicklungen und Materialien in vielen Fällen kostenlos zur Verfügung.
+Bitte kontaktieren Sie uns, um Zugang zu erhalten.

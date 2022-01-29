@@ -18,7 +18,7 @@ Beware content and links may change during this period.
 {: .fs-6 .fw-300 }
 
 [Get started](/edx){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[What is this](/res/getting-started){: .btn .fs-5 .mb-4 .mb-md-0 }
+[What is this](/edx/about){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

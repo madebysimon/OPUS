@@ -2,7 +2,7 @@
 layout: default
 title: Who is Who
 nav_order: 2
-parent: Patient Guides
+parent: Patient Resources
 author: Simon Kelch
 contributors: none
 published: 21.10.21
