@@ -4,7 +4,7 @@ nav_order: 40
 has_children: true
 ---
 
-# Patient Ressources
+# Patient Resources
 
 <details open markdown="block">
   <summary>
@@ -14,10 +14,6 @@ has_children: true
 1. TOC
 {:toc}
 </details>
-
-##
-For some articles a short plain language summary is available. Just click the 🩳.
-
 
 
 ## Well-Being Resources

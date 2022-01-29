@@ -4,14 +4,12 @@ title: about
 nav_order: 41
 ---
 
-# About OPUS
+# About EdX
 Maia edX is a knowledgebase on all things psychology made available to the public by Maia Health.
 Freely accessible for the good of everybody.
 
 <div class="code-example" markdown="1">
-
 Achtung! Inhalte dieser Seite ersetzen weder Einschätzung noch Therapie durch qualifiziertes Fachpersonal. Auch handelt es sich nicht um klinische Leitlinien.
-
 </div>
 
 # How this came to be
@@ -27,7 +25,7 @@ This is not wikipedia. Here you will find memes and scientific method, definitio
 **Please cite and give credit** to any given sources or - if none are provided - link back to the article.  [help provide sources →](/feedback)
 <br>
 
-Read more about our pledge to open source [here](/pledge).
+Read more about our pledge to open source [here](/pledge#to-open-source).
 
 > Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
 > By working behind closed doors, you miss out on a lot of valuable feedback.
@@ -44,8 +42,8 @@ Also.. **no ads**. We hate them as much as you do.
 ---
 
 Most articles contain an abstract of the content in shortform and an extensive section in longform.
-Depending on the nature of the article a version in common words is provided. It is marked <p class="label label-blue">E</p> for "Easy Language" ("E" wie "einfache Sprache").
+Depending on the nature of the article a version in common words is provided. It is marked
+<p class="label label-blue">E</p>
+for "Easy Language" ("E" wie "einfache Sprache").
 
 In articles targeted specifically to mental health professionals ("PRO") look for sections called "explain like I’m five" where I'm trying to break down the content.
-
-<p class="label label-grey">PRO</p>

@@ -9,11 +9,8 @@ published: 7.10.21
 last_edit: 29.1.22
 ---
 Open Education Resources
-
 # Clinical Psychology
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-
-By accessing this site you agree to the licence agreement.
+{% include CCBadge.md %}
 
 <details open markdown="block">
   <summary>

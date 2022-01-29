@@ -14,6 +14,8 @@ permalink: /tools
 - (Arbeitsblätter)
 - compressed knowledge units → Chunks
 - espresso ☕️
+- shorts 🩳
+	- For some articles a short plain language summary is available.
 - [Periodensystem der Störungen](/res/tools/pds)
 
 ## Blueprints 📑

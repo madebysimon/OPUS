@@ -5,7 +5,6 @@ has_children: false
 ---
 
 # Crisis Resources 🚨
-
 {% include emergency-disclaimer.md %}
 
 ### quick links
