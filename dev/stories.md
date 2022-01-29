@@ -1,5 +1,4 @@
 ---
-parent: Our Approach
 title: Case Studies
 nav_exclude: true
 ---

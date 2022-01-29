@@ -1,5 +1,6 @@
 ---
 nav_order: 30
+parent: Services
 title: Our Approach
 has_children: false
 permalink: approach
