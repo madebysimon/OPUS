@@ -4,9 +4,6 @@
 
 ---
 
-**Here is what I took from Uni**
-
----
 
 to get around the notes being WORN – written once read never
 
@@ -29,8 +26,6 @@ assessment
 
 concierge program
 
-
-
 About us
 - Home
 - Team
@@ -41,7 +36,6 @@ About us
     - Links
 Assessment
 Concierge Program
-
 
 - Psychological Testing
 - Neuropsychological Assessment

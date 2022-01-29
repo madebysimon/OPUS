@@ -5,7 +5,6 @@ nav_order: 51
 ---
 
 # For Clients
-
 # Phone
 You are welcome to call us within office hours (monday to friday, 9 - 16hrs)
 
@@ -18,11 +17,11 @@ business contact →
 ---
 
 
-### be our guest
 # Locations
+be our guest
 
-## Maia HQ Hamburg
-Maia Mental Health
-c/o Kelch
-Dorotheenstraße 184
+## Maia HQ
+Maia Mental Health<br>
+c/o Kelch<br>
+Dorotheenstraße 184<br>
 22299 Hamburg, Germany

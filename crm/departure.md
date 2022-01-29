@@ -5,10 +5,8 @@ title: Departure
 ---
 
 # Auf Wiedersehen!
-
 > It’s a small world.
 > Wir freuen uns über ein Wiedersehen.
-
 
 
 ## Prophylaxe ♻️

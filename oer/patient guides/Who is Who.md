@@ -76,3 +76,5 @@ To become a psychotherapist - an approbated health professional  - one has to ru
 3. **State License** ("Kassensitz")
 -  the costs for psychotherapeutical work with clients is refunded by the public health system
 4. **mandatory ongoing further education** and evaluation
+
+{% include comments.md %}

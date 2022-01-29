@@ -4,11 +4,12 @@ nav_order: 98
 ---
 # Feedback Ballot 📮
 
-[buy me a ☕️ (via paypal)](//paypal.me/SimonKelch/2){: .btn }
+[paypal me a ☕️ ](//paypal.me/SimonKelch/2){: .btn }
+
 or look into donating to these causes:
-- [Unicef ↗](https://www.unicef.org) (international)
-- [German Red Cross ↗](https://www.drk.de) (germany)
-- [the social surfclub ↗](https://thesocialsurfclub.org) (local to the Hamburg area)
+- [Unicef ↗](https://www.unicef.org)
+- [German Red Cross ↗](https://www.drk.de)
+- [the social surfclub ↗](https://thesocialsurfclub.org)
 
 ---
 Got Feedback? Comment below (or send me an [✉️  mail ↗](mailto: simon@maiahealth.de))

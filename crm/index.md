@@ -6,10 +6,8 @@ has_toc: false
 ---
 / Portal
 
-# Klient/in werden →
+# [Klient/in werden →](welcome.maiahealth.de)
 Termin Buchen (Sprechstunde/Warteliste)
-booking.kelchmentalhealth.de
-
 request an appointment
 
 
@@ -17,12 +15,12 @@ Ihre Sprechstunde:
 Ihr persönlicher Ansprechpartner wird Sie vor Ort begrüßen.
 
 
-# Ich bin bereits Klient/in →
+# [Ich bin bereits Klient/in →](booking.maiahealth.de)
 Haben Sie einen Code? Bitte geben Sie ihren Code in der Suchleise ein, um zu weiterführendem (u.a. Therapie-) material zu gelangen.
 
 Termine verwalten → 
 
 
-# For Clients
+# [Für Behandelnde →](/res)
 
-# Für Behandelnde →
+# [Für Studierende ->](/oer)

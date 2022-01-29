@@ -10,4 +10,4 @@ we‘re the new kid on the block
 We built this page to keep you closer.
 Follow our socials to be notified as soon as we are ready to share our vision.
 
-[instagram]()
+[maia health on instagram ↗](instagram.com/maiahealthde/)
