@@ -4,11 +4,15 @@ title: about
 nav_order: 41
 ---
 
-> Achtung! Inhalte dieser Seite ersetzen weder Einschätzung noch Therapie durch qualifiziertes Fachpersonal. Auch handelt es sich nicht um klinische Leitlinien.
-
 # About OPUS
 Maia edX is a knowledgebase on all things psychology made available to the public by Maia Health.
 Freely accessible for the good of everybody.
+
+<div class="code-example" markdown="1">
+
+Achtung! Inhalte dieser Seite ersetzen weder Einschätzung noch Therapie durch qualifiziertes Fachpersonal. Auch handelt es sich nicht um klinische Leitlinien.
+
+</div>
 
 # How this came to be
 I grew tired of my lecture notes sitting dead on their hard drive, so I started revisiting and interconnecting them to a knowledge base (initially intended for an audience of one). With this website I am sharing access to this resource with you. Maybe we can get some good use out of it together.

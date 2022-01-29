@@ -1,10 +1,9 @@
 ---
 layout: default
-title: maia edX
-parent: Resources
+title: Maia edX
 nav_exclude: false
 nav_order: 44
-has_children: false
+has_children: true
 has_toc: true
 permalink: /edx
 ---

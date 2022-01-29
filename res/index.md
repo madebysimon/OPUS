@@ -3,7 +3,7 @@ title: Patient Resources
 nav_order: 40
 has_children: true
 ---
-Open Education Resources
+
 # Patient Ressources
 
 <details open markdown="block">
