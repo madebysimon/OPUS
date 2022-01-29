@@ -5,7 +5,7 @@ title: arrivals
 permalink: /onboarding
 ---
 #### 🛬 arrivals
-
+<br>
 Day one is exciting enough.
 Let's get you ready for your first session.
 
@@ -43,3 +43,7 @@ What led you to consider therapy today
 
 > This is a preliminary question to understand what you are going through, you will have more opportunities to explain or elaborate on your feelings and challenges later on.
 
+
+---
+	- Ihr persönlicher Ansprechpartner wird Sie vor Ort begrüßen.
+	

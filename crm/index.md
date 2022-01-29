@@ -7,23 +7,18 @@ has_toc: false
 
 # Kundenportal 
 ### Klient/in werden
-[Psychotherapie →](//welcome.maiahealth.de){: .btn }
+[Psychotherapie →](//welcome.maiahealth.de){: .btn }<br>
 [Psychologische Beratung →](//welcome.maiahealth.de){: .btn }
 
+Infos zur Sprechstunde/Warteliste
 
 ### Ich bin bereits Klient/in
-[Termine verwalten →](//booking.maiahealth.de){: .btn }
+[Termine verwalten →](//booking.maiahealth.de){: .btn }<br>
 [Code eingeben→](//portal.maiahealth.de){: .btn }
 
 
-[]Termin Buchen (Sprechstunde/Warteliste) / request an appointment
-
-- Ihre Sprechstunde:
-	- Ihr persönlicher Ansprechpartner wird Sie vor Ort begrüßen.
-
 Haben Sie einen Code? Bitte geben Sie ihren Code in der Suchleise ein, um zu weiterführendem (u.a. Therapie-) material zu gelangen.
 
-Termine verwalten →
 
 ---
 
