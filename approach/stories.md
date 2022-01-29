@@ -1,7 +1,7 @@
 ---
 parent: Our Approach
 title: Case Studies
-nav_order: 31
+nav_exclude: true
 ---
 
 # Our Customers / Why Therapy

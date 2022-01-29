@@ -1,7 +1,7 @@
 ---
 nav_order: 30
 title: Our Approach
-has_children: true
+has_children: false
 ---
 # choose the Maia Health Experience
 > meet the next generation psychotherapy
