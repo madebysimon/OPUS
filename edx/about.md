@@ -1,6 +1,6 @@
 ---
 parent: Maia edX
-title: about
+title: About
 nav_order: 41
 ---
 
