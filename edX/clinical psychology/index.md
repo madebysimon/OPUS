@@ -2,7 +2,7 @@
 layout: default
 title: Clinical Psychology
 nav_order: 1
-parent: Collections (OER)
+parent: maia edX
 author: simon
 contributors: Theodor, Sybille, Anjel
 published: 7.10.21

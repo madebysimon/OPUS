@@ -15,7 +15,7 @@ advising and programs
 All the things you would expect
 Was Sie erwarten dürfen / dürften
 
-- \+ 🧑‍🏫 MaiaEDX Ressourcen (Open Access)
+- \+ 🧑‍🏫 Maia edX Ressourcen (Open Access)
 - \+ ⚡️ Spark Resilienztraining
 - \+ Digital Mental Health Guidelines
 - Gastfreundschaft: complimentary fruit and coffee

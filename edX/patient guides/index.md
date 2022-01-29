@@ -3,7 +3,7 @@ layout: default
 title: Patient Guides
 nav_order: 2
 grandparent: Resources
-parent: Collections (OER)
+parent: maia edX
 author: simon
 contributors:
 published: 21.10.21

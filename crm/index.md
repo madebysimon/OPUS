@@ -23,4 +23,4 @@ Haben Sie einen Code? Bitte geben Sie ihren Code in der Suchleise ein, um zu wei
 ---
 
 #### [Für Behandelnde →](/res)
-#### [Für Studierende →](/oer)
+#### [Für Studierende →](/edX)

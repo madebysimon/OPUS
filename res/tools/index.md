@@ -4,6 +4,7 @@ parent: Resources
 nav_exclude: false
 nav_order: 42
 title: Tools
+permalink: /tools
 ---
 
 # Knowledge Bar / Resources ⚛️

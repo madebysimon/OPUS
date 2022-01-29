@@ -1,15 +1,14 @@
 ---
 layout: default
-title: Collections (OER)
+title: maia edX
 parent: Resources
 nav_exclude: false
 nav_order: 44
 has_children: false
 has_toc: true
-permalink: /oer
+permalink: /edX
 ---
 <p class="label label-yellow">academic</p>
-#academic / #EdX
 # Open Education Resources
 
 Content from this site is free to use for educational/academic purposes. 
