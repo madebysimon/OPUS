@@ -12,10 +12,6 @@ parent: sos
 > **If you or someone you know is experiencing an emergency or crisis and needs immediate help, place a [distress call to ✆911 ↗](tel: 911) now or go to the [nearest emergency room ↗](//maps.apple.com/?q=emergency-rooms)** <br><br>
 > Additional crisis resources can be found below.
 
-[Someone else needs my help. →](/sos#help-someone-in-a-crisis)
-
-[I need help with my child. →](#children)
-
 ---
 
 all countries currently listed:
@@ -25,6 +21,8 @@ all countries currently listed:
 | Asia | [🇭🇰](#hongkong) [🇮🇳](#india) [🇮🇱](#israel) [🇸🇬](#singapore) [🇰🇷](#south-korea) [🇹🇼](#taiwan) |
 | North & South America | [🇨🇦](#canada) [🇲🇽](#mexico) [🇺🇸](#united-states) |
 | Oceania | [🇦🇺](#australia) [🇳🇿](#new-zealand) |
+
+---
 
 unlisted? see [wikimedia ↗](//meta.wikimedia.org/wiki/Mental_health_resources) or [telefonseelsorge↗](https://www.telefonseelsorge.de/international-helplines/#australia)
 [Suicidestop ↗](https://www.suicidestop.com/suicide_prevention_chat_international.html)

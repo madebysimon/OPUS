@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: feedback
 nav_order: 98
 ---
 # Feedback Ballot 📮

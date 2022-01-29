@@ -48,7 +48,7 @@ complimentary services
 - \+ Digital Mental Health Guidelines
 - \+ Gruppentherapie
 
-## ◼️ Maia Black
+## ◼️ Maia Black [request pricing and availability](booking.maiahealth.de){: .btn} 
 - Concierge Service
 	- therapy-on-demand within 24h
 	- therapy-on-premises
@@ -57,7 +57,7 @@ complimentary services
 	- advisory services
 	- in-house multidisciplinary care teams
 
-[request pricing and availability](booking.maiahealth.de){: .btn} 
+
 
 ---
 

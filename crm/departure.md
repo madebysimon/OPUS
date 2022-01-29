@@ -5,21 +5,24 @@ title: Departure
 ---
 
 # Auf Wiedersehen!
-> It’s a small world.
-> Wir freuen uns über ein Wiedersehen.
+It’s a small world. <br>
+Wir freuen uns über ein Wiedersehen.
 
-
+Bitte lassen Sie uns [Feedback](/feedback)
 ## Prophylaxe ♻️
-Beyond maia
+there is a time beyond maia
 
 Bridge the gap
+
 → Betroffenen-Gruppen
+
 → Präventionstools
 
-> Verbindet Betroffene … und Helfer
-> …und Angehörige
-> …mit Betroffenen
+> Verbindet Betroffene<br>
+> … und Helfer<br>
+> …und Angehörige<br>
+> …mit Betroffenen<br>
 
 ---
-> If you have enough confidence in your product you'll assume people use it because it’s good and not because they can't get out
+> If you have enough confidence in your product you'll assume people use it because it’s good and not because they can't get out.
 
