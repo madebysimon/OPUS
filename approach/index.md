@@ -2,8 +2,9 @@
 nav_order: 30
 title: Our Approach
 has_children: false
+permalink: approach
 ---
-# choose the Maia Health Experience
+# Choose the Maia Health Experience
 > meet the next generation psychotherapy
 
 every path is different
@@ -87,8 +88,4 @@ Quadruple aim
 1. patient experience
 2. population health
 3. reducing costs
-4. care-team-wellbein
-
----
-
-# Stories / our customers / case studies
+4. care team well-being

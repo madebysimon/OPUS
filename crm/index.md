@@ -7,10 +7,14 @@ has_toc: false
 
 # Kundenportal 
 ### Klient/in werden
-[Klient/in werden →](//welcome.maiahealth.de){: .btn }
+[Psychotherapie →](//welcome.maiahealth.de){: .btn }
+[Psychologische Beratung →](//welcome.maiahealth.de){: .btn }
+
 
 ### Ich bin bereits Klient/in
 [Termine verwalten →](//booking.maiahealth.de){: .btn }
+[Code eingeben→](//portal.maiahealth.de){: .btn }
+
 
 []Termin Buchen (Sprechstunde/Warteliste) / request an appointment
 
