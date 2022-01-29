@@ -2,9 +2,10 @@
 parent: Customer Relations
 nav_exclude: true
 title: Departure
+permalink: /departure
 ---
 
-# Auf Wiedersehen!
+# Auf Wiedersehen! 
 It’s a small world. <br>
 Wir freuen uns über ein Wiedersehen.
 

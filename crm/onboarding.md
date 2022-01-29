@@ -1,11 +1,13 @@
 ---
 nav_exclude: true
 parent: Customer Relations
-title: Arrivals
+title: arrivals
+permalink: /onboarding
 ---
+#### 🛬 arrivals
 
-Onboarding for Clients
 Day one is exciting enough.
+Let's get you ready for your first session.
 
 # Welcome 🔖
 

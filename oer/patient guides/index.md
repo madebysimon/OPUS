@@ -2,6 +2,7 @@
 layout: default
 title: Patient Guides
 nav_order: 2
+grandparent: Resources
 parent: Collections (OER)
 author: simon
 contributors:

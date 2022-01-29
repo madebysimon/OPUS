@@ -1,6 +1,7 @@
 ---
 parent: Customer Relations
 title: Contact
+permalink: /contact
 nav_order: 51
 ---
 
@@ -12,9 +13,6 @@ You are welcome to call us within office hours (monday to friday, 9 - 16hrs)
 To be called back, please leave a message (make sure to include your name and number).
 
 business contact →
-
-
----
 
 
 # Locations
