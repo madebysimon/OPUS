@@ -1,6 +1,7 @@
 ---
 nav_exclude: true
 title: Imprint
+permalink: /impressum
 ---
 
 # Impressum

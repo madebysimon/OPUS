@@ -5,8 +5,8 @@ has_children: true
 has_toc: false
 ---
 
-# Kundenportal
-[Klient/in werden →](//welcome.maiahealth.de){: .btn }
+# Kundenportal 
+## blabla [Klient/in werden →](//welcome.maiahealth.de){: .btn }
 - Termin Buchen (Sprechstunde/Warteliste) / request an appointment
 
 - Ihre Sprechstunde:

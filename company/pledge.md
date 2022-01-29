@@ -4,7 +4,8 @@ title: Our Pledge
 nav_order: 73
 ---
 
-# Our Pledge To Open Source
+# Our Pledge
+## To Open Source
 
 Pretty early in my life I was told
 > "If you're good at something never do it for free."

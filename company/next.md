@@ -1,6 +1,7 @@
 ---
 parent: Company
 title: maia next Competition
+permalink: /maia-next
 nav_order: 74
 ---
 
