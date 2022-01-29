@@ -2,7 +2,7 @@
 parent: Company
 title: Our Pledge
 nav_order: 73
-permalink: /pledge#to-open-source
+permalink: /pledge
 ---
 
 # Our Pledge
