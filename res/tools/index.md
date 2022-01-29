@@ -18,7 +18,7 @@ Bitte kontaktieren Sie uns, um Zugang zu erhalten.
 - (Arbeitsblätter)
 - compressed knowledge units → Chunks
 - espresso ☕️
-- [Periodensystem der Störungen](/tools/pds)
+- [Periodensystem der Störungen](/res/tools/pds)
 
 ## Blueprints 📑
 - emergency skill kit 🧯
