@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Who is Who
-nav_order: 42
-parent: Patient Resources
+grandparent: Patient Resources
+parent: Tools
 author: Simon Kelch
 contributors: none
 published: 21.10.21

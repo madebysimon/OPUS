@@ -15,5 +15,5 @@ Blueprints, "cookbooks" and other reference material
 - espresso ☕️
 - shorts 🩳
 	- For some articles a short plain language summary is available.
-- [Periodensystem der Störungen](/res/tools/pds)
+- [Periodensystem der Störungen](pds.md)
 
