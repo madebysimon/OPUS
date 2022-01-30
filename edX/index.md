@@ -8,8 +8,8 @@ has_toc: true
 permalink: /edx
 ---
 <p class="label label-yellow">academic</p><p class="label label-blue">open access</p>
-# maia EdX Open Education Resources
-
+# Open Education Resources
+## maia EdX
 Let's build the education of tomorrow.<br>
 Content from this site is licenced free-to-use for non-commercial educational purposes.<br>
 {% include CCBadge.md %}

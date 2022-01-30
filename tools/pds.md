@@ -2,7 +2,6 @@
 layout: default
 nav_exclude: true
 parent: Tools
-grandparent: Patient Resources
 title: Periodensystem der Störungen
 ---
 # Periodensystem der Störungen

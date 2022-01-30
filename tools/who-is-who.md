@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Who is Who
-grandparent: Patient Resources
 parent: Tools
 author: Simon Kelch
 contributors: none

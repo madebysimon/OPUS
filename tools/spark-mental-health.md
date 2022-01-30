@@ -1,7 +1,6 @@
 ---
 nav_exclude: false
 parent: Tools
-grandparent: Patient Resources
 title: Spark Mental Health
 ---
 
