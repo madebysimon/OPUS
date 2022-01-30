@@ -9,11 +9,12 @@ permalink: /edx
 ---
 <p class="label label-yellow">academic</p><p class="label label-blue">open access</p>
 # Open Education Resources
-## maia EdX
+
+<div class="code-example" markdown="1">
 Let's build the education of tomorrow.<br>
 Content from this site is licenced free-to-use for non-commercial educational purposes.<br>
 {% include CCBadge.md %}
-
+</div>
 
 Lectures in 2022 have a single flaw leading to subpar content: most of them are created closed source.
 This leads to
