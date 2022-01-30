@@ -7,13 +7,12 @@ has_children: true
 has_toc: true
 permalink: /edx
 ---
-<p class="label label-yellow">academic</p><br>
-<p class="label label-blue">open access</p>
-
+<p class="label label-yellow">academic</p><p class="label label-blue">open access</p>
 # maia EdX Open Education Resources
 
-Let's build the education of tomorrow.
-Content from this site is licenced free-to-use for non-commercial educational purposes.
+Let's build the education of tomorrow.<br>
+Content from this site is licenced free-to-use for non-commercial educational purposes.<br>
+{% include CCBadge.md %}
 
 
 Lectures in 2022 have a single flaw leading to subpar content: most of them are created closed source.

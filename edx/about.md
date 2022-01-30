@@ -41,9 +41,6 @@ Also.. **no ads**. We hate them as much as you do.
 
 ---
 
-Most articles contain an abstract of the content in shortform and an extensive section in longform.
-Depending on the nature of the article a version in common words is provided. It is marked
-<p class="label label-blue">E</p>
-for "Easy Language" ("E" wie "einfache Sprache").
-
-In articles targeted specifically to mental health professionals ("PRO") look for sections called "explain like I’m five" where I'm trying to break down the content.
+- Most articles contain an abstract of the content in shortform and an extensive section in longform.
+- Depending on the nature of the article a version in common words (marked "Easy Language") is provided.
+- In articles targeted specifically to mental health professionals ("PRO") look for sections called "explain like I’m five" where I'm trying to break down the content.

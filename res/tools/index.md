@@ -2,29 +2,18 @@
 layout: default
 parent: Patient Resources
 nav_exclude: false
-nav_order: 42
+nav_order: 41
 title: Tools
 permalink: /tools
 ---
 
-# Knowledge Bar / Resources ⚛️
+## Toolkits 🔖 
+Blueprints, "cookbooks" and other reference material
+- worksheets
 
-# Toolkits 🔖 
-
-- (Arbeitsblätter)
 - compressed knowledge units → Chunks
 - espresso ☕️
 - shorts 🩳
 	- For some articles a short plain language summary is available.
 - [Periodensystem der Störungen](/res/tools/pds)
 
-## Blueprints 📑
-- emergency skill kit 🧯
-- Infographics
-- Reports
-
----
-
-Liebe Kolleg/innen,
-wir stellen unsere Weiterentwicklungen und Materialien in vielen Fällen kostenlos zur Verfügung.
-Bitte kontaktieren Sie uns, um Zugang zu erhalten.
