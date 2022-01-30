@@ -30,7 +30,7 @@ Too expensive? -> request pro bono
 - Resilienztraining, Mental Load & Stressmanagement, Digital Mental Health
 
 ### ③ trio / ◼️ Maia Black
-[request pricing and availability](booking.maiahealth.de){: .btn} 
+[request pricing and availability](//booking.maiahealth.de){: .btn} 
 - Concierge Service
 	- therapy-on-demand within 24h
 	- therapy-on-premises
@@ -43,5 +43,4 @@ Too expensive? -> request pro bono
 
 
 ## for teams & organisations
-→ Get a Quote
-
+→ [get a quote](mailto: hello@maiahealth.de){: .btn}
