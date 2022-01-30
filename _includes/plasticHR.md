@@ -1,15 +1,3 @@
----
-title: <Hr>Test
-nav_exclude: true
----
-this article is written for mental health professionals
-
-# HR Test
-Pro
-{: .label }
-
-This is a paragraph.
-
 <html>
 <style>
 hr {
@@ -37,5 +25,3 @@ hr:after {
 </style>
 <hr>
 </html>
-
-This is another.

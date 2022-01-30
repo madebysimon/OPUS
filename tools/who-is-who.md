@@ -40,9 +40,7 @@ See my chart comparing common professions below.
 
 in Germany treatment of mental diagnoses is allowed only
 
-1. **approbated health professionals** (i.e. doctors/"Ärzte" and psychotherapists/"Psychotherapeuten")
-		- who are explicitly recognized and listed by the law
-
+1. **approbated health professionals** (i.e. doctors – "Ärzte" and psychotherapists – "Psychotherapeuten") who are explicitly recognized and listed by the law
 2. anyone who obtains a legal permission/status of "Heilpraktiker/in für Psychotherapie"
 		- after obtaining this status carrying out privately funded treatment as profession is legalized
 		- is given out depending on state-level legislation, but mostly after an exam by the health department 

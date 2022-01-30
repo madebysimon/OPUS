@@ -15,9 +15,10 @@ has_children: true
 - Infographics
 - Reports
 
-## Well-Being Resources
+## Well-Being 🌱
 
-## Useful links regarding patient rights
+## Patient rights
+### Useful links regarding patient rights
 - **Infoblatt für Patientenrechte** of the **Bundesministerium für Justiz**
 	- [↓ download paper (pdf)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/P/Praevention/Infoblatt_Patientenrechte.pdf)
 		- 2 Seiten, nicht barrierefrei
@@ -32,12 +33,4 @@ has_children: true
 
 ---
 
-siehe auch [FAQ →](./faq)
-
----
-
-Liebe Kolleg/innen,
-wir stellen unsere Weiterentwicklungen und Materialien in vielen Fällen kostenlos zur Verfügung.
-Bitte kontaktieren Sie uns, um Zugang zu erhalten.
-
-{% include authorcard.md %}
+siehe auch [FAQ →](/faq)

@@ -17,3 +17,6 @@ Blueprints, "cookbooks" and other reference material
 	- For some articles a short plain language summary is available.
 - [Periodensystem der Störungen](pds.md)
 - [Periodensystem der Störungen](/tools/who-is-who)
+
+- [spark resiliency training](/tools/spark-mental-health/)
+- [who-is-who in psychotherapy](/tools/who-is-who/)

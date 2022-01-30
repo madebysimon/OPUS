@@ -5,7 +5,6 @@ permalink: /join
 nav_order: 72
 ---
 # Apply to join or partner with us
-
 ## Join our team building tomorrow’s therapy
 Maia Health was started as a one-man-army and our team has since grown to the size of \_
 ([meet the team ↗](/team)). 

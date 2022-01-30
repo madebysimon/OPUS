@@ -7,14 +7,11 @@ nav_order: 71
 # Our Ethics and Values
 
 Zeiten ändern sich, Werte bestehen – auch in der digitalen Welt.
-
 →  ♿ read in easy language
 
-      
 **See how we back our claims.**
 
 building strong voices
-
 
 Diversity, Equity & Inclusion
 

@@ -1,6 +1,6 @@
 ---
 title: Events
-parent: company
+parent: Company
 nav_order: 74
 ---
 

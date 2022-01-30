@@ -312,3 +312,8 @@ permalink: /faq
 
 
 ## Wann Therapie?
+
+## Nutzung
+Liebe Kolleg/innen,
+wir stellen unsere Weiterentwicklungen und Materialien in vielen Fällen kostenlos zur Verfügung.
+Bitte kontaktieren Sie uns, um Zugang zu erhalten.
