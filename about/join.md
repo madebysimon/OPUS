@@ -1,8 +1,8 @@
 ---
-parent: Company
+parent: About
 title: Join or Partner
 permalink: /join
-nav_order: 72
+nav_order: 73
 ---
 # Apply to join or partner with us
 ## Join our team building tomorrow’s therapy

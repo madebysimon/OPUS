@@ -1,9 +1,8 @@
 ---
-parent: Company
+parent: About
 title: Company Culture
 nav_order: 71
 ---
-
 # Our Ethics and Values
 
 Zeiten ändern sich, Werte bestehen – auch in der digitalen Welt.

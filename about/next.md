@@ -1,11 +1,10 @@
 ---
-grandparent: Company
+grandparent: About
 parent: Events
 title: maia next Competition
 permalink: /maia-next
 nav_exclude: true
 ---
-
 # maia next
 ## Sign up for our bi-anual Hackathon!
 

@@ -1,10 +1,9 @@
 ---
-parent: Company
+parent: About
 title: Our Pledge
-nav_order: 73
+nav_order: 74
 permalink: /pledge
 ---
-
 # Our Pledge
 ## to Open Source
 This site is organized in the open on GitHub.
