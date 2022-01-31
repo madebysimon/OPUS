@@ -33,7 +33,7 @@ To avoid hits in plagiarism software make sure to include the primary sources (s
 ---
 
 # About EdX
-Maia edX is a knowledgebase on all things psychology made available to the public by Maia Health.
+Maia edX is a curated knowledgebase on all things psychology made available to the public by Maia Health.
 Freely accessible for the good of everybody.
 
 <div class="code-example" markdown="1">
@@ -45,15 +45,17 @@ I grew tired of my lecture notes sitting dead on their hard drive, so I started 
 
 This is not wikipedia. Here you will find memes and scientific method, definitions and concepts, sometimes personal opinion or even pure speculation. This comes with a catch:<br>
 1. they're 90% german (entschuldigung) [^1]
-2. what I hold to be true may not in fact be true
-3. while some content is of my own, in other cases I am merely something of a collector / curator
+2. they're subjective as what I believed to be true may not in fact be true
+3. some information may be outdated
+
+While some content is of my own, in other cases I am merely something of a collector / curator.
 
 [^1]: Sometimes they’re even written in some sort of hybrid English/German style. Don't sweat it, your browser translate-feature should be able to take it.
 
 **Please cite and give credit** to any given sources or - if none are provided - link back to the article.  [help provide sources →](/feedback)
 <br>
 
-Read more about our pledge to open source [here](/pledge#to-open-source).
+Read more about our pledge to open source and education [here](/pledge).
 
 > Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
 > By working behind closed doors, you miss out on a lot of valuable feedback.
@@ -68,3 +70,5 @@ This page **does not track** your visit - not a single cookie. <br>
 Also.. **no ads**. We hate them as much as you do.
 
 ---
+With compliments.
+(Insert awards)

@@ -20,6 +20,8 @@ Open Data ist nur dann Sinnvoll, wenn alle die Software zum lesen besitzen
 
 
 ---
+## to Open Knowledge
+As long as education is treated like a commodity or an asset it will be traded and made unavailable to parts of our society. And If education is unavailable, we generate high costs of missed opportunity and socio-political division.
 
-
-
+###
+our knowledgebase is held in plain text and machine-interpretable

@@ -11,6 +11,11 @@ permalink: /tools
 Blueprints, "cookbooks" and other reference material
 - worksheets
 
+- Knowledgebites
+	- modular, open source psychoedukation
+	- bite-sized, inquiry-based, fun, and measurable.
+	- Störungsübergreifende Module mit Kontext- & Inhaltssensitiven Modifikationen
+	- kuratierte "Playlists" zu den einzelnen Diagnosen & Diagnosekombinationen
 - compressed knowledge units → Chunks
 - espresso ☕️
 - shorts 🩳

@@ -23,5 +23,25 @@ Open Education Resources
 
 ---
 
+## Modules
+Statistik I
+Statistik II
+IBM SPSS
+Wissenschaftliches Arbeiten
+Klinische Psychologie
+Gesundheitspsychologie
+
+---
+
+### Standing on the shoulders of giants
+Without the these people the knowledgebase wouldn't exist in its form.
+
+---
+
+Shared Learning
+→ Learning Pools
+→ Discussion Rooms
+→ Export to Anki (Open Source Flash Card)
+
 
 {% include authorcard.md %}
