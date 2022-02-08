@@ -3,7 +3,7 @@
  > THIS ARTICLE IS OUT FOR REVIEW
 
 ---
-
+Mein Ansatz zum ganzheitlichen lernen - out in the open.
 
 to get around the notes being WORN – written once read never
 

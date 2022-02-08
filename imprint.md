@@ -12,9 +12,7 @@ Kontakt: [simon@maiahealth.de](mailto: simon@maiahealth.de)
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Simon Kelch<br>
-Dorotheenstraße 184<br>
-22299 Hamburg
+// Adresse
 
 
 **Der Nutzung von** im Rahmen der Impressumspflicht veröffentlichten **Kontaktdaten** durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien **wird hiermit ausdrücklich widersprochen.**<br>
