@@ -28,6 +28,10 @@ If you ever wish to return to this page, click the logo to your upper left.
 
 Currently our **knowledge base is still closed** to the public as we're trying to figure out how to ensure intellectual property and handle copyright in user submitted content.
 
+Inline [^1] footnote test
+
+[^1]: This is the first footnote.
+
 <html>
   <head>
     <style>
