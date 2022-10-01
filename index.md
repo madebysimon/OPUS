@@ -4,13 +4,13 @@ title: HomeEN
 image: /assets/img/quote.png
 logo: /assets/page/logo.svg
 tagline: "an open access knowledge base"
-description: "OPUS is a Knowledgebase on all things psychology made available to the public by Maia Health."
-author: Maia Health
+description: "OPUS is a Knowledgebase on all things psychology made available to the public."
+author: Simon Kelch
 ---
 
 Early Access
 {: .label .label-yellow }
-# Welcome to OPUS 👋🏼
+# Welcome to Psychnotes 👋🏼
 {: .fs-9 }
 This site is still under construction 🚧<br>
 Feel free to sneak around (or come back later).<br>

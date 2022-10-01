@@ -5,13 +5,12 @@ permalink: /impressum
 ---
 
 # Impressum
+Kontakt: hello@psychnotes.de
 
 ## Angaben gemäß § 5 TMG
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV 
 
-Kontakt: [simon@maiahealth.de](mailto: simon@maiahealth.de)
-
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-
+// Name
 // Adresse
 
 
