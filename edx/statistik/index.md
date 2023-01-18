@@ -2,7 +2,8 @@
 layout: default
 title: Statistics
 nav_order: 1
-parent: Statistics
+permalink: /stat
+parent: edx
 author: Simon Kelch
 contributors: 
 published: 7.10.21

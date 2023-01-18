@@ -2,8 +2,8 @@
 layout: default
 title: Zusammenhangsmaße
 nav_order: 1
-parent: zusammenhänge
-grand_parent: statistik
+parent: statistik
+grand_parent: edx
 has_children: true
 has_toc: true
 ---
