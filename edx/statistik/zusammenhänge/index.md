@@ -8,7 +8,9 @@ has_children: true
 has_toc: true
 ---
 
-this is the parent page - see frontmatter
+# Zusammenhangshypothesen
+
+
 
 # hello world
 Welcome to my first note
