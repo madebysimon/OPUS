@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maia edX
+title: Psychnotes edX
 nav_exclude: false
 nav_order: 44
 has_children: true
@@ -13,8 +13,6 @@ permalink: /edx
 
 <div class="code-example" markdown="1">
 Let's build the education of tomorrow.<br>
-Content from this site is licenced free-to-use for non-commercial educational purposes.<br>
-{% include CCBadge.md %}
 </div>
 
 Lectures in 2022 have a single flaw leading to subpar content: most of them are created closed source.
@@ -26,15 +24,8 @@ This leads to
 Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout this century. And by working behind closed doors, you miss out on a lot of valuable feedback.
 read more
 
----
-
-To avoid hits in plagiarism software make sure to include the primary sources (see footnotes) and quote the article.
-
----
-
-# About EdX
-Maia edX is a curated knowledgebase on all things psychology made available to the public by Maia Health.
-Freely accessible for the good of everybody.
+# About
+Psychnotes is a curated knowledgebase on all things psychology made available to the public, freely accessible for the good of everybody.
 
 <div class="code-example" markdown="1">
 Achtung! Inhalte dieser Seite ersetzen weder Einschätzung noch Therapie durch qualifiziertes Fachpersonal. Auch handelt es sich nicht um klinische Leitlinien.
@@ -60,12 +51,11 @@ Read more about our pledge to open source and education [here](/pledge).
 > Distinguishing yourself by clinging onto knowledge and mystifying your craft should no longer be a thing throughout the 2020s.
 > By working behind closed doors, you miss out on a lot of valuable feedback.
 
-Yours <br><br>
-**Simon** <br>
-CX @maıahealth
+Yours <br>
+**Simon**
 
 PS: <br>
-We take your **privacy** serious (as in: by actually doing it). <br>
+We take your **privacy** serious (as in: by actually doing it).<br>
 This page **does not track** your visit - not a single cookie. <br>
 Also.. **no ads**. We hate them as much as you do.
 

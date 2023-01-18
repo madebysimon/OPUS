@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Diagnostics
+title: Zusammenhangsmaße
 nav_order: 1
-parent: Clinical Psychology
-grand_parent: Maia edX
+parent: zusammenhänge
+grand_parent: statistik
 has_children: true
 has_toc: true
 ---
